@@ -386,9 +386,8 @@ TRANSIENT = {500, 502, 503, 504, "TimeoutError", "URLError", "RemoteDisconnected
 
 
 def url_ok(url):
-    """True when the URL resolves, False when it is broken, None when the site blocks automated checks.
-
-    Slow or briefly failing sites (sched.com pages can take 20 seconds) get one retry."""
+    """True when the URL resolves, False when it is broken, None when the site blocks automated
+    checks or is down (5xx after a retry). Slow sites, like sched.com pages, get one retry."""
     if re.search(r"youtube\.com/watch|youtu\.be/", url):
         url = "https://www.youtube.com/oembed?format=json&url=" + urllib.parse.quote(url, safe="")
     result = (False, "?")
@@ -397,6 +396,8 @@ def url_ok(url):
         if result[0] is not False or result[1] not in TRANSIENT:
             return result
         time.sleep(5)
+    if result[1] in (500, 502, 503, 504):
+        return None, result[1]  # the server is down for now, which doesn't prove the link is dead
     return result
 
 
@@ -482,7 +483,8 @@ def cmd_check(a):
             for u in sorted(set(urls_of(t))):
                 ok, status = url_ok(u)
                 if ok is None:
-                    warns.append(f"{t['_rel']}: {u} blocks automated checks ({status}); open it by hand")
+                    why = "is unavailable right now" if status in (500, 502, 503, 504) else "blocks automated checks"
+                    warns.append(f"{t['_rel']}: {u} {why} ({status}); open it by hand")
                 elif not ok:
                     errs.append(f"{t['_rel']}: {u} returned {status}")
             r = (t.get("slides") or {}).get("release")
