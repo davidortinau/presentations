@@ -1,0 +1,9 @@
+# Decks are GitHub release assets, never files in git.
+*.pptx
+*.ppt
+*.potx
+*.key
+~$*
+.DS_Store
+_staging/
+__pycache__/
