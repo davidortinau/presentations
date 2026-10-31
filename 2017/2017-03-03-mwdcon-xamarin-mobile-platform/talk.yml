@@ -1,0 +1,41 @@
+slug: 2017-03-03-mwdcon-xamarin-mobile-platform
+title: 'Xamarin Mobile Platform: Compromise less, deliver more'
+date: '2017-03-03'
+time: '13:00'
+length_min: 45
+event: Mobile+Web Developer Conference 2017
+event_url: https://web.archive.org/web/20170503020423/http://mobilewebdevconference.com/san-francisco-2017/agenda
+venue: Marines' Memorial Club & Hotel
+city: San Francisco, United States
+format: talk
+session_url: https://web.archive.org/web/20171107144413/http://mobilewebdevconference.com/san-francisco-2017/speakers/dave-ortinau
+abstract: |-
+  Xamarin is delivering on the hopes and promises of a cross platform mobile solution. Apps look and feel native on iOS and Android for the simple reason that they are. With a history going as far back as the origin of the Mono Project in 2001, Xamarin is not a new sensation. A time tested set of tools, open source frameworks, and runtimes, Xamarin continues to push boundaries of innovation. Their motto is to delight developers, helping them do more and sacrifice less. How does this work?
+
+  In this session we will dive into how Xamarin delivers app experiences that maximize developer talent and resources while limiting sacrifices to designers, users, and the businesses dependent upon them.
+
+  - Maximize code sharing: 60% and even 90% or greater, and why that’s important
+  - What is Xamarin.Forms and when should you use it
+  - Wearables and other extensions
+  - HockeyApp, TestCloud and more
+  - A year in the life using Xamarin — what it's like to work through release cycles from Xamarin as well as Apple and Google
+
+  Since 2012, Rendr’s team has been delivering high quality mobile applications using Xamarin for clients from startup to Fortune 100.
+abstract_source: https://web.archive.org/web/20170503020423/http://mobilewebdevconference.com/san-francisco-2017/agenda
+abstract_source_label: Conference agenda (Internet Archive copy)
+slides:
+  also_at:
+  - label: Slides on Speaker Deck (Realm)
+    url: https://speakerdeck.com/realm/dave-ortinau-xamarin-mobile-platform-compromise-less-deliver-more
+recorded: unknown
+note: Realm recorded this talk, but the video is now private.
+tags:
+- xamarin
+- xamarin-forms
+- mobile
+- cross-platform
+sources:
+- https://web.archive.org/web/20170503020423/http://mobilewebdevconference.com/san-francisco-2017/agenda
+- https://web.archive.org/web/20171107144413/http://mobilewebdevconference.com/san-francisco-2017/speakers/dave-ortinau
+- https://web.archive.org/web/20161115181456/http://mobilewebdevconference.com/san-francisco-2017/venue
+- https://speakerdeck.com/realm/dave-ortinau-xamarin-mobile-platform-compromise-less-deliver-more

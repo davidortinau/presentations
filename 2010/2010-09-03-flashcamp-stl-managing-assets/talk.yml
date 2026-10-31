@@ -1,0 +1,25 @@
+slug: 2010-09-03-flashcamp-stl-managing-assets
+title: Managing and Using Assets in Your Rich Flash Experiences
+date: '2010-09-03'
+time: '15:00'
+event: Flash Camp St. Louis 2010
+event_url: https://web.archive.org/web/20101203145556/http://www.flashcampstlouis.com/index.cfm/schedule/
+venue: 701 N 15th St
+city: St. Louis, United States
+format: talk
+session_url: https://web.archive.org/web/20101203145556/http://www.flashcampstlouis.com/index.cfm/schedule/
+abstract: We want projects with more video, audio, graphics, animation, and all with increasingly complex interactivity. In this session I'll present several strategies my teams have found effective for managing and implementing a wide variety of media assets. We'll discuss SWCs, RSLs, meta tag embedding, bulk loaders, and more. This session will be geared towards both designers and developers.
+abstract_source: https://web.archive.org/web/20101203145556/http://www.flashcampstlouis.com/index.cfm/schedule/
+abstract_source_label: Flash Camp St. Louis schedule (Internet Archive copy)
+recorded: unknown
+resources:
+- label: Interview and session preview (FDT blog)
+  url: https://fdt.powerflasher.com/blog/?p=2662
+tags:
+- flash
+- flex
+- actionscript
+- workflow
+sources:
+- https://web.archive.org/web/20101203145556/http://www.flashcampstlouis.com/index.cfm/schedule/
+- https://fdt.powerflasher.com/blog/?p=2662

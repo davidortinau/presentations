@@ -21,6 +21,10 @@ From the [Official DevReach 2023 video description (Progress Telerik channel)](h
 
 - [The Future in .NET MAUI | DevReach 2023 (Progress Telerik)](https://www.youtube.com/watch?v=w80d3TkIBWM)
 
+## Also presented at
+
+- [Techorama BE 2023, May 2023](../../2023/2023-05-techorama-be-future-in-maui/)
+
 ## Resources
 
 - [.NET Upgrade Assistant general availability (upgrading Xamarin.Forms to .NET MAUI)](https://devblogs.microsoft.com/dotnet/upgrade-assistant-general-availability/#upgrades-from-xamarin-forms-to-net-maui)

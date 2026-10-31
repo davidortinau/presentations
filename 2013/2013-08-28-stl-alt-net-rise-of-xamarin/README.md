@@ -16,6 +16,10 @@ From the [Meetup event page](http://www.meetup.com/stlaltdotnet/events/133172182
 
 No recording posted yet.
 
+## Also presented at
+
+- [D2W Conference 2012, Thursday 17 May 2012](../../2012/2012-05-17-d2wc-rise-of-xamarin/)
+
 ---
 
 [All talks](../../README.md)

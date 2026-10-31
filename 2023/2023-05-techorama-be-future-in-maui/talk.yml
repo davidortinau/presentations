@@ -1,0 +1,31 @@
+title: The Future in .NET MAUI
+date: 2023-05
+event: Techorama BE 2023
+format: talk
+venue: Kinepolis Antwerp
+city: Antwerp, Belgium
+slides:
+  pdf: slides.pdf
+  notes: reviewed
+  release:
+    tag: 2023-05-techorama-be-future-in-maui
+    asset: 2023-05-techorama-be-future-in-maui.pptx
+    mb: 260.1
+  pages: 28
+recorded: unknown
+same_talk_as:
+- 2023-11-devreach-future-in-maui
+resources:
+- label: .NET MAUI showcase
+  url: https://aka.ms/dotnetmaui/showcase
+- label: HybridWebView experiment (Eilon Lipton)
+  url: https://github.com/Eilon/HybridWebView
+- label: Marvelous MAUI sample
+  url: https://github.com/RadekVyM/MarvelousMAUI
+tags:
+- maui
+- dotnet-8
+- roadmap
+sources:
+- https://techorama.be/
+- https://sessionize.com/david-ortinau

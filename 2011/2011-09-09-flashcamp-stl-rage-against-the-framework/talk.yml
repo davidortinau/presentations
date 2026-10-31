@@ -1,0 +1,25 @@
+slug: 2011-09-09-flashcamp-stl-rage-against-the-framework
+title: Rage against the Framework
+date: '2011-09-09'
+time: '15:00'
+event: Flash Camp St. Louis 2011
+event_url: https://web.archive.org/web/20120307044111/http://www.flashcampstlouis.com/index.cfm/schedule/
+venue: Webster University, Library room
+city: St. Louis, United States
+format: talk
+session_url: https://web.archive.org/web/20120307044111/http://www.flashcampstlouis.com/index.cfm/schedule/
+abstract: |-
+  We love the Flash platform for rapidly building awesome experiences. As our projects become more complex we look to frameworks like Flex for a boost with rich components and data support. The Flex framework is extremely powerful and often frustrating. Implementing expressive UX can seem near impossible at these times, but we need not settle for lesser UX.
+
+  In this session we'll talk briefly about the principles of Interaction Design models, and then take a practical look at common leverage points where we can inject our interactions to create better experiences.
+abstract_source: https://web.archive.org/web/20120307044111/http://www.flashcampstlouis.com/index.cfm/schedule/
+abstract_source_label: Flash Camp St. Louis schedule (Internet Archive copy)
+recorded: unknown
+tags:
+- flash
+- flex
+- ux
+- interaction-design
+sources:
+- https://web.archive.org/web/20120307044111/http://www.flashcampstlouis.com/index.cfm/schedule/
+- https://web.archive.org/web/20111102025020/http://www.flashcampstlouis.com/

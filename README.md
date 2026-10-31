@@ -55,6 +55,7 @@ Each talk folder has the abstract, a PDF of the slides, the PowerPoint with spea
 | 14 Nov | [What's New in .NET MAUI](2023/2023-11-14-dotnet-conf-whats-new-in-maui/) | .NET Conf 2023 | [PDF](2023/2023-11-14-dotnet-conf-whats-new-in-maui/slides.pdf) · [PPTX](https://github.com/davidortinau/presentations/releases/download/2023-11-14-dotnet-conf-whats-new-in-maui/2023-11-14-dotnet-conf-whats-new-in-maui.pptx) | [Watch](https://www.youtube.com/watch?v=4saU9BNY6l4) | [maui-samples](https://github.com/davidortinau/maui-samples/tree/85675d031628d9b6fb4d2df3a080ea9567c2dd89) |
 | Nov | [The Future in .NET MAUI](2023/2023-11-devreach-future-in-maui/) | DevReach 2023 | [PDF](2023/2023-11-devreach-future-in-maui/slides.pdf) · [PPTX](https://github.com/davidortinau/presentations/releases/download/2023-11-devreach-future-in-maui/2023-11-devreach-future-in-maui.pptx) | [Watch](https://www.youtube.com/watch?v=w80d3TkIBWM) |  |
 | May | [How to Upgrade from Xamarin to .NET 7](2023/2023-05-techorama-be-upgrade-xamarin-net-7/) | Techorama BE 2023, Antwerp | [PDF](2023/2023-05-techorama-be-upgrade-xamarin-net-7/slides.pdf) · [PPTX](https://github.com/davidortinau/presentations/releases/download/2023-05-techorama-be-upgrade-xamarin-net-7/2023-05-techorama-be-upgrade-xamarin-net-7.pptx) |  |  |
+| May | [The Future in .NET MAUI](2023/2023-05-techorama-be-future-in-maui/) | Techorama BE 2023, Antwerp | [PDF](2023/2023-05-techorama-be-future-in-maui/slides.pdf) · [PPTX](https://github.com/davidortinau/presentations/releases/download/2023-05-techorama-be-future-in-maui/2023-05-techorama-be-future-in-maui.pptx) |  |  |
 | May | [What's new in .NET Multi-platform App UI (MAUI) Q&A \| DIS202H](2023/2023-05-build-dis202h-maui-qa/) | Build 2023 |  | [Watch](https://www.youtube.com/watch?v=totCqGdDhMM) |  |
 | May | [BRK204 All things client and mobile app development with .NET MAUI](2023/2023-05-build-brk204-client-mobile-maui/) | Build 2023, Seattle | [PDF](2023/2023-05-build-brk204-client-mobile-maui/slides.pdf) · [PPTX](https://github.com/davidortinau/presentations/releases/download/2023-05-build-brk204-client-mobile-maui/2023-05-build-brk204-client-mobile-maui.pptx) | [Watch](https://www.youtube.com/watch?v=-4SJvzGNZ_M) |  |
 | 10 Feb | [A Survivalist's Guide to .NET MAUI](2023/2023-02-10-dotnet-frontend-day-survivalists-guide/) | .NET Frontend Day 2023, Stockholm | [PDF](2023/2023-02-10-dotnet-frontend-day-survivalists-guide/slides.pdf) · [PPTX](https://github.com/davidortinau/presentations/releases/download/2023-02-10-dotnet-frontend-day-survivalists-guide/2023-02-10-dotnet-frontend-day-survivalists-guide.pptx) | [Watch](https://www.youtube.com/watch?v=EoERm4ey96M) |  |
@@ -109,6 +110,7 @@ Each talk folder has the abstract, a PDF of the slides, the PowerPoint with spea
 | Nov | [Crafting Stunning Mobile Apps with Xamarin Visual Design System (THR2320)](2019/2019-11-ignite-thr2320-xamarin-visual/) | Ignite 2019, Orlando | [PDF](2019/2019-11-ignite-thr2320-xamarin-visual/slides.pdf) · [PPTX](https://github.com/davidortinau/presentations/releases/download/2019-11-ignite-thr2320-xamarin-visual/2019-11-ignite-thr2320-xamarin-visual.pptx) |  | [FlyMe](https://github.com/davidortinau/FlyMe/tree/c49719d384702687790a4efc3c317fa050ae8dc0) |
 | Nov | [Build .NET mobile apps quickly and easily with Xamarin.Forms Shell (THR2317)](2019/2019-11-ignite-thr2317-xamarin-forms-shell/) | Ignite 2019, Orlando | [PDF](2019/2019-11-ignite-thr2317-xamarin-forms-shell/slides.pdf) · [PPTX](https://github.com/davidortinau/presentations/releases/download/2019-11-ignite-thr2317-xamarin-forms-shell/2019-11-ignite-thr2317-xamarin-forms-shell.pptx) |  | [FlyMe](https://github.com/davidortinau/FlyMe/tree/c49719d384702687790a4efc3c317fa050ae8dc0) |
 | 30 Oct | [What's New in Tizen? 5.5 Platform Update and Developer Environment](2019/2019-10-30-samsung-dev-conf-tizen-5-5/) | Samsung Developer Conference 2019, San Jose | [PDF](2019/2019-10-30-samsung-dev-conf-tizen-5-5/slides.pdf) · [PPTX](https://github.com/davidortinau/presentations/releases/download/2019-10-30-samsung-dev-conf-tizen-5-5/2019-10-30-samsung-dev-conf-tizen-5-5.pptx) | [Watch](https://www.youtube.com/watch?v=fU5Yx8M0KOk) | [sdc2019-tizen-net](https://github.com/rookiejava/sdc2019-tizen-net/tree/9b97b5dc67c3e0f31e36076389323b1198883361) |
+| 3 Oct | [Comet: A .NET Experiment](2019/2019-10-03-madn-antwerp-comet/) | Modern App Dev Network Belgium (MADN), Antwerp | [PDF](2019/2019-10-03-madn-antwerp-comet/slides.pdf) · [PPTX](https://github.com/davidortinau/presentations/releases/download/2019-10-03-madn-antwerp-comet/2019-10-03-madn-antwerp-comet.pptx) |  | [Comet](https://github.com/Clancey/Comet) |
 | 2 Oct | [Secrets To Next Level Mobile Development with Xamarin](2019/2019-10-02-techorama-nl-next-level-xamarin/) | Techorama NL 2019, Ede | [PDF](2019/2019-10-02-techorama-nl-next-level-xamarin/slides.pdf) · [PPTX](https://github.com/davidortinau/presentations/releases/download/2019-10-02-techorama-nl-next-level-xamarin/2019-10-02-techorama-nl-next-level-xamarin.pptx) |  |  |
 | 1 Oct | [The Future of Mobile Design](2019/2019-10-01-techorama-nl-future-of-mobile-design/) | Techorama NL 2019, Ede | [PDF](2019/2019-10-01-techorama-nl-future-of-mobile-design/slides.pdf) · [PPTX](https://github.com/davidortinau/presentations/releases/download/2019-10-01-techorama-nl-future-of-mobile-design/2019-10-01-techorama-nl-future-of-mobile-design.pptx) |  |  |
 | 30 Sep | [The Latest and Craziest for Mobile .NET Developers](2019/2019-09-30-dutch-mobile-dotnet-whats-new-xamarin/) | Dutch Mobile .NET Developers Group, Veenendaal | [PDF](2019/2019-09-30-dutch-mobile-dotnet-whats-new-xamarin/slides.pdf) · [PPTX](https://github.com/davidortinau/presentations/releases/download/2019-09-30-dutch-mobile-dotnet-whats-new-xamarin/2019-09-30-dutch-mobile-dotnet-whats-new-xamarin.pptx) |  |  |
@@ -138,6 +140,7 @@ Each talk folder has the abstract, a PDF of the slides, the PowerPoint with spea
 | 27 Sep | [Rapid Mobile App Development with Xamarin.Forms (BRK3282)](2017/2017-09-27-ignite-brk3282-xamarin/) | Ignite 2017, Orlando | [PDF](2017/2017-09-27-ignite-brk3282-xamarin/slides.pdf) · [PPTX](https://github.com/davidortinau/presentations/releases/download/2017-09-27-ignite-brk3282-xamarin/2017-09-27-ignite-brk3282-xamarin.pptx) |  |  |
 | May | [What's new in Xamarin.Forms](2017/2017-05-build-whats-new-xamarin-forms/) | Build 2017, Seattle | [PDF](2017/2017-05-build-whats-new-xamarin-forms/slides.pdf) · [PPTX](https://github.com/davidortinau/presentations/releases/download/2017-05-build-whats-new-xamarin-forms/2017-05-build-whats-new-xamarin-forms.pptx) |  | [build2017-new-in-xamarin-forms](https://github.com/davidortinau/build2017-new-in-xamarin-forms/tree/5bb767653b939570c3a1c7973d3170917a60d903) |
 | Apr | [Getting the Most Out of Xamarin.Forms for Visual Studio 2017](2017/2017-04-xamarin-webinar-xamarin-forms-vs2017/) | Xamarin webinar | [PDF](2017/2017-04-xamarin-webinar-xamarin-forms-vs2017/slides.pdf) · [PPTX](https://github.com/davidortinau/presentations/releases/download/2017-04-xamarin-webinar-xamarin-forms-vs2017/2017-04-xamarin-webinar-xamarin-forms-vs2017.pptx) |  | [WebinarDemos](https://github.com/davidortinau/WebinarDemos/tree/7057cbdda37df8afc5e13989f31132cdb364dd8b) |
+| 3 Mar | [Xamarin Mobile Platform: Compromise less, deliver more](2017/2017-03-03-mwdcon-xamarin-mobile-platform/) | Mobile+Web Developer Conference 2017, San Francisco |  |  |  |
 
 ## 2016
 
@@ -164,6 +167,25 @@ Each talk folder has the abstract, a PDF of the slides, the PowerPoint with spea
 | 28 Aug | [The Rise of Xamarin: Mobile Development in C#](2013/2013-08-28-stl-alt-net-rise-of-xamarin/) | St. Louis ALT.NET, Saint Louis |  |  |  |
 | May | [Automated UI Testing: Xamarin TestCloud & Calabash](2013/2013-05-idsl-automated-ui-testing/) | Interactive Developers of St. Louis |  |  |  |
 | 17 Apr | [Crafting Interactions with Core Animation](2013/2013-04-17-xamarin-evolve-core-animation/) | Xamarin Evolve 2013 |  |  |  |
+
+## 2012
+
+| Date | Talk | Event | Slides | Video | Demos |
+|---|---|---|---|---|---|
+| 17 May | [The Rise of Xamarin: Mobile Development in C#](2012/2012-05-17-d2wc-rise-of-xamarin/) | D2W Conference 2012, Kansas City |  |  |  |
+
+## 2011
+
+| Date | Talk | Event | Slides | Video | Demos |
+|---|---|---|---|---|---|
+| 9 Sep | [Rage against the Framework](2011/2011-09-09-flashcamp-stl-rage-against-the-framework/) | Flash Camp St. Louis 2011, St. Louis |  |  |  |
+| 15 Jul | [Developers – The Most Critical Designers On Your Project](2011/2011-07-15-d2wc-developers-critical-designers/) | D2W Conference 2011, Kansas City |  |  |  |
+
+## 2010
+
+| Date | Talk | Event | Slides | Video | Demos |
+|---|---|---|---|---|---|
+| 3 Sep | [Managing and Using Assets in Your Rich Flash Experiences](2010/2010-09-03-flashcamp-stl-managing-assets/) | Flash Camp St. Louis 2010, St. Louis |  |  |  |
 
 ## About these files
 

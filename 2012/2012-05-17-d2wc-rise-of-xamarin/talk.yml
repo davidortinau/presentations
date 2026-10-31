@@ -1,0 +1,29 @@
+slug: 2012-05-17-d2wc-rise-of-xamarin
+title: 'The Rise of Xamarin: Mobile Development in C#'
+date: '2012-05-17'
+time: '15:00'
+length_min: 50
+event: D2W Conference 2012
+event_url: https://web.archive.org/web/20120526093946/http://d2wc.com/sessions.html
+venue: Kansas City Marriott Country Club Plaza
+city: Kansas City, United States
+format: talk
+abstract: MonoTouch and Mono for Android empower C# applications targeting iOS and Android respectively.
+abstract_source: https://speakerdeck.com/davidortinau/the-rise-of-xamarin-mobile-development-in-c-number
+abstract_source_label: Speaker Deck description
+slides:
+  also_at:
+  - label: Slides on Speaker Deck
+    url: https://speakerdeck.com/davidortinau/the-rise-of-xamarin-mobile-development-in-c-number
+recorded: unknown
+same_talk_as:
+- 2013-08-28-stl-alt-net-rise-of-xamarin
+tags:
+- xamarin
+- csharp
+- mobile
+sources:
+- https://web.archive.org/web/20120526093946/http://d2wc.com/sessions.html
+- https://web.archive.org/web/20120509203041/http://d2wc.com/travel.html
+- https://web.archive.org/web/20120128195115/http://lanyrd.com/2012/d2wc/
+- https://speakerdeck.com/davidortinau/the-rise-of-xamarin-mobile-development-in-c-number

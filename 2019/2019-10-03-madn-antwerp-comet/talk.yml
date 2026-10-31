@@ -1,0 +1,29 @@
+title: 'Comet: A .NET Experiment'
+date: 2019-10-03
+time: '18:30'
+event: Modern App Dev Network Belgium (MADN)
+format: talk
+venue: Franklin Rooseveltplaats 12
+city: Antwerp, Belgium
+slides:
+  pdf: slides.pdf
+  notes: reviewed
+  release:
+    tag: 2019-10-03-madn-antwerp-comet
+    asset: 2019-10-03-madn-antwerp-comet.pptx
+    mb: 103.5
+  pages: 19
+recorded: unknown
+demos:
+- name: Comet
+  repo: Clancey/Comet
+resources:
+- label: Comet on GitHub
+  url: https://github.com/Clancey/Comet
+tags:
+- comet
+- mvu
+- xamarin
+- blazor
+sources:
+- https://github.com/Clancey/Comet

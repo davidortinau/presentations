@@ -16,7 +16,8 @@ slides:
   - label: Slides on Speaker Deck
     url: https://speakerdeck.com/davidortinau/the-rise-of-xamarin-august-2013
 recorded: unknown
-same_talk_as: []
+same_talk_as:
+- 2012-05-17-d2wc-rise-of-xamarin
 tags:
 - xamarin
 - csharp
