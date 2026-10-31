@@ -1,0 +1,44 @@
+title: Building Your Next .NET MAUI App
+date: 2021-10-01
+event: Xamarin Expert Day 2021
+city: Online
+format: talk
+session_url: https://github.com/XamarinExpertDay/XamExpertDay2021
+abstract: |
+  .NET MAUI provides an extremely flexible and powerful way to create apps for Android, iOS, macOS, and Windows, from very simple to extremely robust and complex. Is this one size fits all? Where should you start? In this session I'll run through how you can quickly get started, and then grow your solution as you need to in order to optimize your productivity and still hit all your product requirements.
+abstract_source: https://github.com/XamarinExpertDay/XamExpertDay2021
+abstract_source_label: Xamarin Expert Day 2021 event repository
+slides:
+  pdf: slides.pdf
+  notes: reviewed
+  release:
+    tag: 2021-10-01-xamarin-expert-day-next-maui-app
+    asset: 2021-10-01-xamarin-expert-day-next-maui-app.pptx
+    mb: 82.3
+  pages: 24
+recorded: 'yes'
+video:
+- label: Building Your Next .NET MAUI App - XamExpertDay 2021 (Gerald Versluis)
+  url: https://www.youtube.com/watch?v=2wOlYwapNHY
+demos:
+- name: WeatherTwentyOne
+  repo: davidortinau/WeatherTwentyOne
+same_talk_as:
+- 2021-05-14-cologne-ug-next-app-with-maui
+resources:
+- label: .NET MAUI docs
+  url: https://docs.microsoft.com/dotnet/maui/
+- label: .NET MAUI presentations
+  url: https://github.com/dotnet-presentations/dotnet-maui
+- label: .NET MAUI wiki
+  url: https://github.com/dotnet/maui/wiki
+- label: WeatherTwentyOne
+  url: https://github.com/davidortinau/WeatherTwentyOne
+tags:
+- maui
+- dotnet-6
+- getting-started
+- xamarin
+sources:
+- https://github.com/XamarinExpertDay/XamExpertDay2021
+- https://www.youtube.com/watch?v=2wOlYwapNHY

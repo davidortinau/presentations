@@ -1,0 +1,28 @@
+title: Xamarin.Forms 5 and the Future of .NET
+date: 2021-02-09
+event: Tech Valley .NET User Group
+city: Online
+format: talk
+abstract: |
+  Let’s celebrate the latest release of Xamarin.Forms, and put it in context for what .NET developers can expect to see from Microsoft over the next few years. Mobile, desktop, and even web are important targets for many applications. How is Microsoft working to address these demanding business needs, and what does this practically mean for you, the client application developer? We will discuss Xamarin.Forms, .NET 6, .NET MAUI, Mac Catalyst, WinUI 3, and more.
+abstract_source: https://www.youtube.com/watch?v=ReGAMeTK71s
+abstract_source_label: video description (TVUG channel)
+slides:
+  pdf: slides.pdf
+  notes: reviewed
+  release:
+    tag: 2021-02-09-tech-valley-ug-xamarin-forms-5
+    asset: 2021-02-09-tech-valley-ug-xamarin-forms-5.pptx
+    mb: 23.3
+  pages: 36
+recorded: 'yes'
+video:
+- label: Recording (YouTube, TVUG channel)
+  url: https://www.youtube.com/watch?v=ReGAMeTK71s
+same_talk_as: []
+tags:
+- xamarin-forms
+- maui
+- dotnet-6
+sources:
+- https://www.youtube.com/watch?v=ReGAMeTK71s

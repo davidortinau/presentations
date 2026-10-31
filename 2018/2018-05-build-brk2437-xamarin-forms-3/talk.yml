@@ -1,0 +1,37 @@
+title: BRK2437 What's new in Xamarin.Forms 3.0
+date: 2018-05
+event: Build 2018
+city: Seattle, United States
+format: session
+session_url: https://learn.microsoft.com/en-us/shows/build-2018/brk2437
+abstract: |
+  Xamarin.Forms enables you to build a native UI for multiple platforms with one shared C# and XAML codebase. Simply put, if you know C# then you already know how to build Android, iOS, and Windows apps. In this session come find out what is new, next, and absolutely awesome in Xamarin.Forms 3.0.
+abstract_source: https://learn.microsoft.com/en-us/shows/build-2018/brk2437
+slides:
+  pdf: slides.pdf
+  notes: reviewed
+  release:
+    tag: 2018-05-build-brk2437-xamarin-forms-3
+    asset: 2018-05-build-brk2437-xamarin-forms-3.pptx
+    mb: 65.2
+  pages: 51
+recorded: 'yes'
+video:
+- label: 'What''s new in Xamarin.Forms 3.0 : Build 2018 (Microsoft Developer channel)'
+  url: https://www.youtube.com/watch?v=gNU8-IXjyaI
+same_talk_as: []
+resources:
+- label: Xamarin.Forms public roadmap
+  url: https://aka.ms/xfroadmap
+- label: Xamarin.Forms on GitHub
+  url: https://github.com/xamarin/Xamarin.Forms
+- label: Flexibility demo (FlexLayout and CSS)
+  url: https://github.com/davidortinau/Flexibility
+- label: Xamarin.Forms documentation
+  url: https://docs.microsoft.com/en-us/xamarin/xamarin-forms/
+tags:
+- xamarin-forms
+- build
+sources:
+- https://learn.microsoft.com/en-us/shows/build-2018/brk2437
+- https://www.youtube.com/watch?v=gNU8-IXjyaI

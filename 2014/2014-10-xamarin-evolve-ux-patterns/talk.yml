@@ -1,0 +1,22 @@
+slug: 2014-10-xamarin-evolve-ux-patterns
+title: UX Patterns for Cross-Platform Mobile
+date: 2014-10
+event: Xamarin Evolve 2014
+format: session
+abstract: |
+  From 2014 Xamarin Evolve, we look at what UX Patterns are and some common patterns we need to work through in designing and implementing cross platform designs.
+abstract_source: https://speakerdeck.com/davidortinau/ux-patterns-for-cross-platform-mobile-number-xamarin
+abstract_source_label: Speaker Deck description
+slides:
+  also_at:
+  - label: Slides on Speaker Deck
+    url: https://speakerdeck.com/davidortinau/ux-patterns-for-cross-platform-mobile-number-xamarin
+recorded: unknown
+same_talk_as: []
+tags:
+- xamarin
+- ux
+- patterns
+- cross-platform
+sources:
+- https://speakerdeck.com/davidortinau/ux-patterns-for-cross-platform-mobile-number-xamarin

@@ -1,0 +1,27 @@
+title: Getting Started with .NET MAUI and Visual Studio 2022
+date: 2021-07-24
+event: Microsoft Reactor .NET Day in China
+venue: Microsoft Reactor Shanghai
+city: Shanghai, China
+format: talk
+session_url: https://segmentfault.com/e/1160000040381920
+abstract: |
+  .NET MAUI 使你能够从一个代码库为 Android、iOS、macOS 和 Windows 构建丰富的、功能齐全的本地应用程序。与 Visual Studio 2022 相结合，您将拥有最高效的组合来快速开发应用程序并将它们交付给客户。在这一节中，我们将介绍 .NET MAUI 的特性，开发经验，以及如何从 Visual Studio 2022 现在和即将发布的版本中获得最大的好处。
+abstract_source: https://segmentfault.com/e/1160000040381920
+abstract_source_label: SegmentFault event page (agenda, in Chinese)
+slides:
+  pdf: slides.pdf
+  notes: reviewed
+  release:
+    tag: 2021-07-24-reactor-dotnet-day-china-maui-vs2022
+    asset: 2021-07-24-reactor-dotnet-day-china-maui-vs2022.pptx
+    mb: 85.5
+  pages: 47
+recorded: unknown
+same_talk_as: []
+tags:
+- maui
+- visual-studio-2022
+- dotnet-6
+sources:
+- https://segmentfault.com/e/1160000040381920

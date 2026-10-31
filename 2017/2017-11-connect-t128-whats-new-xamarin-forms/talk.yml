@@ -1,0 +1,23 @@
+title: T128 What's new in Xamarin.Forms
+date: 2017-11
+event: Microsoft Connect(); 2017
+format: session
+session_url: https://learn.microsoft.com/en-us/shows/visual-studio-connect-event-2017/t128
+abstract: |
+  Join David in an overview of what's new in Xamarin.Forms, empowering developers to share more code across their iOS, Android, and Windows apps with more flexibility than ever. David also offers a closer look into Xamarin.Forms Native Forms page embedding, Layout Compression, and Fast Renderers.
+abstract_source: https://learn.microsoft.com/en-us/shows/visual-studio-connect-event-2017/t128
+slides:
+  pdf: slides.pdf
+  notes: none
+  release:
+    tag: 2017-11-connect-t128-whats-new-xamarin-forms
+    asset: 2017-11-connect-t128-whats-new-xamarin-forms.pptx
+    mb: 4.2
+  pages: 10
+recorded: 'yes'
+same_talk_as: []
+tags:
+- xamarin-forms
+- connect
+sources:
+- https://learn.microsoft.com/en-us/shows/visual-studio-connect-event-2017/t128

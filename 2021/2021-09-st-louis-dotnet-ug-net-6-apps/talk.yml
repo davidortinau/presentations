@@ -1,0 +1,25 @@
+title: Building Client Apps with .NET 6
+date: 2021-09
+event: St. Louis .NET User Group
+city: St. Louis, United States
+format: talk
+slides:
+  pdf: slides.pdf
+  notes: reviewed
+  release:
+    tag: 2021-09-st-louis-dotnet-ug-net-6-apps
+    asset: 2021-09-st-louis-dotnet-ug-net-6-apps.pptx
+    mb: 73.9
+  pages: 48
+recorded: unknown
+same_talk_as: []
+resources:
+- label: .NET MAUI on GitHub
+  url: https://github.com/dotnet/maui
+- label: .NET Conf
+  url: https://www.dotnetconf.net
+tags:
+- maui
+- dotnet-6
+- blazor
+- visual-studio-2022

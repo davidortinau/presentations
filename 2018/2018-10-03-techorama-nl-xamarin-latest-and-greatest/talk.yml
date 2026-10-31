@@ -1,0 +1,37 @@
+title: 'Xamarin: All the Latest and Greatest'
+date: 2018-10-03
+time: '10:00'
+length_min: 60
+event: Techorama NL 2018
+city: Ede, Netherlands
+format: talk
+session_url: https://techoramanetherlands2018.sched.com/event/EjEm/xamarin-all-the-latest-and-greatest
+abstract: |
+  Xamarin continues our mission at Microsoft to delight developers and empower you to do more! Come learn about all the latest advancements from Microsoft made just for you in Visual Studio, Xamarin, and Xamarin.Forms.
+abstract_source: https://techoramanetherlands2018.sched.com/event/EjEm/xamarin-all-the-latest-and-greatest
+slides:
+  pdf: slides.pdf
+  notes: reviewed
+  release:
+    tag: 2018-10-03-techorama-nl-xamarin-latest-and-greatest
+    asset: 2018-10-03-techorama-nl-xamarin-latest-and-greatest.pptx
+    mb: 226.5
+  also_at:
+  - label: Slides on Speaker Deck
+    url: https://speakerdeck.com/davidortinau/techorama-2018-xamarin-updates
+  pages: 59
+recorded: unknown
+demos:
+- name: The Little Things Playground
+  repo: davidortinau/TheLittleThingsPlayground
+  branch: master
+  commit: 52cd570d594ef1fdb58d96af303bb2f336571f05
+tags:
+- xamarin
+- xamarin-forms
+- visual-studio
+- mobile
+sources:
+- https://techoramanetherlands2018.sched.com/event/EjEm/xamarin-all-the-latest-and-greatest
+- https://speakerdeck.com/davidortinau/techorama-2018-xamarin-updates
+- https://github.com/davidortinau/TheLittleThingsPlayground

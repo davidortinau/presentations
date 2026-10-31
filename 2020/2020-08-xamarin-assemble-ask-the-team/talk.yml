@@ -1,0 +1,15 @@
+title: 'XA2020: Ask the Xamarin Team'
+date: 2020-08
+event: Xamarin Assemble 2020
+city: Online
+format: panel
+recorded: 'yes'
+video:
+- url: https://www.youtube.com/watch?v=jBxxGdXxhX4
+  title: 'XA2020: Ask the Xamarin Team - Maddy Leger, James Montemagno and David Ortinau'
+co_speakers:
+- name: Maddy Leger
+  github: maddymontaquila
+- name: James Montemagno
+sources:
+- https://www.youtube.com/watch?v=jBxxGdXxhX4

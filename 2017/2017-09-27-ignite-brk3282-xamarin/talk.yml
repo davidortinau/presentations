@@ -1,0 +1,20 @@
+title: Rapid Mobile App Development with Xamarin.Forms (BRK3282)
+date: 2017-09-27
+event: Ignite 2017
+city: Orlando, United States
+format: session
+slides:
+  pdf: slides.pdf
+  notes: reviewed
+  release:
+    tag: 2017-09-27-ignite-brk3282-xamarin
+    asset: 2017-09-27-ignite-brk3282-xamarin.pptx
+    mb: 29.4
+  pages: 64
+recorded: unknown
+same_talk_as: []
+tags:
+- xamarin-forms
+- ignite
+sources:
+- https://learn.microsoft.com/en-us/shows/

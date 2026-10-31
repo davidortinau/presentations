@@ -1,0 +1,30 @@
+title: A Roadmap for .NET on Desktop, Mobile, and Web
+date: 2020-03
+event: St. Louis .NET User Group
+format: talk
+slides:
+  pdf: slides.pdf
+  notes: reviewed
+  release:
+    tag: 2020-03-st-louis-dotnet-ug-roadmap-dotnet
+    asset: 2020-03-st-louis-dotnet-ug-roadmap-dotnet.pptx
+    mb: 35.4
+  pages: 40
+recorded: unknown
+same_talk_as: []
+resources:
+- label: Mobile Blazor Bindings announcement
+  url: https://devblogs.microsoft.com/dotnet/mobile-blazor-bindings-experiment/
+- label: Xamarin Goes Dual-Screen
+  url: https://devblogs.microsoft.com/xamarin/xamarin-goes-dual-screen/
+tags:
+- dotnet-5
+- blazor
+- xamarin
+- desktop
+- mobile
+- web
+- roadmap
+sources:
+- https://devblogs.microsoft.com/dotnet/mobile-blazor-bindings-experiment/
+- https://devblogs.microsoft.com/xamarin/xamarin-goes-dual-screen/

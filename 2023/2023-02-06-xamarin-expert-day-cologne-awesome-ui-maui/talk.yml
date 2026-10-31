@@ -1,0 +1,45 @@
+title: Awesome UI with .NET MAUI
+date: 2023-02-06
+time: 08:45
+length_min: 50
+event: XamExpertDay 2023
+event_url: https://mauiday.net/archive/cologne-2023
+venue: Microsoft Office Cologne
+city: Cologne, Germany
+format: talk
+session_url: https://mauiday.net/archive/cologne-2023
+abstract: |
+  Whether building an app for consumers or enterprises, for games or line-of-business apps, you can do it all with .NET MAUI. In this session, I'll share my pro tips from 25 years of developing beautiful UIs for desktop, mobile, and web applications. Going cross-platform doesn't mean you need to sacrifice amazing design. Making UI beautiful doesn't mean you need to sacrifice usability and accessibility.
+abstract_source: https://mauiday.net/archive/cologne-2023
+slides:
+  pdf: slides.pdf
+  notes: reviewed
+  release:
+    tag: 2023-02-06-xamarin-expert-day-cologne-awesome-ui-maui
+    asset: 2023-02-06-xamarin-expert-day-cologne-awesome-ui-maui.pptx
+    mb: 81.3
+  pages: 37
+recorded: unknown
+same_talk_as:
+- 2023-02-swetugg-awesome-ui-maui
+resources:
+- label: C# UI tutorial with the .NET MAUI Community Toolkit
+  url: https://learn.microsoft.com/en-us/windows/apps/windows-dotnet-maui/tutorial-csharp-ui-maui-toolkit
+- label: ToDoEntry control composition sample
+  url: https://github.com/davidortinau/ToDoEntry/
+- label: Customize controls with handlers
+  url: https://learn.microsoft.com/en-us/dotnet/maui/user-interface/handlers/customize
+- label: Awesome .NET MAUI
+  url: https://github.com/jsuarezruiz/awesome-dotnet-maui
+- label: .NET MAUI samples
+  url: https://github.com/dotnet/maui-samples
+tags:
+- maui
+- ui
+- accessibility
+- shell
+- handlers
+- animations
+sources:
+- https://mauiday.net/archive/cologne-2023
+- https://sessionize.com/s/david-ortinau/awesome-ui-with-.net-maui/54453

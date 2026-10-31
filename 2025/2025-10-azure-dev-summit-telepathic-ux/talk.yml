@@ -1,0 +1,27 @@
+title: 'Telepathic UX: The Next Generation of Mobile Apps'
+date: 2025-10
+event: Azure Dev Summit 2025
+event_url: https://azuredevsummit.com/
+venue: Lisbon Exhibition and Congress Centre
+city: Lisbon, Portugal
+format: talk
+session_url: https://www.youtube.com/watch?v=p_HzNEng2vQ
+abstract: |
+  As AI becomes cheaper, smaller, faster, and generally more consistent it will be used more ubiquitously in our applications. Mobile devices are primed to be the pinnacle of these experiences due to their multi-modal capabilities, and contextual presence. Are you ready to deliver these types of applications?
+
+  In this session we'll peer into the near future at what's to come, and showcase how you can get started today designing and building applications with intelligence that borders on precognition.
+abstract_source: https://www.youtube.com/watch?v=p_HzNEng2vQ
+abstract_source_label: official video description (Azure Dev Summit channel)
+recorded: 'yes'
+video:
+- label: Recording (Azure Dev Summit, YouTube)
+  url: https://www.youtube.com/watch?v=p_HzNEng2vQ
+same_talk_as:
+- 2026-05-28-update-conference-krakow-telepathic-ux
+tags:
+- ai
+- mobile
+- maui
+sources:
+- https://www.youtube.com/watch?v=p_HzNEng2vQ
+- https://azuredevsummit.com/

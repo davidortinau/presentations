@@ -1,0 +1,25 @@
+title: The MAUI Panel
+date: '2026-05-29'
+time: '17:00'
+length_min: 40
+event: MAUI Day Kraków 2026
+event_url: https://mauiday.net/
+venue: Politechnika Krakowska
+city: Kraków, Poland
+format: panel
+session_url: https://mauiday.net/archive/krakow-2026
+abstract: |
+  This is your opportunity to put your question to the MAUI team.
+abstract_source: https://mauiday.net/archive/krakow-2026
+abstract_source_label: MAUI Day archive page
+co_speakers:
+- name: Stéphane Delcroix
+- name: Gerald Versluis
+- name: Jakub Florkowski
+recorded: unknown
+same_talk_as: []
+tags:
+- maui
+- panel
+sources:
+- https://mauiday.net/archive/krakow-2026

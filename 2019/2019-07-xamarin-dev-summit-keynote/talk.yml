@@ -1,0 +1,15 @@
+title: A Glimpse Into the Future of Xamarin
+date: 2019-07
+event: Xamarin Developer Summit 2019
+city: Houston, United States
+format: keynote
+session_url: https://learn.microsoft.com/en-us/shows/xamarin-xamarin-developer-summit-2019/a-glimpse-into-the-future-of-xamarin
+abstract: Join James Montemagno, Maddy Leger, and David Ortinau as they show you a glimpse into the future of building beautiful mobile apps with world class tools with Xamarin.
+abstract_source: https://learn.microsoft.com/en-us/shows/xamarin-xamarin-developer-summit-2019/a-glimpse-into-the-future-of-xamarin
+recorded: 'yes'
+co_speakers:
+- name: James Montemagno
+- name: Maddy Leger
+  github: maddymontaquila
+sources:
+- https://learn.microsoft.com/en-us/shows/xamarin-xamarin-developer-summit-2019/a-glimpse-into-the-future-of-xamarin

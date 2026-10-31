@@ -1,0 +1,47 @@
+title: Building with AI at the Edge
+date: 2026-10-23
+time: "13:00"
+length_min: 60
+event: MAUI Day Cologne 2026
+event_url: https://mauiday.net/archive/cologne-2026
+venue: Microsoft Cologne office
+city: Cologne, Germany
+format: talk
+session_url: https://mauiday.net/archive/cologne-2026
+note: The title slide reads "Building AI at the Edge".
+abstract: |
+  Nobody can really predict what app development will look like in the next weeks and months exactly. The same skills that helped you grow and excel through every technology release and minor or major shift in the mobile race, those skills are what will make you successful today and tomorrow. The pace is just...a bit faster. In this session I'll share how we are using the latest tools and services to build efficiently, effectively, and sustainably.
+abstract_source: https://mauiday.net/archive/cologne-2026
+abstract_source_label: MAUI Day Cologne 2026 archive
+slides:
+  pdf: slides.pdf
+  pages: 21
+  notes: reviewed
+  release:
+    tag: 2026-10-23-maui-day-cologne-ai-at-the-edge
+    asset: 2026-10-23-maui-day-cologne-ai-at-the-edge.pptx
+    mb: 25.5
+recorded: "no"
+video: []
+demos:
+  - name: "Demo 1: an agent drives Barista Notes with DevFlow (recorded video in the deck)"
+    repo: dotnet/maui-labs
+  - name: "Demo 2: Barista Notes, talk to it and show it (voice tools and photo capture)"
+    repo: davidortinau/BaristaNotes
+    branch: 005-reorder-agent
+    commit: 0f47717091a77368b024b405b71ca2bab91cd816
+  - name: "Demo 3: Sentence Studio, see it and say it (scenes, voice, import)"
+    repo: davidortinau/SentenceStudio
+    branch: techorama/next-gen-demos
+    commit: 87060745e9a63f0f9e80739989b1e5d80e0d0ace
+same_talk_as: []
+resources:
+  - {label: "maui CLI and DevFlow (experimental, in maui-labs)", url: "https://github.com/dotnet/maui-labs"}
+  - {label: "maui ai automation doc", url: "https://github.com/dotnet/maui-labs/blob/main/docs/Cli/ai-automation.md"}
+  - {label: "Ailoha (Redth's experiment)", url: "https://ailoha.dev"}
+  - {label: "Mobile Canvas (community)", url: "https://github.com/Redth/mobile-canvas-ghcp"}
+  - {label: "MAUI Sherpa (community)", url: "https://github.com/Redth/MAUI.Sherpa"}
+  - {label: "My DevFlow pull requests in maui-labs", url: "https://github.com/dotnet/maui-labs/pulls?q=author%3Adavidortinau"}
+tags: [ai, agents, maui, devflow, aspire, voice]
+sources:
+  - https://mauiday.net/archive/cologne-2026

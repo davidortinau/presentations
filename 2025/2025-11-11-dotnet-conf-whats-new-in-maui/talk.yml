@@ -1,0 +1,36 @@
+title: What's New in .NET MAUI
+date: 2025-11-11
+event: .NET Conf 2025
+event_url: https://www.dotnetconf.net/
+city: Online
+format: session
+session_url: https://devblogs.microsoft.com/dotnet/get-ready-for-dotnet-conf-2025/
+abstract: |
+  Explore the latest features in .NET MAUI for .NET 10, including enhanced performance, new controls and layouts, and improved tooling experiences
+abstract_source: https://devblogs.microsoft.com/dotnet/get-ready-for-dotnet-conf-2025/
+abstract_source_label: .NET Conf 2025 agenda post on the .NET Blog
+slides:
+  pdf: slides.pdf
+  notes: reviewed
+  release:
+    tag: 2025-11-11-dotnet-conf-whats-new-in-maui
+    asset: 2025-11-11-dotnet-conf-whats-new-in-maui.pptx
+    mb: 56.4
+  pages: 34
+recorded: 'yes'
+video:
+- label: '.NET Conf 2025: What''s New in .NET MAUI (dotnet channel)'
+  url: https://www.youtube.com/watch?v=6kz3XWCVij0
+same_talk_as: []
+resources:
+- label: .NET MAUI documentation
+  url: https://learn.microsoft.com/en-us/dotnet/maui/
+- label: .NET MAUI samples
+  url: https://learn.microsoft.com/en-us/samples/browse/?expanded=dotnet&products=dotnet-maui
+- label: Upgrade instructions, .NET MAUI 9 to 10
+  url: https://github.com/dotnet/maui-samples/blob/main/.github/workflows/instructions/dotnet-maui-9-to-dotnet-maui-10-upgrade.instructions.md
+- label: .NET MAUI support policy
+  url: https://dotnet.microsoft.com/en-us/platform/support/policy/maui
+sources:
+- https://devblogs.microsoft.com/dotnet/get-ready-for-dotnet-conf-2025/
+- https://www.youtube.com/watch?v=6kz3XWCVij0

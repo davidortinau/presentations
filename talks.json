@@ -1,0 +1,1716 @@
+{
+  "talks": [
+    {
+      "slug": "2026-10-28-techorama-nl-next-gen-ai-apps",
+      "title": "Build Next-Gen AI Apps with .NET",
+      "date": "2026-10-28",
+      "event": "Techorama NL 2026",
+      "city": "Utrecht, Netherlands",
+      "format": "talk",
+      "url": "https://github.com/davidortinau/presentations/tree/main/2026/2026-10-28-techorama-nl-next-gen-ai-apps",
+      "slides_pdf": "https://github.com/davidortinau/presentations/blob/main/2026/2026-10-28-techorama-nl-next-gen-ai-apps/slides.pdf",
+      "slides_pptx": "https://github.com/davidortinau/presentations/releases/download/2026-10-28-techorama-nl-next-gen-ai-apps/2026-10-28-techorama-nl-next-gen-ai-apps.pptx",
+      "thumbnail": "https://raw.githubusercontent.com/davidortinau/presentations/main/2026/2026-10-28-techorama-nl-next-gen-ai-apps/thumbnail.jpg",
+      "video": [],
+      "tags": [
+        "ai",
+        "agents",
+        "meai",
+        "agent-framework",
+        "evaluation",
+        "realtime",
+        "aspire",
+        "maui"
+      ]
+    },
+    {
+      "slug": "2026-10-27-techorama-nl-trust-fall",
+      "title": "Trust Fall: Building UX for Apps that work on their own",
+      "date": "2026-10-27",
+      "event": "Techorama NL 2026",
+      "city": "Utrecht, Netherlands",
+      "format": "talk",
+      "url": "https://github.com/davidortinau/presentations/tree/main/2026/2026-10-27-techorama-nl-trust-fall",
+      "slides_pdf": "https://github.com/davidortinau/presentations/blob/main/2026/2026-10-27-techorama-nl-trust-fall/slides.pdf",
+      "slides_pptx": "https://github.com/davidortinau/presentations/releases/download/2026-10-27-techorama-nl-trust-fall/2026-10-27-techorama-nl-trust-fall.pptx",
+      "thumbnail": "https://raw.githubusercontent.com/davidortinau/presentations/main/2026/2026-10-27-techorama-nl-trust-fall/thumbnail.jpg",
+      "video": [],
+      "tags": [
+        "ai",
+        "agents",
+        "ux",
+        "maui",
+        "blazor",
+        "meai",
+        "agent-framework",
+        "aspire"
+      ]
+    },
+    {
+      "slug": "2026-10-23-maui-day-cologne-qa-panel",
+      "title": ".NET MAUI Q&A Panel",
+      "date": "2026-10-23",
+      "event": "MAUI Day Cologne 2026",
+      "city": "Cologne, Germany",
+      "format": "panel",
+      "url": "https://github.com/davidortinau/presentations/tree/main/2026/2026-10-23-maui-day-cologne-qa-panel",
+      "slides_pdf": null,
+      "slides_pptx": null,
+      "thumbnail": null,
+      "video": [],
+      "tags": [
+        "maui",
+        "panel"
+      ]
+    },
+    {
+      "slug": "2026-10-23-maui-day-cologne-ai-at-the-edge",
+      "title": "Building with AI at the Edge",
+      "date": "2026-10-23",
+      "event": "MAUI Day Cologne 2026",
+      "city": "Cologne, Germany",
+      "format": "talk",
+      "url": "https://github.com/davidortinau/presentations/tree/main/2026/2026-10-23-maui-day-cologne-ai-at-the-edge",
+      "slides_pdf": "https://github.com/davidortinau/presentations/blob/main/2026/2026-10-23-maui-day-cologne-ai-at-the-edge/slides.pdf",
+      "slides_pptx": "https://github.com/davidortinau/presentations/releases/download/2026-10-23-maui-day-cologne-ai-at-the-edge/2026-10-23-maui-day-cologne-ai-at-the-edge.pptx",
+      "thumbnail": "https://raw.githubusercontent.com/davidortinau/presentations/main/2026/2026-10-23-maui-day-cologne-ai-at-the-edge/thumbnail.jpg",
+      "video": [],
+      "tags": [
+        "ai",
+        "agents",
+        "maui",
+        "devflow",
+        "aspire",
+        "voice"
+      ]
+    },
+    {
+      "slug": "2026-09-10-syncfusion-webinar-maui-net-11",
+      "title": "Build Modern .NET MAUI Apps with .NET 11",
+      "date": "2026-09-10",
+      "event": "Syncfusion webinar",
+      "city": "Online",
+      "format": "webinar",
+      "url": "https://github.com/davidortinau/presentations/tree/main/2026/2026-09-10-syncfusion-webinar-maui-net-11",
+      "slides_pdf": "https://github.com/davidortinau/presentations/blob/main/2026/2026-09-10-syncfusion-webinar-maui-net-11/slides.pdf",
+      "slides_pptx": "https://github.com/davidortinau/presentations/releases/download/2026-09-10-syncfusion-webinar-maui-net-11/2026-09-10-syncfusion-webinar-maui-net-11.pptx",
+      "thumbnail": "https://raw.githubusercontent.com/davidortinau/presentations/main/2026/2026-09-10-syncfusion-webinar-maui-net-11/thumbnail.jpg",
+      "video": [
+        "https://www.youtube.com/watch?v=ExRWMGpm1rc"
+      ],
+      "tags": [
+        "maui",
+        "net11",
+        "coreclr",
+        "xaml",
+        "hot-reload",
+        "syncfusion"
+      ]
+    },
+    {
+      "slug": "2026-06-17-trailblazor-maui-takes-on-web",
+      "title": ".NET MAUI Takes on Web and More",
+      "date": "2026-06-17",
+      "event": "TrailBlazor 2026",
+      "city": "Online",
+      "format": "talk",
+      "url": "https://github.com/davidortinau/presentations/tree/main/2026/2026-06-17-trailblazor-maui-takes-on-web",
+      "slides_pdf": "https://github.com/davidortinau/presentations/blob/main/2026/2026-06-17-trailblazor-maui-takes-on-web/slides.pdf",
+      "slides_pptx": "https://github.com/davidortinau/presentations/releases/download/2026-06-17-trailblazor-maui-takes-on-web/2026-06-17-trailblazor-maui-takes-on-web.pptx",
+      "thumbnail": "https://raw.githubusercontent.com/davidortinau/presentations/main/2026/2026-06-17-trailblazor-maui-takes-on-web/thumbnail.jpg",
+      "video": [
+        "https://youtu.be/b9siFlZE6XQ"
+      ],
+      "tags": [
+        "maui",
+        "blazor",
+        "blazor-hybrid",
+        "web"
+      ]
+    },
+    {
+      "slug": "2026-05-29-maui-day-krakow-now-and-next",
+      "title": ".NET MAUI Now and Next",
+      "date": "2026-05-29",
+      "event": "MAUI Day Kraków 2026",
+      "city": "Kraków, Poland",
+      "format": "talk",
+      "url": "https://github.com/davidortinau/presentations/tree/main/2026/2026-05-29-maui-day-krakow-now-and-next",
+      "slides_pdf": null,
+      "slides_pptx": null,
+      "thumbnail": null,
+      "video": [],
+      "tags": [
+        "maui",
+        "dotnet-11"
+      ]
+    },
+    {
+      "slug": "2026-05-29-maui-day-krakow-maui-panel",
+      "title": "The MAUI Panel",
+      "date": "2026-05-29",
+      "event": "MAUI Day Kraków 2026",
+      "city": "Kraków, Poland",
+      "format": "panel",
+      "url": "https://github.com/davidortinau/presentations/tree/main/2026/2026-05-29-maui-day-krakow-maui-panel",
+      "slides_pdf": null,
+      "slides_pptx": null,
+      "thumbnail": null,
+      "video": [],
+      "tags": [
+        "maui",
+        "panel"
+      ]
+    },
+    {
+      "slug": "2026-05-28-update-conference-krakow-telepathic-ux",
+      "title": "Telepathic UX: The Next Generation of Mobile Apps",
+      "date": "2026-05-28",
+      "event": "Update Conference Kraków 2026",
+      "city": "Kraków, Poland",
+      "format": "talk",
+      "url": "https://github.com/davidortinau/presentations/tree/main/2026/2026-05-28-update-conference-krakow-telepathic-ux",
+      "slides_pdf": "https://github.com/davidortinau/presentations/blob/main/2026/2026-05-28-update-conference-krakow-telepathic-ux/slides.pdf",
+      "slides_pptx": "https://github.com/davidortinau/presentations/releases/download/2026-05-28-update-conference-krakow-telepathic-ux/2026-05-28-update-conference-krakow-telepathic-ux.pptx",
+      "thumbnail": "https://raw.githubusercontent.com/davidortinau/presentations/main/2026/2026-05-28-update-conference-krakow-telepathic-ux/thumbnail.jpg",
+      "video": [],
+      "tags": []
+    },
+    {
+      "slug": "2026-02-06-maui-day-london-qa-panel",
+      "title": "MAUI Q&A Panel",
+      "date": "2026-02-06",
+      "event": "MAUI Day London 2026",
+      "city": "London, United Kingdom",
+      "format": "panel",
+      "url": "https://github.com/davidortinau/presentations/tree/main/2026/2026-02-06-maui-day-london-qa-panel",
+      "slides_pdf": null,
+      "slides_pptx": null,
+      "thumbnail": null,
+      "video": [],
+      "tags": [
+        "maui",
+        "panel"
+      ]
+    },
+    {
+      "slug": "2026-02-06-maui-day-london-now-and-next",
+      "title": ".NET MAUI Now and Next",
+      "date": "2026-02-06",
+      "event": "MAUI Day London 2026",
+      "city": "London, United Kingdom",
+      "format": "talk",
+      "url": "https://github.com/davidortinau/presentations/tree/main/2026/2026-02-06-maui-day-london-now-and-next",
+      "slides_pdf": null,
+      "slides_pptx": null,
+      "thumbnail": null,
+      "video": [],
+      "tags": [
+        "maui",
+        "dotnet-11"
+      ]
+    },
+    {
+      "slug": "2026-02-04-swetugg-blazor-everywhere",
+      "title": "Blazor Everywhere",
+      "date": "2026-02-04",
+      "event": "Swetugg Stockholm 2026",
+      "city": "Stockholm, Sweden",
+      "format": "talk",
+      "url": "https://github.com/davidortinau/presentations/tree/main/2026/2026-02-04-swetugg-blazor-everywhere",
+      "slides_pdf": "https://github.com/davidortinau/presentations/blob/main/2026/2026-02-04-swetugg-blazor-everywhere/slides.pdf",
+      "slides_pptx": "https://github.com/davidortinau/presentations/releases/download/2026-02-04-swetugg-blazor-everywhere/2026-02-04-swetugg-blazor-everywhere.pptx",
+      "thumbnail": "https://raw.githubusercontent.com/davidortinau/presentations/main/2026/2026-02-04-swetugg-blazor-everywhere/thumbnail.jpg",
+      "video": [],
+      "tags": []
+    },
+    {
+      "slug": "2026-02-03-swetugg-multimodal-foundry-maui",
+      "title": "Multimodal Apps with AI Foundry and .NET MAUI",
+      "date": "2026-02-03",
+      "event": "Swetugg Stockholm 2026",
+      "city": "Stockholm, Sweden",
+      "format": "talk",
+      "url": "https://github.com/davidortinau/presentations/tree/main/2026/2026-02-03-swetugg-multimodal-foundry-maui",
+      "slides_pdf": "https://github.com/davidortinau/presentations/blob/main/2026/2026-02-03-swetugg-multimodal-foundry-maui/slides.pdf",
+      "slides_pptx": "https://github.com/davidortinau/presentations/releases/download/2026-02-03-swetugg-multimodal-foundry-maui/2026-02-03-swetugg-multimodal-foundry-maui.pptx",
+      "thumbnail": "https://raw.githubusercontent.com/davidortinau/presentations/main/2026/2026-02-03-swetugg-multimodal-foundry-maui/thumbnail.jpg",
+      "video": [],
+      "tags": []
+    },
+    {
+      "slug": "2025-11-11-dotnet-conf-whats-new-in-maui",
+      "title": "What's New in .NET MAUI",
+      "date": "2025-11-11",
+      "event": ".NET Conf 2025",
+      "city": "Online",
+      "format": "session",
+      "url": "https://github.com/davidortinau/presentations/tree/main/2025/2025-11-11-dotnet-conf-whats-new-in-maui",
+      "slides_pdf": "https://github.com/davidortinau/presentations/blob/main/2025/2025-11-11-dotnet-conf-whats-new-in-maui/slides.pdf",
+      "slides_pptx": "https://github.com/davidortinau/presentations/releases/download/2025-11-11-dotnet-conf-whats-new-in-maui/2025-11-11-dotnet-conf-whats-new-in-maui.pptx",
+      "thumbnail": "https://raw.githubusercontent.com/davidortinau/presentations/main/2025/2025-11-11-dotnet-conf-whats-new-in-maui/thumbnail.jpg",
+      "video": [
+        "https://www.youtube.com/watch?v=6kz3XWCVij0"
+      ],
+      "tags": []
+    },
+    {
+      "slug": "2025-10-14-azure-dev-summit-multimodal-foundry-maui",
+      "title": "Multimodal Apps with AI Foundry and .NET MAUI",
+      "date": "2025-10-14",
+      "event": "Azure Dev Summit 2025",
+      "city": "Lisbon, Portugal",
+      "format": "talk",
+      "url": "https://github.com/davidortinau/presentations/tree/main/2025/2025-10-14-azure-dev-summit-multimodal-foundry-maui",
+      "slides_pdf": "https://github.com/davidortinau/presentations/blob/main/2025/2025-10-14-azure-dev-summit-multimodal-foundry-maui/slides.pdf",
+      "slides_pptx": "https://github.com/davidortinau/presentations/releases/download/2025-10-14-azure-dev-summit-multimodal-foundry-maui/2025-10-14-azure-dev-summit-multimodal-foundry-maui.pptx",
+      "thumbnail": "https://raw.githubusercontent.com/davidortinau/presentations/main/2025/2025-10-14-azure-dev-summit-multimodal-foundry-maui/thumbnail.jpg",
+      "video": [
+        "https://www.youtube.com/watch?v=5L9RAnNPoLw"
+      ],
+      "tags": [
+        "ai",
+        "foundry",
+        "maui",
+        "multimodal"
+      ]
+    },
+    {
+      "slug": "2025-10-azure-dev-summit-telepathic-ux",
+      "title": "Telepathic UX: The Next Generation of Mobile Apps",
+      "date": "2025-10",
+      "event": "Azure Dev Summit 2025",
+      "city": "Lisbon, Portugal",
+      "format": "talk",
+      "url": "https://github.com/davidortinau/presentations/tree/main/2025/2025-10-azure-dev-summit-telepathic-ux",
+      "slides_pdf": null,
+      "slides_pptx": null,
+      "thumbnail": null,
+      "video": [
+        "https://www.youtube.com/watch?v=p_HzNEng2vQ"
+      ],
+      "tags": [
+        "ai",
+        "mobile",
+        "maui"
+      ]
+    },
+    {
+      "slug": "2025-09-18-syncfusion-webinar-premium-maui-apps",
+      "title": "Build Premium .NET MAUI Apps with Syncfusion",
+      "date": "2025-09-18",
+      "event": "Syncfusion webinar",
+      "city": "Online",
+      "format": "webinar",
+      "url": "https://github.com/davidortinau/presentations/tree/main/2025/2025-09-18-syncfusion-webinar-premium-maui-apps",
+      "slides_pdf": null,
+      "slides_pptx": null,
+      "thumbnail": null,
+      "video": [
+        "https://www.youtube.com/watch?v=IWwxMnJN8qE"
+      ],
+      "tags": [
+        "maui",
+        "syncfusion",
+        "vs2026"
+      ]
+    },
+    {
+      "slug": "2025-08-05-vslive-redmond-mobile-desktop-maui",
+      "title": "Building Mobile & Desktop Apps with VS and .NET MAUI (T16)",
+      "date": "2025-08-05",
+      "event": "VS Live! at Microsoft HQ 2025",
+      "city": "Redmond, United States",
+      "format": "talk",
+      "url": "https://github.com/davidortinau/presentations/tree/main/2025/2025-08-05-vslive-redmond-mobile-desktop-maui",
+      "slides_pdf": null,
+      "slides_pptx": null,
+      "thumbnail": null,
+      "video": [
+        "https://www.youtube.com/watch?v=MB0I5Hy6Wc8"
+      ],
+      "tags": [
+        "maui",
+        "visual-studio"
+      ]
+    },
+    {
+      "slug": "2025-05-22-build-brk123-ai-infused-maui",
+      "title": "BRK123 AI infused mobile & desktop app development with .NET MAUI",
+      "date": "2025-05-22",
+      "event": "Build 2025",
+      "city": "Seattle, United States",
+      "format": "session",
+      "url": "https://github.com/davidortinau/presentations/tree/main/2025/2025-05-22-build-brk123-ai-infused-maui",
+      "slides_pdf": "https://github.com/davidortinau/presentations/blob/main/2025/2025-05-22-build-brk123-ai-infused-maui/slides.pdf",
+      "slides_pptx": "https://github.com/davidortinau/presentations/releases/download/2025-05-22-build-brk123-ai-infused-maui/2025-05-22-build-brk123-ai-infused-maui.pptx",
+      "thumbnail": "https://raw.githubusercontent.com/davidortinau/presentations/main/2025/2025-05-22-build-brk123-ai-infused-maui/thumbnail.jpg",
+      "video": [
+        "https://www.youtube.com/watch?v=tFOFU7LDQlA&t=556s"
+      ],
+      "tags": [
+        "ai",
+        "maui",
+        "meai",
+        "aspire",
+        "copilot",
+        "hybrid"
+      ]
+    },
+    {
+      "slug": "2025-03-14-maui-day-london-now-and-next",
+      "title": ".NET MAUI Now and Next",
+      "date": "2025-03-14",
+      "event": "MAUI Day London 2025",
+      "city": "London, United Kingdom",
+      "format": "talk",
+      "url": "https://github.com/davidortinau/presentations/tree/main/2025/2025-03-14-maui-day-london-now-and-next",
+      "slides_pdf": null,
+      "slides_pptx": null,
+      "thumbnail": null,
+      "video": [],
+      "tags": [
+        "maui",
+        "dotnet-10"
+      ]
+    },
+    {
+      "slug": "2024-11-12-dotnet-conf-whats-new-in-maui-net-9",
+      "title": "What's New in .NET MAUI in .NET 9",
+      "date": "2024-11-12",
+      "event": ".NET Conf 2024",
+      "city": "Online",
+      "format": "session",
+      "url": "https://github.com/davidortinau/presentations/tree/main/2024/2024-11-12-dotnet-conf-whats-new-in-maui-net-9",
+      "slides_pdf": "https://github.com/davidortinau/presentations/blob/main/2024/2024-11-12-dotnet-conf-whats-new-in-maui-net-9/slides.pdf",
+      "slides_pptx": "https://github.com/davidortinau/presentations/releases/download/2024-11-12-dotnet-conf-whats-new-in-maui-net-9/2024-11-12-dotnet-conf-whats-new-in-maui-net-9.pptx",
+      "thumbnail": "https://raw.githubusercontent.com/davidortinau/presentations/main/2024/2024-11-12-dotnet-conf-whats-new-in-maui-net-9/thumbnail.jpg",
+      "video": [
+        "https://www.youtube.com/watch?v=4cosSX7ldPs"
+      ],
+      "tags": [
+        "maui",
+        "dotnet-9"
+      ]
+    },
+    {
+      "slug": "2024-11-12-dotnet-conf-keynote-welcome-to-net-9",
+      "title": "Keynote: Welcome to .NET 9",
+      "date": "2024-11-12",
+      "event": ".NET Conf 2024",
+      "city": "Online",
+      "format": "keynote",
+      "url": "https://github.com/davidortinau/presentations/tree/main/2024/2024-11-12-dotnet-conf-keynote-welcome-to-net-9",
+      "slides_pdf": "https://github.com/davidortinau/presentations/blob/main/2024/2024-11-12-dotnet-conf-keynote-welcome-to-net-9/slides.pdf",
+      "slides_pptx": "https://github.com/davidortinau/presentations/releases/download/2024-11-12-dotnet-conf-keynote-welcome-to-net-9/2024-11-12-dotnet-conf-keynote-welcome-to-net-9.pptx",
+      "thumbnail": "https://raw.githubusercontent.com/davidortinau/presentations/main/2024/2024-11-12-dotnet-conf-keynote-welcome-to-net-9/thumbnail.jpg",
+      "video": [
+        "https://www.youtube.com/watch?v=ikSNL-lxolc"
+      ],
+      "tags": [
+        "dotnet-9",
+        "maui",
+        "aspire",
+        "blazor",
+        "ai",
+        "keynote"
+      ]
+    },
+    {
+      "slug": "2024-10-11-maui-day-cologne-shaping-the-future",
+      "title": "Shaping the Future of .NET MAUI",
+      "date": "2024-10-11",
+      "event": "MAUI Day Cologne 2024",
+      "city": "Cologne, Germany",
+      "format": "talk",
+      "url": "https://github.com/davidortinau/presentations/tree/main/2024/2024-10-11-maui-day-cologne-shaping-the-future",
+      "slides_pdf": null,
+      "slides_pptx": null,
+      "thumbnail": null,
+      "video": [],
+      "tags": [
+        "maui",
+        "dotnet-9",
+        "roadmap"
+      ]
+    },
+    {
+      "slug": "2024-10-techorama-nl-getting-the-most-from-maui",
+      "title": "Getting the Most from .NET MAUI",
+      "date": "2024-10",
+      "event": "Techorama NL 2024",
+      "city": null,
+      "format": "talk",
+      "url": "https://github.com/davidortinau/presentations/tree/main/2024/2024-10-techorama-nl-getting-the-most-from-maui",
+      "slides_pdf": "https://github.com/davidortinau/presentations/blob/main/2024/2024-10-techorama-nl-getting-the-most-from-maui/slides.pdf",
+      "slides_pptx": "https://github.com/davidortinau/presentations/releases/download/2024-10-techorama-nl-getting-the-most-from-maui/2024-10-techorama-nl-getting-the-most-from-maui.pptx",
+      "thumbnail": "https://raw.githubusercontent.com/davidortinau/presentations/main/2024/2024-10-techorama-nl-getting-the-most-from-maui/thumbnail.jpg",
+      "video": [],
+      "tags": [
+        "maui",
+        "best-practices"
+      ]
+    },
+    {
+      "slug": "2024-10-techorama-nl-cracking-the-shell",
+      "title": "Cracking the Shell of .NET MAUI",
+      "date": "2024-10",
+      "event": "Techorama NL 2024",
+      "city": null,
+      "format": "talk",
+      "url": "https://github.com/davidortinau/presentations/tree/main/2024/2024-10-techorama-nl-cracking-the-shell",
+      "slides_pdf": "https://github.com/davidortinau/presentations/blob/main/2024/2024-10-techorama-nl-cracking-the-shell/slides.pdf",
+      "slides_pptx": "https://github.com/davidortinau/presentations/releases/download/2024-10-techorama-nl-cracking-the-shell/2024-10-techorama-nl-cracking-the-shell.pptx",
+      "thumbnail": "https://raw.githubusercontent.com/davidortinau/presentations/main/2024/2024-10-techorama-nl-cracking-the-shell/thumbnail.jpg",
+      "video": [],
+      "tags": [
+        "maui",
+        "shell",
+        "navigation"
+      ]
+    },
+    {
+      "slug": "2024-07-23-kc-dotnet-user-group-maui-net-9",
+      "title": "App Building with .NET MAUI in .NET 9",
+      "date": "2024-07-23",
+      "event": "KC .NET User Group",
+      "city": "Overland Park, United States",
+      "format": "talk",
+      "url": "https://github.com/davidortinau/presentations/tree/main/2024/2024-07-23-kc-dotnet-user-group-maui-net-9",
+      "slides_pdf": "https://github.com/davidortinau/presentations/blob/main/2024/2024-07-23-kc-dotnet-user-group-maui-net-9/slides.pdf",
+      "slides_pptx": "https://github.com/davidortinau/presentations/releases/download/2024-07-23-kc-dotnet-user-group-maui-net-9/2024-07-23-kc-dotnet-user-group-maui-net-9.pptx",
+      "thumbnail": "https://raw.githubusercontent.com/davidortinau/presentations/main/2024/2024-07-23-kc-dotnet-user-group-maui-net-9/thumbnail.jpg",
+      "video": [],
+      "tags": [
+        "maui",
+        "dotnet-9"
+      ]
+    },
+    {
+      "slug": "2024-05-build-od534-enhancing-maui",
+      "title": "OD534 Enhancing .NET MAUI: Quality, Performance and Interoperability in .NET 9",
+      "date": "2024-05",
+      "event": "Build 2024",
+      "city": "Online",
+      "format": "session",
+      "url": "https://github.com/davidortinau/presentations/tree/main/2024/2024-05-build-od534-enhancing-maui",
+      "slides_pdf": null,
+      "slides_pptx": null,
+      "thumbnail": null,
+      "video": [
+        "https://www.youtube.com/watch?v=RKCWEr0CPKs"
+      ],
+      "tags": [
+        "maui",
+        "dotnet-9",
+        "build"
+      ]
+    },
+    {
+      "slug": "2024-02-01-maui-community-standup-dos-and-donts",
+      "title": ".NET MAUI Do's and Don'ts",
+      "date": "2024-02-01",
+      "event": ".NET MAUI Community Standup",
+      "city": "Online",
+      "format": "livestream",
+      "url": "https://github.com/davidortinau/presentations/tree/main/2024/2024-02-01-maui-community-standup-dos-and-donts",
+      "slides_pdf": "https://github.com/davidortinau/presentations/blob/main/2024/2024-02-01-maui-community-standup-dos-and-donts/slides.pdf",
+      "slides_pptx": "https://github.com/davidortinau/presentations/releases/download/2024-02-01-maui-community-standup-dos-and-donts/2024-02-01-maui-community-standup-dos-and-donts.pptx",
+      "thumbnail": "https://raw.githubusercontent.com/davidortinau/presentations/main/2024/2024-02-01-maui-community-standup-dos-and-donts/thumbnail.jpg",
+      "video": [
+        "https://www.youtube.com/watch?v=IQbJPm1VBkg&t=2955s"
+      ],
+      "tags": [
+        "maui",
+        "guidance",
+        "community-standup"
+      ]
+    },
+    {
+      "slug": "2023-11-16-dotnet-conf-maui-devops",
+      "title": "Build .NET MAUI Apps with DevOps",
+      "date": "2023-11-16",
+      "event": ".NET Conf 2023",
+      "city": "Online",
+      "format": "session",
+      "url": "https://github.com/davidortinau/presentations/tree/main/2023/2023-11-16-dotnet-conf-maui-devops",
+      "slides_pdf": null,
+      "slides_pptx": null,
+      "thumbnail": null,
+      "video": [
+        "https://www.youtube.com/watch?v=PattkMhmnzE"
+      ],
+      "tags": []
+    },
+    {
+      "slug": "2023-11-14-dotnet-conf-whats-new-in-maui",
+      "title": "What's New in .NET MAUI",
+      "date": "2023-11-14",
+      "event": ".NET Conf 2023",
+      "city": "Online",
+      "format": "session",
+      "url": "https://github.com/davidortinau/presentations/tree/main/2023/2023-11-14-dotnet-conf-whats-new-in-maui",
+      "slides_pdf": "https://github.com/davidortinau/presentations/blob/main/2023/2023-11-14-dotnet-conf-whats-new-in-maui/slides.pdf",
+      "slides_pptx": "https://github.com/davidortinau/presentations/releases/download/2023-11-14-dotnet-conf-whats-new-in-maui/2023-11-14-dotnet-conf-whats-new-in-maui.pptx",
+      "thumbnail": "https://raw.githubusercontent.com/davidortinau/presentations/main/2023/2023-11-14-dotnet-conf-whats-new-in-maui/thumbnail.jpg",
+      "video": [
+        "https://www.youtube.com/watch?v=4saU9BNY6l4"
+      ],
+      "tags": []
+    },
+    {
+      "slug": "2023-11-devreach-future-in-maui",
+      "title": "The Future in .NET MAUI",
+      "date": "2023-11",
+      "event": "DevReach 2023",
+      "city": null,
+      "format": "talk",
+      "url": "https://github.com/davidortinau/presentations/tree/main/2023/2023-11-devreach-future-in-maui",
+      "slides_pdf": "https://github.com/davidortinau/presentations/blob/main/2023/2023-11-devreach-future-in-maui/slides.pdf",
+      "slides_pptx": "https://github.com/davidortinau/presentations/releases/download/2023-11-devreach-future-in-maui/2023-11-devreach-future-in-maui.pptx",
+      "thumbnail": "https://raw.githubusercontent.com/davidortinau/presentations/main/2023/2023-11-devreach-future-in-maui/thumbnail.jpg",
+      "video": [
+        "https://www.youtube.com/watch?v=w80d3TkIBWM"
+      ],
+      "tags": [
+        "maui",
+        "dotnet-8",
+        "roadmap"
+      ]
+    },
+    {
+      "slug": "2023-05-techorama-be-upgrade-xamarin-net-7",
+      "title": "How to Upgrade from Xamarin to .NET 7",
+      "date": "2023-05",
+      "event": "Techorama BE 2023",
+      "city": "Antwerp, Belgium",
+      "format": "talk",
+      "url": "https://github.com/davidortinau/presentations/tree/main/2023/2023-05-techorama-be-upgrade-xamarin-net-7",
+      "slides_pdf": "https://github.com/davidortinau/presentations/blob/main/2023/2023-05-techorama-be-upgrade-xamarin-net-7/slides.pdf",
+      "slides_pptx": "https://github.com/davidortinau/presentations/releases/download/2023-05-techorama-be-upgrade-xamarin-net-7/2023-05-techorama-be-upgrade-xamarin-net-7.pptx",
+      "thumbnail": "https://raw.githubusercontent.com/davidortinau/presentations/main/2023/2023-05-techorama-be-upgrade-xamarin-net-7/thumbnail.jpg",
+      "video": [],
+      "tags": [
+        "maui",
+        "xamarin",
+        "migration"
+      ]
+    },
+    {
+      "slug": "2023-05-build-dis202h-maui-qa",
+      "title": "What's new in .NET Multi-platform App UI (MAUI) Q&A | DIS202H",
+      "date": "2023-05",
+      "event": "Build 2023",
+      "city": null,
+      "format": "panel",
+      "url": "https://github.com/davidortinau/presentations/tree/main/2023/2023-05-build-dis202h-maui-qa",
+      "slides_pdf": null,
+      "slides_pptx": null,
+      "thumbnail": null,
+      "video": [
+        "https://www.youtube.com/watch?v=totCqGdDhMM"
+      ],
+      "tags": []
+    },
+    {
+      "slug": "2023-05-build-brk204-client-mobile-maui",
+      "title": "BRK204 All things client and mobile app development with .NET MAUI",
+      "date": "2023-05",
+      "event": "Build 2023",
+      "city": "Seattle, United States",
+      "format": "session",
+      "url": "https://github.com/davidortinau/presentations/tree/main/2023/2023-05-build-brk204-client-mobile-maui",
+      "slides_pdf": "https://github.com/davidortinau/presentations/blob/main/2023/2023-05-build-brk204-client-mobile-maui/slides.pdf",
+      "slides_pptx": "https://github.com/davidortinau/presentations/releases/download/2023-05-build-brk204-client-mobile-maui/2023-05-build-brk204-client-mobile-maui.pptx",
+      "thumbnail": "https://raw.githubusercontent.com/davidortinau/presentations/main/2023/2023-05-build-brk204-client-mobile-maui/thumbnail.jpg",
+      "video": [
+        "https://www.youtube.com/watch?v=-4SJvzGNZ_M"
+      ],
+      "tags": [
+        "maui",
+        "build",
+        "dotnet-8",
+        "hybridwebview"
+      ]
+    },
+    {
+      "slug": "2023-02-10-dotnet-frontend-day-survivalists-guide",
+      "title": "A Survivalist's Guide to .NET MAUI",
+      "date": "2023-02-10",
+      "event": ".NET Frontend Day 2023",
+      "city": "Stockholm, Sweden",
+      "format": "talk",
+      "url": "https://github.com/davidortinau/presentations/tree/main/2023/2023-02-10-dotnet-frontend-day-survivalists-guide",
+      "slides_pdf": "https://github.com/davidortinau/presentations/blob/main/2023/2023-02-10-dotnet-frontend-day-survivalists-guide/slides.pdf",
+      "slides_pptx": "https://github.com/davidortinau/presentations/releases/download/2023-02-10-dotnet-frontend-day-survivalists-guide/2023-02-10-dotnet-frontend-day-survivalists-guide.pptx",
+      "thumbnail": "https://raw.githubusercontent.com/davidortinau/presentations/main/2023/2023-02-10-dotnet-frontend-day-survivalists-guide/thumbnail.jpg",
+      "video": [
+        "https://www.youtube.com/watch?v=EoERm4ey96M"
+      ],
+      "tags": [
+        "maui",
+        "workloads",
+        "layouts",
+        "xamarin-upgrade",
+        "hot-reload"
+      ]
+    },
+    {
+      "slug": "2023-02-06-xamarin-expert-day-cologne-awesome-ui-maui",
+      "title": "Awesome UI with .NET MAUI",
+      "date": "2023-02-06",
+      "event": "XamExpertDay 2023",
+      "city": "Cologne, Germany",
+      "format": "talk",
+      "url": "https://github.com/davidortinau/presentations/tree/main/2023/2023-02-06-xamarin-expert-day-cologne-awesome-ui-maui",
+      "slides_pdf": "https://github.com/davidortinau/presentations/blob/main/2023/2023-02-06-xamarin-expert-day-cologne-awesome-ui-maui/slides.pdf",
+      "slides_pptx": "https://github.com/davidortinau/presentations/releases/download/2023-02-06-xamarin-expert-day-cologne-awesome-ui-maui/2023-02-06-xamarin-expert-day-cologne-awesome-ui-maui.pptx",
+      "thumbnail": "https://raw.githubusercontent.com/davidortinau/presentations/main/2023/2023-02-06-xamarin-expert-day-cologne-awesome-ui-maui/thumbnail.jpg",
+      "video": [],
+      "tags": [
+        "maui",
+        "ui",
+        "accessibility",
+        "shell",
+        "handlers",
+        "animations"
+      ]
+    },
+    {
+      "slug": "2023-02-swetugg-awesome-ui-maui",
+      "title": "Awesome UI with .NET MAUI",
+      "date": "2023-02",
+      "event": "Swetugg Stockholm 2023",
+      "city": "Stockholm, Sweden",
+      "format": "talk",
+      "url": "https://github.com/davidortinau/presentations/tree/main/2023/2023-02-swetugg-awesome-ui-maui",
+      "slides_pdf": null,
+      "slides_pptx": null,
+      "thumbnail": null,
+      "video": [],
+      "tags": [
+        "maui",
+        "ui",
+        "accessibility",
+        "shell",
+        "handlers",
+        "animations"
+      ]
+    },
+    {
+      "slug": "2022-12-devintersection-maui-auth",
+      "title": "Authentication with .NET MAUI",
+      "date": "2022-12",
+      "event": "DEVintersection 2022",
+      "city": "Las Vegas, United States",
+      "format": "talk",
+      "url": "https://github.com/davidortinau/presentations/tree/main/2022/2022-12-devintersection-maui-auth",
+      "slides_pdf": "https://github.com/davidortinau/presentations/blob/main/2022/2022-12-devintersection-maui-auth/slides.pdf",
+      "slides_pptx": "https://github.com/davidortinau/presentations/releases/download/2022-12-devintersection-maui-auth/2022-12-devintersection-maui-auth.pptx",
+      "thumbnail": "https://raw.githubusercontent.com/davidortinau/presentations/main/2022/2022-12-devintersection-maui-auth/thumbnail.jpg",
+      "video": [],
+      "tags": [
+        "maui",
+        "authentication",
+        "msal",
+        "identity"
+      ]
+    },
+    {
+      "slug": "2022-12-devintersection-awesome-ui-maui",
+      "title": "Awesome UI with .NET MAUI",
+      "date": "2022-12",
+      "event": "DEVintersection 2022",
+      "city": "Las Vegas, United States",
+      "format": "talk",
+      "url": "https://github.com/davidortinau/presentations/tree/main/2022/2022-12-devintersection-awesome-ui-maui",
+      "slides_pdf": "https://github.com/davidortinau/presentations/blob/main/2022/2022-12-devintersection-awesome-ui-maui/slides.pdf",
+      "slides_pptx": "https://github.com/davidortinau/presentations/releases/download/2022-12-devintersection-awesome-ui-maui/2022-12-devintersection-awesome-ui-maui.pptx",
+      "thumbnail": "https://raw.githubusercontent.com/davidortinau/presentations/main/2022/2022-12-devintersection-awesome-ui-maui/thumbnail.jpg",
+      "video": [],
+      "tags": [
+        "maui",
+        "ui",
+        "accessibility",
+        "shell",
+        "styling"
+      ]
+    },
+    {
+      "slug": "2022-11-08-dotnet-conf-state-of-maui",
+      "title": "State of .NET MAUI",
+      "date": "2022-11-08",
+      "event": ".NET Conf 2022",
+      "city": "Online",
+      "format": "session",
+      "url": "https://github.com/davidortinau/presentations/tree/main/2022/2022-11-08-dotnet-conf-state-of-maui",
+      "slides_pdf": "https://github.com/davidortinau/presentations/blob/main/2022/2022-11-08-dotnet-conf-state-of-maui/slides.pdf",
+      "slides_pptx": null,
+      "thumbnail": "https://raw.githubusercontent.com/davidortinau/presentations/main/2022/2022-11-08-dotnet-conf-state-of-maui/thumbnail.jpg",
+      "video": [
+        "https://www.youtube.com/watch?v=Z6UPJmerTo8"
+      ],
+      "tags": [
+        "maui",
+        "dotnet-conf",
+        "dotnet-7"
+      ]
+    },
+    {
+      "slug": "2022-10-devreach-cross-platform-maui",
+      "title": "Build Cross-platform Apps with .NET MAUI",
+      "date": "2022-10",
+      "event": "DevReach 2022",
+      "city": "Boston, United States",
+      "format": "talk",
+      "url": "https://github.com/davidortinau/presentations/tree/main/2022/2022-10-devreach-cross-platform-maui",
+      "slides_pdf": "https://github.com/davidortinau/presentations/blob/main/2022/2022-10-devreach-cross-platform-maui/slides.pdf",
+      "slides_pptx": "https://github.com/davidortinau/presentations/releases/download/2022-10-devreach-cross-platform-maui/2022-10-devreach-cross-platform-maui.pptx",
+      "thumbnail": "https://raw.githubusercontent.com/davidortinau/presentations/main/2022/2022-10-devreach-cross-platform-maui/thumbnail.jpg",
+      "video": [
+        "https://www.youtube.com/watch?v=T99XQ2rpCd0"
+      ],
+      "tags": [
+        "maui",
+        "xaml",
+        "csharp-markup",
+        "visual-studio"
+      ]
+    },
+    {
+      "slug": "2022-08-09-dotnet-conf-focus-on-maui-keynote",
+      "title": "Welcome to .NET MAUI!",
+      "date": "2022-08-09",
+      "event": ".NET Conf: Focus on MAUI 2022",
+      "city": null,
+      "format": "keynote",
+      "url": "https://github.com/davidortinau/presentations/tree/main/2022/2022-08-09-dotnet-conf-focus-on-maui-keynote",
+      "slides_pdf": "https://github.com/davidortinau/presentations/blob/main/2022/2022-08-09-dotnet-conf-focus-on-maui-keynote/slides.pdf",
+      "slides_pptx": "https://github.com/davidortinau/presentations/releases/download/2022-08-09-dotnet-conf-focus-on-maui-keynote/2022-08-09-dotnet-conf-focus-on-maui-keynote.pptx",
+      "thumbnail": "https://raw.githubusercontent.com/davidortinau/presentations/main/2022/2022-08-09-dotnet-conf-focus-on-maui-keynote/thumbnail.jpg",
+      "video": [
+        "https://learn.microsoft.com/en-us/shows/dotnetconf-focus-on-maui/welcome-to-dotnet-maui"
+      ],
+      "tags": [
+        "maui",
+        "keynote",
+        "dotnet-conf"
+      ]
+    },
+    {
+      "slug": "2022-05-04-telerik-stream-journey-to-maui-ga",
+      "title": "The Journey to .NET MAUI GA",
+      "date": "2022-05-04",
+      "event": "Progress Telerik \"Snorkeling in MAUI\"",
+      "city": "Online",
+      "format": "livestream",
+      "url": "https://github.com/davidortinau/presentations/tree/main/2022/2022-05-04-telerik-stream-journey-to-maui-ga",
+      "slides_pdf": null,
+      "slides_pptx": null,
+      "thumbnail": null,
+      "video": [
+        "https://www.youtube.com/watch?v=iJTn_sHCaac"
+      ],
+      "tags": []
+    },
+    {
+      "slug": "2022-03-dot-net-north-intro-to-maui",
+      "title": "Introducing .NET MAUI",
+      "date": "2022-03",
+      "event": "Dot Net North, March 2022",
+      "city": null,
+      "format": "talk",
+      "url": "https://github.com/davidortinau/presentations/tree/main/2022/2022-03-dot-net-north-intro-to-maui",
+      "slides_pdf": "https://github.com/davidortinau/presentations/blob/main/2022/2022-03-dot-net-north-intro-to-maui/slides.pdf",
+      "slides_pptx": "https://github.com/davidortinau/presentations/releases/download/2022-03-dot-net-north-intro-to-maui/2022-03-dot-net-north-intro-to-maui.pptx",
+      "thumbnail": "https://raw.githubusercontent.com/davidortinau/presentations/main/2022/2022-03-dot-net-north-intro-to-maui/thumbnail.jpg",
+      "video": [
+        "https://www.youtube.com/watch?v=rOJtZrMUAIM"
+      ],
+      "tags": [
+        "maui",
+        "intro"
+      ]
+    },
+    {
+      "slug": "2021-10-29-ubt-empowering-developers",
+      "title": "How Microsoft Is Empowering Developers",
+      "date": "2021-10-29",
+      "event": "UBT International Conference 2021 (IC-UBT 2021)",
+      "city": "Online",
+      "format": "keynote",
+      "url": "https://github.com/davidortinau/presentations/tree/main/2021/2021-10-29-ubt-empowering-developers",
+      "slides_pdf": "https://github.com/davidortinau/presentations/blob/main/2021/2021-10-29-ubt-empowering-developers/slides.pdf",
+      "slides_pptx": "https://github.com/davidortinau/presentations/releases/download/2021-10-29-ubt-empowering-developers/2021-10-29-ubt-empowering-developers.pptx",
+      "thumbnail": "https://raw.githubusercontent.com/davidortinau/presentations/main/2021/2021-10-29-ubt-empowering-developers/thumbnail.jpg",
+      "video": [],
+      "tags": [
+        "dotnet",
+        "maui",
+        "blazor-hybrid",
+        "keynote"
+      ]
+    },
+    {
+      "slug": "2021-10-01-xamarin-expert-day-next-maui-app",
+      "title": "Building Your Next .NET MAUI App",
+      "date": "2021-10-01",
+      "event": "Xamarin Expert Day 2021",
+      "city": "Online",
+      "format": "talk",
+      "url": "https://github.com/davidortinau/presentations/tree/main/2021/2021-10-01-xamarin-expert-day-next-maui-app",
+      "slides_pdf": "https://github.com/davidortinau/presentations/blob/main/2021/2021-10-01-xamarin-expert-day-next-maui-app/slides.pdf",
+      "slides_pptx": "https://github.com/davidortinau/presentations/releases/download/2021-10-01-xamarin-expert-day-next-maui-app/2021-10-01-xamarin-expert-day-next-maui-app.pptx",
+      "thumbnail": "https://raw.githubusercontent.com/davidortinau/presentations/main/2021/2021-10-01-xamarin-expert-day-next-maui-app/thumbnail.jpg",
+      "video": [
+        "https://www.youtube.com/watch?v=2wOlYwapNHY"
+      ],
+      "tags": [
+        "maui",
+        "dotnet-6",
+        "getting-started",
+        "xamarin"
+      ]
+    },
+    {
+      "slug": "2021-09-st-louis-dotnet-ug-net-6-apps",
+      "title": "Building Client Apps with .NET 6",
+      "date": "2021-09",
+      "event": "St. Louis .NET User Group",
+      "city": "St. Louis, United States",
+      "format": "talk",
+      "url": "https://github.com/davidortinau/presentations/tree/main/2021/2021-09-st-louis-dotnet-ug-net-6-apps",
+      "slides_pdf": "https://github.com/davidortinau/presentations/blob/main/2021/2021-09-st-louis-dotnet-ug-net-6-apps/slides.pdf",
+      "slides_pptx": "https://github.com/davidortinau/presentations/releases/download/2021-09-st-louis-dotnet-ug-net-6-apps/2021-09-st-louis-dotnet-ug-net-6-apps.pptx",
+      "thumbnail": "https://raw.githubusercontent.com/davidortinau/presentations/main/2021/2021-09-st-louis-dotnet-ug-net-6-apps/thumbnail.jpg",
+      "video": [],
+      "tags": [
+        "maui",
+        "dotnet-6",
+        "blazor",
+        "visual-studio-2022"
+      ]
+    },
+    {
+      "slug": "2021-07-24-reactor-dotnet-day-china-maui-vs2022",
+      "title": "Getting Started with .NET MAUI and Visual Studio 2022",
+      "date": "2021-07-24",
+      "event": "Microsoft Reactor .NET Day in China",
+      "city": "Shanghai, China",
+      "format": "talk",
+      "url": "https://github.com/davidortinau/presentations/tree/main/2021/2021-07-24-reactor-dotnet-day-china-maui-vs2022",
+      "slides_pdf": "https://github.com/davidortinau/presentations/blob/main/2021/2021-07-24-reactor-dotnet-day-china-maui-vs2022/slides.pdf",
+      "slides_pptx": "https://github.com/davidortinau/presentations/releases/download/2021-07-24-reactor-dotnet-day-china-maui-vs2022/2021-07-24-reactor-dotnet-day-china-maui-vs2022.pptx",
+      "thumbnail": "https://raw.githubusercontent.com/davidortinau/presentations/main/2021/2021-07-24-reactor-dotnet-day-china-maui-vs2022/thumbnail.jpg",
+      "video": [],
+      "tags": [
+        "maui",
+        "visual-studio-2022",
+        "dotnet-6"
+      ]
+    },
+    {
+      "slug": "2021-06-learn-tv-ask-the-expert-modern-apps",
+      "title": "Ask the Expert: The future of modern application development with .NET",
+      "date": "2021-06",
+      "event": "Ask the Expert (Learn TV)",
+      "city": "Online",
+      "format": "panel",
+      "url": "https://github.com/davidortinau/presentations/tree/main/2021/2021-06-learn-tv-ask-the-expert-modern-apps",
+      "slides_pdf": null,
+      "slides_pptx": null,
+      "thumbnail": null,
+      "video": [
+        "https://www.youtube.com/watch?v=UrEhdH2voQo"
+      ],
+      "tags": []
+    },
+    {
+      "slug": "2021-05-14-cologne-ug-next-app-with-maui",
+      "title": "Building Your Next App with .NET MAUI",
+      "date": "2021-05-14",
+      "event": "Cologne .NET User Group",
+      "city": "Online",
+      "format": "talk",
+      "url": "https://github.com/davidortinau/presentations/tree/main/2021/2021-05-14-cologne-ug-next-app-with-maui",
+      "slides_pdf": "https://github.com/davidortinau/presentations/blob/main/2021/2021-05-14-cologne-ug-next-app-with-maui/slides.pdf",
+      "slides_pptx": "https://github.com/davidortinau/presentations/releases/download/2021-05-14-cologne-ug-next-app-with-maui/2021-05-14-cologne-ug-next-app-with-maui.pptx",
+      "thumbnail": "https://raw.githubusercontent.com/davidortinau/presentations/main/2021/2021-05-14-cologne-ug-next-app-with-maui/thumbnail.jpg",
+      "video": [
+        "https://www.youtube.com/watch?v=6qrQax2Jqnw"
+      ],
+      "tags": [
+        "maui",
+        "dotnet-6",
+        "blazor"
+      ]
+    },
+    {
+      "slug": "2021-05-build-od485-net-6-deep-dive",
+      "title": ".NET 6 deep dive; what's new and what's coming | OD485",
+      "date": "2021-05",
+      "event": "Build 2021",
+      "city": "Online",
+      "format": "session",
+      "url": "https://github.com/davidortinau/presentations/tree/main/2021/2021-05-build-od485-net-6-deep-dive",
+      "slides_pdf": null,
+      "slides_pptx": null,
+      "thumbnail": null,
+      "video": [
+        "https://www.youtube.com/watch?v=GJ_PaRNDe9E"
+      ],
+      "tags": []
+    },
+    {
+      "slug": "2021-02-25-dotnet-conf-focus-windows-native-apps-net-6",
+      "title": "The Future of Native Apps Development in .NET 6",
+      "date": "2021-02-25",
+      "event": ".NET Conf: Focus on Windows",
+      "city": "Online",
+      "format": "session",
+      "url": "https://github.com/davidortinau/presentations/tree/main/2021/2021-02-25-dotnet-conf-focus-windows-native-apps-net-6",
+      "slides_pdf": "https://github.com/davidortinau/presentations/blob/main/2021/2021-02-25-dotnet-conf-focus-windows-native-apps-net-6/slides.pdf",
+      "slides_pptx": "https://github.com/davidortinau/presentations/releases/download/2021-02-25-dotnet-conf-focus-windows-native-apps-net-6/2021-02-25-dotnet-conf-focus-windows-native-apps-net-6.pptx",
+      "thumbnail": "https://raw.githubusercontent.com/davidortinau/presentations/main/2021/2021-02-25-dotnet-conf-focus-windows-native-apps-net-6/thumbnail.jpg",
+      "video": [
+        "https://www.youtube.com/watch?v=fPEdgXeqhE4"
+      ],
+      "tags": [
+        "maui",
+        "dotnet-6",
+        "blazor-hybrid"
+      ]
+    },
+    {
+      "slug": "2021-02-09-tech-valley-ug-xamarin-forms-5",
+      "title": "Xamarin.Forms 5 and the Future of .NET",
+      "date": "2021-02-09",
+      "event": "Tech Valley .NET User Group",
+      "city": "Online",
+      "format": "talk",
+      "url": "https://github.com/davidortinau/presentations/tree/main/2021/2021-02-09-tech-valley-ug-xamarin-forms-5",
+      "slides_pdf": "https://github.com/davidortinau/presentations/blob/main/2021/2021-02-09-tech-valley-ug-xamarin-forms-5/slides.pdf",
+      "slides_pptx": "https://github.com/davidortinau/presentations/releases/download/2021-02-09-tech-valley-ug-xamarin-forms-5/2021-02-09-tech-valley-ug-xamarin-forms-5.pptx",
+      "thumbnail": "https://raw.githubusercontent.com/davidortinau/presentations/main/2021/2021-02-09-tech-valley-ug-xamarin-forms-5/thumbnail.jpg",
+      "video": [
+        "https://www.youtube.com/watch?v=ReGAMeTK71s"
+      ],
+      "tags": [
+        "xamarin-forms",
+        "maui",
+        "dotnet-6"
+      ]
+    },
+    {
+      "slug": "2021-01-28-dotnet-frontend-day-maui-progress-report",
+      "title": "A .NET MAUI Progress Report",
+      "date": "2021-01-28",
+      "event": ".NET Frontend Day 2021",
+      "city": "Online",
+      "format": "talk",
+      "url": "https://github.com/davidortinau/presentations/tree/main/2021/2021-01-28-dotnet-frontend-day-maui-progress-report",
+      "slides_pdf": "https://github.com/davidortinau/presentations/blob/main/2021/2021-01-28-dotnet-frontend-day-maui-progress-report/slides.pdf",
+      "slides_pptx": "https://github.com/davidortinau/presentations/releases/download/2021-01-28-dotnet-frontend-day-maui-progress-report/2021-01-28-dotnet-frontend-day-maui-progress-report.pptx",
+      "thumbnail": "https://raw.githubusercontent.com/davidortinau/presentations/main/2021/2021-01-28-dotnet-frontend-day-maui-progress-report/thumbnail.jpg",
+      "video": [
+        "https://www.youtube.com/watch?v=RnyZZKjdUxk"
+      ],
+      "tags": [
+        "maui",
+        "progress-report"
+      ]
+    },
+    {
+      "slug": "2020-11-monkeyfest-maui",
+      "title": ".NET MAUI",
+      "date": "2020-11",
+      "event": "MonkeyFest USA 2020",
+      "city": "Online",
+      "format": "talk",
+      "url": "https://github.com/davidortinau/presentations/tree/main/2020/2020-11-monkeyfest-maui",
+      "slides_pdf": "https://github.com/davidortinau/presentations/blob/main/2020/2020-11-monkeyfest-maui/slides.pdf",
+      "slides_pptx": "https://github.com/davidortinau/presentations/releases/download/2020-11-monkeyfest-maui/2020-11-monkeyfest-maui.pptx",
+      "thumbnail": "https://raw.githubusercontent.com/davidortinau/presentations/main/2020/2020-11-monkeyfest-maui/thumbnail.jpg",
+      "video": [],
+      "tags": [
+        "maui",
+        "xamarin"
+      ]
+    },
+    {
+      "slug": "2020-11-dotnet-conf-xamarin-forms-5",
+      "title": "Xamarin.Forms 5: Beautiful and Fast Apps with Less Code",
+      "date": "2020-11",
+      "event": ".NET Conf 2020",
+      "city": "Online",
+      "format": "session",
+      "url": "https://github.com/davidortinau/presentations/tree/main/2020/2020-11-dotnet-conf-xamarin-forms-5",
+      "slides_pdf": "https://github.com/davidortinau/presentations/blob/main/2020/2020-11-dotnet-conf-xamarin-forms-5/slides.pdf",
+      "slides_pptx": "https://github.com/davidortinau/presentations/releases/download/2020-11-dotnet-conf-xamarin-forms-5/2020-11-dotnet-conf-xamarin-forms-5.pptx",
+      "thumbnail": "https://raw.githubusercontent.com/davidortinau/presentations/main/2020/2020-11-dotnet-conf-xamarin-forms-5/thumbnail.jpg",
+      "video": [
+        "https://www.youtube.com/watch?v=M7UVz82dE90"
+      ],
+      "tags": [
+        "xamarin",
+        "xamarin-forms",
+        "dotnet-conf"
+      ]
+    },
+    {
+      "slug": "2020-10-02-xamarin-expert-day-introducing-maui",
+      "title": "Introducing .NET MAUI",
+      "date": "2020-10-02",
+      "event": "Xamarin Expert Day 2020",
+      "city": "Online",
+      "format": "talk",
+      "url": "https://github.com/davidortinau/presentations/tree/main/2020/2020-10-02-xamarin-expert-day-introducing-maui",
+      "slides_pdf": null,
+      "slides_pptx": null,
+      "thumbnail": null,
+      "video": [
+        "https://www.youtube.com/watch?v=qbHO8J3bId0"
+      ],
+      "tags": []
+    },
+    {
+      "slug": "2020-08-xamarin-assemble-ask-the-team",
+      "title": "XA2020: Ask the Xamarin Team",
+      "date": "2020-08",
+      "event": "Xamarin Assemble 2020",
+      "city": "Online",
+      "format": "panel",
+      "url": "https://github.com/davidortinau/presentations/tree/main/2020/2020-08-xamarin-assemble-ask-the-team",
+      "slides_pdf": null,
+      "slides_pptx": null,
+      "thumbnail": null,
+      "video": [
+        "https://www.youtube.com/watch?v=jBxxGdXxhX4"
+      ],
+      "tags": []
+    },
+    {
+      "slug": "2020-05-19-build-bod107-native-apps-any-device",
+      "title": "BOD107 Build native apps for any device with .NET",
+      "date": "2020-05-19",
+      "event": "Build 2020",
+      "city": "Online",
+      "format": "session",
+      "url": "https://github.com/davidortinau/presentations/tree/main/2020/2020-05-19-build-bod107-native-apps-any-device",
+      "slides_pdf": "https://github.com/davidortinau/presentations/blob/main/2020/2020-05-19-build-bod107-native-apps-any-device/slides.pdf",
+      "slides_pptx": "https://github.com/davidortinau/presentations/releases/download/2020-05-19-build-bod107-native-apps-any-device/2020-05-19-build-bod107-native-apps-any-device.pptx",
+      "thumbnail": "https://raw.githubusercontent.com/davidortinau/presentations/main/2020/2020-05-19-build-bod107-native-apps-any-device/thumbnail.jpg",
+      "video": [
+        "https://learn.microsoft.com/en-us/shows/build-2020/bod107"
+      ],
+      "tags": [
+        "xamarin",
+        "xamarin-forms",
+        "maui",
+        "build"
+      ]
+    },
+    {
+      "slug": "2020-03-st-louis-dotnet-ug-roadmap-dotnet",
+      "title": "A Roadmap for .NET on Desktop, Mobile, and Web",
+      "date": "2020-03",
+      "event": "St. Louis .NET User Group",
+      "city": null,
+      "format": "talk",
+      "url": "https://github.com/davidortinau/presentations/tree/main/2020/2020-03-st-louis-dotnet-ug-roadmap-dotnet",
+      "slides_pdf": "https://github.com/davidortinau/presentations/blob/main/2020/2020-03-st-louis-dotnet-ug-roadmap-dotnet/slides.pdf",
+      "slides_pptx": "https://github.com/davidortinau/presentations/releases/download/2020-03-st-louis-dotnet-ug-roadmap-dotnet/2020-03-st-louis-dotnet-ug-roadmap-dotnet.pptx",
+      "thumbnail": "https://raw.githubusercontent.com/davidortinau/presentations/main/2020/2020-03-st-louis-dotnet-ug-roadmap-dotnet/thumbnail.jpg",
+      "video": [],
+      "tags": [
+        "dotnet-5",
+        "blazor",
+        "xamarin",
+        "desktop",
+        "mobile",
+        "web",
+        "roadmap"
+      ]
+    },
+    {
+      "slug": "2020-03-dotnet-conf-focus-xamarin-keynote",
+      "title": "Keynote: Xamarin All The Things",
+      "date": "2020-03",
+      "event": ".NET Conf: Focus on Xamarin 2020",
+      "city": null,
+      "format": "keynote",
+      "url": "https://github.com/davidortinau/presentations/tree/main/2020/2020-03-dotnet-conf-focus-xamarin-keynote",
+      "slides_pdf": "https://github.com/davidortinau/presentations/blob/main/2020/2020-03-dotnet-conf-focus-xamarin-keynote/slides.pdf",
+      "slides_pptx": null,
+      "thumbnail": "https://raw.githubusercontent.com/davidortinau/presentations/main/2020/2020-03-dotnet-conf-focus-xamarin-keynote/thumbnail.jpg",
+      "video": [
+        "https://youtu.be/tRNOLKq4_jo"
+      ],
+      "tags": [
+        "xamarin",
+        "keynote",
+        "dotnet-conf"
+      ]
+    },
+    {
+      "slug": "2020-03-dotnet-conf-focus-xamarin-dual-screen",
+      "title": "Developing Dual-screen Experiences with Xamarin",
+      "date": "2020-03",
+      "event": ".NET Conf: Focus on Xamarin",
+      "city": "Online",
+      "format": "session",
+      "url": "https://github.com/davidortinau/presentations/tree/main/2020/2020-03-dotnet-conf-focus-xamarin-dual-screen",
+      "slides_pdf": null,
+      "slides_pptx": null,
+      "thumbnail": null,
+      "video": [
+        "https://learn.microsoft.com/en-us/shows/dotnetconf-focus-on-xamarin/developing-dual-screen-experiences-with-xamarin"
+      ],
+      "tags": [
+        "xamarin",
+        "xamarin-forms",
+        "dual-screen",
+        "surface-duo",
+        "dotnet-conf"
+      ]
+    },
+    {
+      "slug": "2019-11-ignite-thr2322-collectionview",
+      "title": "Displaying large data sets with Xamarin.Forms CollectionView (THR2322)",
+      "date": "2019-11",
+      "event": "Ignite 2019",
+      "city": "Orlando, United States",
+      "format": "session",
+      "url": "https://github.com/davidortinau/presentations/tree/main/2019/2019-11-ignite-thr2322-collectionview",
+      "slides_pdf": "https://github.com/davidortinau/presentations/blob/main/2019/2019-11-ignite-thr2322-collectionview/slides.pdf",
+      "slides_pptx": "https://github.com/davidortinau/presentations/releases/download/2019-11-ignite-thr2322-collectionview/2019-11-ignite-thr2322-collectionview.pptx",
+      "thumbnail": "https://raw.githubusercontent.com/davidortinau/presentations/main/2019/2019-11-ignite-thr2322-collectionview/thumbnail.jpg",
+      "video": [],
+      "tags": [
+        "xamarin-forms",
+        "collectionview",
+        "mobile"
+      ]
+    },
+    {
+      "slug": "2019-11-ignite-thr2320-xamarin-visual",
+      "title": "Crafting Stunning Mobile Apps with Xamarin Visual Design System (THR2320)",
+      "date": "2019-11",
+      "event": "Ignite 2019",
+      "city": "Orlando, United States",
+      "format": "session",
+      "url": "https://github.com/davidortinau/presentations/tree/main/2019/2019-11-ignite-thr2320-xamarin-visual",
+      "slides_pdf": "https://github.com/davidortinau/presentations/blob/main/2019/2019-11-ignite-thr2320-xamarin-visual/slides.pdf",
+      "slides_pptx": "https://github.com/davidortinau/presentations/releases/download/2019-11-ignite-thr2320-xamarin-visual/2019-11-ignite-thr2320-xamarin-visual.pptx",
+      "thumbnail": "https://raw.githubusercontent.com/davidortinau/presentations/main/2019/2019-11-ignite-thr2320-xamarin-visual/thumbnail.jpg",
+      "video": [],
+      "tags": [
+        "xamarin-forms",
+        "visual",
+        "material",
+        "mobile"
+      ]
+    },
+    {
+      "slug": "2019-11-ignite-thr2317-xamarin-forms-shell",
+      "title": "Build .NET mobile apps quickly and easily with Xamarin.Forms Shell (THR2317)",
+      "date": "2019-11",
+      "event": "Ignite 2019",
+      "city": "Orlando, United States",
+      "format": "session",
+      "url": "https://github.com/davidortinau/presentations/tree/main/2019/2019-11-ignite-thr2317-xamarin-forms-shell",
+      "slides_pdf": "https://github.com/davidortinau/presentations/blob/main/2019/2019-11-ignite-thr2317-xamarin-forms-shell/slides.pdf",
+      "slides_pptx": "https://github.com/davidortinau/presentations/releases/download/2019-11-ignite-thr2317-xamarin-forms-shell/2019-11-ignite-thr2317-xamarin-forms-shell.pptx",
+      "thumbnail": "https://raw.githubusercontent.com/davidortinau/presentations/main/2019/2019-11-ignite-thr2317-xamarin-forms-shell/thumbnail.jpg",
+      "video": [],
+      "tags": [
+        "xamarin-forms",
+        "shell",
+        "mobile"
+      ]
+    },
+    {
+      "slug": "2019-10-30-samsung-dev-conf-tizen-5-5",
+      "title": "What's New in Tizen? 5.5 Platform Update and Developer Environment",
+      "date": "2019-10-30",
+      "event": "Samsung Developer Conference 2019",
+      "city": "San Jose, United States",
+      "format": "session",
+      "url": "https://github.com/davidortinau/presentations/tree/main/2019/2019-10-30-samsung-dev-conf-tizen-5-5",
+      "slides_pdf": "https://github.com/davidortinau/presentations/blob/main/2019/2019-10-30-samsung-dev-conf-tizen-5-5/slides.pdf",
+      "slides_pptx": "https://github.com/davidortinau/presentations/releases/download/2019-10-30-samsung-dev-conf-tizen-5-5/2019-10-30-samsung-dev-conf-tizen-5-5.pptx",
+      "thumbnail": "https://raw.githubusercontent.com/davidortinau/presentations/main/2019/2019-10-30-samsung-dev-conf-tizen-5-5/thumbnail.jpg",
+      "video": [
+        "https://www.youtube.com/watch?v=fU5Yx8M0KOk"
+      ],
+      "tags": [
+        "tizen",
+        "xamarin-forms",
+        "dotnet-5"
+      ]
+    },
+    {
+      "slug": "2019-10-02-techorama-nl-next-level-xamarin",
+      "title": "Secrets To Next Level Mobile Development with Xamarin",
+      "date": "2019-10-02",
+      "event": "Techorama NL 2019",
+      "city": "Ede, Netherlands",
+      "format": "talk",
+      "url": "https://github.com/davidortinau/presentations/tree/main/2019/2019-10-02-techorama-nl-next-level-xamarin",
+      "slides_pdf": "https://github.com/davidortinau/presentations/blob/main/2019/2019-10-02-techorama-nl-next-level-xamarin/slides.pdf",
+      "slides_pptx": "https://github.com/davidortinau/presentations/releases/download/2019-10-02-techorama-nl-next-level-xamarin/2019-10-02-techorama-nl-next-level-xamarin.pptx",
+      "thumbnail": "https://raw.githubusercontent.com/davidortinau/presentations/main/2019/2019-10-02-techorama-nl-next-level-xamarin/thumbnail.jpg",
+      "video": [],
+      "tags": [
+        "xamarin",
+        "xamarin-forms",
+        "visual-studio",
+        "shell",
+        "collectionview",
+        "androidx"
+      ]
+    },
+    {
+      "slug": "2019-10-01-techorama-nl-future-of-mobile-design",
+      "title": "The Future of Mobile Design",
+      "date": "2019-10-01",
+      "event": "Techorama NL 2019",
+      "city": "Ede, Netherlands",
+      "format": "talk",
+      "url": "https://github.com/davidortinau/presentations/tree/main/2019/2019-10-01-techorama-nl-future-of-mobile-design",
+      "slides_pdf": "https://github.com/davidortinau/presentations/blob/main/2019/2019-10-01-techorama-nl-future-of-mobile-design/slides.pdf",
+      "slides_pptx": "https://github.com/davidortinau/presentations/releases/download/2019-10-01-techorama-nl-future-of-mobile-design/2019-10-01-techorama-nl-future-of-mobile-design.pptx",
+      "thumbnail": "https://raw.githubusercontent.com/davidortinau/presentations/main/2019/2019-10-01-techorama-nl-future-of-mobile-design/thumbnail.jpg",
+      "video": [],
+      "tags": [
+        "xamarin",
+        "xamarin-forms",
+        "design",
+        "mobile-ux"
+      ]
+    },
+    {
+      "slug": "2019-09-30-dutch-mobile-dotnet-whats-new-xamarin",
+      "title": "The Latest and Craziest for Mobile .NET Developers",
+      "date": "2019-09-30",
+      "event": "Dutch Mobile .NET Developers Group",
+      "city": "Veenendaal, Netherlands",
+      "format": "talk",
+      "url": "https://github.com/davidortinau/presentations/tree/main/2019/2019-09-30-dutch-mobile-dotnet-whats-new-xamarin",
+      "slides_pdf": "https://github.com/davidortinau/presentations/blob/main/2019/2019-09-30-dutch-mobile-dotnet-whats-new-xamarin/slides.pdf",
+      "slides_pptx": "https://github.com/davidortinau/presentations/releases/download/2019-09-30-dutch-mobile-dotnet-whats-new-xamarin/2019-09-30-dutch-mobile-dotnet-whats-new-xamarin.pptx",
+      "thumbnail": "https://raw.githubusercontent.com/davidortinau/presentations/main/2019/2019-09-30-dutch-mobile-dotnet-whats-new-xamarin/thumbnail.jpg",
+      "video": [],
+      "tags": [
+        "xamarin",
+        "xamarin-forms",
+        "shell",
+        "visual-studio",
+        "androidx"
+      ]
+    },
+    {
+      "slug": "2019-09-23-dotnet-conf-xamarin-forms-productive-beautiful",
+      "title": "Xamarin.Forms: More Productive and Beautiful Than Ever",
+      "date": "2019-09-23",
+      "event": ".NET Conf 2019",
+      "city": "Online",
+      "format": "session",
+      "url": "https://github.com/davidortinau/presentations/tree/main/2019/2019-09-23-dotnet-conf-xamarin-forms-productive-beautiful",
+      "slides_pdf": "https://github.com/davidortinau/presentations/blob/main/2019/2019-09-23-dotnet-conf-xamarin-forms-productive-beautiful/slides.pdf",
+      "slides_pptx": "https://github.com/davidortinau/presentations/releases/download/2019-09-23-dotnet-conf-xamarin-forms-productive-beautiful/2019-09-23-dotnet-conf-xamarin-forms-productive-beautiful.pptx",
+      "thumbnail": "https://raw.githubusercontent.com/davidortinau/presentations/main/2019/2019-09-23-dotnet-conf-xamarin-forms-productive-beautiful/thumbnail.jpg",
+      "video": [
+        "https://learn.microsoft.com/en-us/shows/dotnetconf-2019/xamarinforms-more-productive-and-beautiful-than-ever"
+      ],
+      "tags": [
+        "xamarin",
+        "xamarin-forms",
+        "shell",
+        "visual",
+        "collectionview",
+        "carouselview",
+        "dotnet-conf"
+      ]
+    },
+    {
+      "slug": "2019-09-xamarin-saturday-toronto-comet",
+      "title": "Comet: A .NET UI Experiment, and Xamarin.Forms Features",
+      "date": "2019-09",
+      "event": "#XamarinSaturday (TO Mobile Devs)",
+      "city": "Toronto, Canada",
+      "format": "talk",
+      "url": "https://github.com/davidortinau/presentations/tree/main/2019/2019-09-xamarin-saturday-toronto-comet",
+      "slides_pdf": null,
+      "slides_pptx": null,
+      "thumbnail": null,
+      "video": [
+        "https://www.youtube.com/watch?v=pnZQosclItg",
+        "https://www.youtube.com/watch?v=sQARDifSc6k"
+      ],
+      "tags": []
+    },
+    {
+      "slug": "2019-07-xamarin-dev-summit-keynote",
+      "title": "A Glimpse Into the Future of Xamarin",
+      "date": "2019-07",
+      "event": "Xamarin Developer Summit 2019",
+      "city": "Houston, United States",
+      "format": "keynote",
+      "url": "https://github.com/davidortinau/presentations/tree/main/2019/2019-07-xamarin-dev-summit-keynote",
+      "slides_pdf": null,
+      "slides_pptx": null,
+      "thumbnail": null,
+      "video": [],
+      "tags": []
+    },
+    {
+      "slug": "2019-07-xamarin-dev-summit-crazy-beautiful-ui",
+      "title": "Let's Make Crazy Beautiful UI With Xamarin.Forms",
+      "date": "2019-07",
+      "event": "Xamarin Developer Summit 2019",
+      "city": "Houston, United States",
+      "format": "talk",
+      "url": "https://github.com/davidortinau/presentations/tree/main/2019/2019-07-xamarin-dev-summit-crazy-beautiful-ui",
+      "slides_pdf": "https://github.com/davidortinau/presentations/blob/main/2019/2019-07-xamarin-dev-summit-crazy-beautiful-ui/slides.pdf",
+      "slides_pptx": "https://github.com/davidortinau/presentations/releases/download/2019-07-xamarin-dev-summit-crazy-beautiful-ui/2019-07-xamarin-dev-summit-crazy-beautiful-ui.pptx",
+      "thumbnail": "https://raw.githubusercontent.com/davidortinau/presentations/main/2019/2019-07-xamarin-dev-summit-crazy-beautiful-ui/thumbnail.jpg",
+      "video": [
+        "https://learn.microsoft.com/en-us/shows/xamarin-xamarin-developer-summit-2019/lets-make-crazy-beautiful-ui-with-xamarinforms"
+      ],
+      "tags": [
+        "xamarin",
+        "xamarin-forms",
+        "ui",
+        "theming",
+        "gradients",
+        "parallax",
+        "animations"
+      ]
+    },
+    {
+      "slug": "2019-07-xamarin-dev-summit-consistent-ui-visual",
+      "title": "Creating Consistent UI with Xamarin.Forms Visual",
+      "date": "2019-07",
+      "event": "Xamarin Developer Summit 2019",
+      "city": "Houston, United States",
+      "format": "talk",
+      "url": "https://github.com/davidortinau/presentations/tree/main/2019/2019-07-xamarin-dev-summit-consistent-ui-visual",
+      "slides_pdf": "https://github.com/davidortinau/presentations/blob/main/2019/2019-07-xamarin-dev-summit-consistent-ui-visual/slides.pdf",
+      "slides_pptx": "https://github.com/davidortinau/presentations/releases/download/2019-07-xamarin-dev-summit-consistent-ui-visual/2019-07-xamarin-dev-summit-consistent-ui-visual.pptx",
+      "thumbnail": "https://raw.githubusercontent.com/davidortinau/presentations/main/2019/2019-07-xamarin-dev-summit-consistent-ui-visual/thumbnail.jpg",
+      "video": [
+        "https://learn.microsoft.com/en-us/shows/xamarin-xamarin-developer-summit-2019/creating-consistent-ui-with-xamarinforms-visual"
+      ],
+      "tags": [
+        "xamarin",
+        "xamarin-forms",
+        "visual",
+        "material",
+        "design-systems"
+      ]
+    },
+    {
+      "slug": "2019-05-build-thr2025",
+      "title": "Craft Stunning Mobile Apps with the Xamarin Visual for Design Systems (THR2025)",
+      "date": "2019-05",
+      "event": "Build 2019",
+      "city": null,
+      "format": "session",
+      "url": "https://github.com/davidortinau/presentations/tree/main/2019/2019-05-build-thr2025",
+      "slides_pdf": "https://github.com/davidortinau/presentations/blob/main/2019/2019-05-build-thr2025/slides.pdf",
+      "slides_pptx": "https://github.com/davidortinau/presentations/releases/download/2019-05-build-thr2025/2019-05-build-thr2025.pptx",
+      "thumbnail": "https://raw.githubusercontent.com/davidortinau/presentations/main/2019/2019-05-build-thr2025/thumbnail.jpg",
+      "video": [],
+      "tags": [
+        "xamarin",
+        "xamarin-forms",
+        "visual",
+        "material",
+        "design-systems"
+      ]
+    },
+    {
+      "slug": "2019-04-syncfusion-webinar-consistent-designs-xamarin-forms",
+      "title": "Crafting Consistent Designs with Xamarin Forms Featuring Microsoft PM David Ortinau [Webinar]",
+      "date": "2019-04",
+      "event": "Syncfusion webinar",
+      "city": "Online",
+      "format": "webinar",
+      "url": "https://github.com/davidortinau/presentations/tree/main/2019/2019-04-syncfusion-webinar-consistent-designs-xamarin-forms",
+      "slides_pdf": null,
+      "slides_pptx": null,
+      "thumbnail": null,
+      "video": [
+        "https://www.youtube.com/watch?v=ICkD74x1lmI"
+      ],
+      "tags": []
+    },
+    {
+      "slug": "2018-11-13-devreach-visual-studio-xamarin",
+      "title": "Getting the Most out of Visual Studio and Xamarin for Mobile Developers",
+      "date": "2018-11-13",
+      "event": "DevReach 2018",
+      "city": "Sofia, Bulgaria",
+      "format": "talk",
+      "url": "https://github.com/davidortinau/presentations/tree/main/2018/2018-11-13-devreach-visual-studio-xamarin",
+      "slides_pdf": "https://github.com/davidortinau/presentations/blob/main/2018/2018-11-13-devreach-visual-studio-xamarin/slides.pdf",
+      "slides_pptx": "https://github.com/davidortinau/presentations/releases/download/2018-11-13-devreach-visual-studio-xamarin/2018-11-13-devreach-visual-studio-xamarin.pptx",
+      "thumbnail": "https://raw.githubusercontent.com/davidortinau/presentations/main/2018/2018-11-13-devreach-visual-studio-xamarin/thumbnail.jpg",
+      "video": [],
+      "tags": [
+        "xamarin",
+        "visual-studio",
+        "app-center",
+        "mobile"
+      ]
+    },
+    {
+      "slug": "2018-10-03-techorama-nl-xamarin-latest-and-greatest",
+      "title": "Xamarin: All the Latest and Greatest",
+      "date": "2018-10-03",
+      "event": "Techorama NL 2018",
+      "city": "Ede, Netherlands",
+      "format": "talk",
+      "url": "https://github.com/davidortinau/presentations/tree/main/2018/2018-10-03-techorama-nl-xamarin-latest-and-greatest",
+      "slides_pdf": "https://github.com/davidortinau/presentations/blob/main/2018/2018-10-03-techorama-nl-xamarin-latest-and-greatest/slides.pdf",
+      "slides_pptx": "https://github.com/davidortinau/presentations/releases/download/2018-10-03-techorama-nl-xamarin-latest-and-greatest/2018-10-03-techorama-nl-xamarin-latest-and-greatest.pptx",
+      "thumbnail": "https://raw.githubusercontent.com/davidortinau/presentations/main/2018/2018-10-03-techorama-nl-xamarin-latest-and-greatest/thumbnail.jpg",
+      "video": [],
+      "tags": [
+        "xamarin",
+        "xamarin-forms",
+        "visual-studio",
+        "mobile"
+      ]
+    },
+    {
+      "slug": "2018-10-02-techorama-nl-secret-sauce-native-apps",
+      "title": "The Secret Sauce of Native Mobile Apps",
+      "date": "2018-10-02",
+      "event": "Techorama NL 2018",
+      "city": null,
+      "format": "talk",
+      "url": "https://github.com/davidortinau/presentations/tree/main/2018/2018-10-02-techorama-nl-secret-sauce-native-apps",
+      "slides_pdf": null,
+      "slides_pptx": null,
+      "thumbnail": null,
+      "video": [],
+      "tags": []
+    },
+    {
+      "slug": "2018-09-dotnet-conf-whats-new-xamarin-forms",
+      "title": "S109 What's New in Xamarin.Forms?",
+      "date": "2018-09",
+      "event": ".NET Conf 2018",
+      "city": null,
+      "format": "session",
+      "url": "https://github.com/davidortinau/presentations/tree/main/2018/2018-09-dotnet-conf-whats-new-xamarin-forms",
+      "slides_pdf": "https://github.com/davidortinau/presentations/blob/main/2018/2018-09-dotnet-conf-whats-new-xamarin-forms/slides.pdf",
+      "slides_pptx": "https://github.com/davidortinau/presentations/releases/download/2018-09-dotnet-conf-whats-new-xamarin-forms/2018-09-dotnet-conf-whats-new-xamarin-forms.pptx",
+      "thumbnail": "https://raw.githubusercontent.com/davidortinau/presentations/main/2018/2018-09-dotnet-conf-whats-new-xamarin-forms/thumbnail.jpg",
+      "video": [
+        "https://www.youtube.com/watch?v=KvGbte1Z_0o"
+      ],
+      "tags": [
+        "xamarin-forms",
+        "dotnet-conf"
+      ]
+    },
+    {
+      "slug": "2018-05-build-brk2437-xamarin-forms-3",
+      "title": "BRK2437 What's new in Xamarin.Forms 3.0",
+      "date": "2018-05",
+      "event": "Build 2018",
+      "city": "Seattle, United States",
+      "format": "session",
+      "url": "https://github.com/davidortinau/presentations/tree/main/2018/2018-05-build-brk2437-xamarin-forms-3",
+      "slides_pdf": "https://github.com/davidortinau/presentations/blob/main/2018/2018-05-build-brk2437-xamarin-forms-3/slides.pdf",
+      "slides_pptx": "https://github.com/davidortinau/presentations/releases/download/2018-05-build-brk2437-xamarin-forms-3/2018-05-build-brk2437-xamarin-forms-3.pptx",
+      "thumbnail": "https://raw.githubusercontent.com/davidortinau/presentations/main/2018/2018-05-build-brk2437-xamarin-forms-3/thumbnail.jpg",
+      "video": [
+        "https://www.youtube.com/watch?v=gNU8-IXjyaI"
+      ],
+      "tags": [
+        "xamarin-forms",
+        "build"
+      ]
+    },
+    {
+      "slug": "2017-11-connect-t128-whats-new-xamarin-forms",
+      "title": "T128 What's new in Xamarin.Forms",
+      "date": "2017-11",
+      "event": "Microsoft Connect(); 2017",
+      "city": null,
+      "format": "session",
+      "url": "https://github.com/davidortinau/presentations/tree/main/2017/2017-11-connect-t128-whats-new-xamarin-forms",
+      "slides_pdf": "https://github.com/davidortinau/presentations/blob/main/2017/2017-11-connect-t128-whats-new-xamarin-forms/slides.pdf",
+      "slides_pptx": "https://github.com/davidortinau/presentations/releases/download/2017-11-connect-t128-whats-new-xamarin-forms/2017-11-connect-t128-whats-new-xamarin-forms.pptx",
+      "thumbnail": "https://raw.githubusercontent.com/davidortinau/presentations/main/2017/2017-11-connect-t128-whats-new-xamarin-forms/thumbnail.jpg",
+      "video": [],
+      "tags": [
+        "xamarin-forms",
+        "connect"
+      ]
+    },
+    {
+      "slug": "2017-09-27-ignite-brk3282-xamarin",
+      "title": "Rapid Mobile App Development with Xamarin.Forms (BRK3282)",
+      "date": "2017-09-27",
+      "event": "Ignite 2017",
+      "city": "Orlando, United States",
+      "format": "session",
+      "url": "https://github.com/davidortinau/presentations/tree/main/2017/2017-09-27-ignite-brk3282-xamarin",
+      "slides_pdf": "https://github.com/davidortinau/presentations/blob/main/2017/2017-09-27-ignite-brk3282-xamarin/slides.pdf",
+      "slides_pptx": "https://github.com/davidortinau/presentations/releases/download/2017-09-27-ignite-brk3282-xamarin/2017-09-27-ignite-brk3282-xamarin.pptx",
+      "thumbnail": "https://raw.githubusercontent.com/davidortinau/presentations/main/2017/2017-09-27-ignite-brk3282-xamarin/thumbnail.jpg",
+      "video": [],
+      "tags": [
+        "xamarin-forms",
+        "ignite"
+      ]
+    },
+    {
+      "slug": "2017-05-build-whats-new-xamarin-forms",
+      "title": "What's new in Xamarin.Forms",
+      "date": "2017-05",
+      "event": "Build 2017",
+      "city": "Seattle, United States",
+      "format": "session",
+      "url": "https://github.com/davidortinau/presentations/tree/main/2017/2017-05-build-whats-new-xamarin-forms",
+      "slides_pdf": "https://github.com/davidortinau/presentations/blob/main/2017/2017-05-build-whats-new-xamarin-forms/slides.pdf",
+      "slides_pptx": "https://github.com/davidortinau/presentations/releases/download/2017-05-build-whats-new-xamarin-forms/2017-05-build-whats-new-xamarin-forms.pptx",
+      "thumbnail": "https://raw.githubusercontent.com/davidortinau/presentations/main/2017/2017-05-build-whats-new-xamarin-forms/thumbnail.jpg",
+      "video": [],
+      "tags": [
+        "xamarin-forms",
+        "build"
+      ]
+    },
+    {
+      "slug": "2017-04-xamarin-webinar-xamarin-forms-vs2017",
+      "title": "Getting the Most Out of Xamarin.Forms for Visual Studio 2017",
+      "date": "2017-04",
+      "event": "Xamarin webinar",
+      "city": "Online",
+      "format": "webinar",
+      "url": "https://github.com/davidortinau/presentations/tree/main/2017/2017-04-xamarin-webinar-xamarin-forms-vs2017",
+      "slides_pdf": "https://github.com/davidortinau/presentations/blob/main/2017/2017-04-xamarin-webinar-xamarin-forms-vs2017/slides.pdf",
+      "slides_pptx": "https://github.com/davidortinau/presentations/releases/download/2017-04-xamarin-webinar-xamarin-forms-vs2017/2017-04-xamarin-webinar-xamarin-forms-vs2017.pptx",
+      "thumbnail": "https://raw.githubusercontent.com/davidortinau/presentations/main/2017/2017-04-xamarin-webinar-xamarin-forms-vs2017/thumbnail.jpg",
+      "video": [],
+      "tags": []
+    },
+    {
+      "slug": "2016-04-xamarin-evolve-sketch-to-app",
+      "title": "From Sketch to App: A Design to Development Workflow",
+      "date": "2016-04",
+      "event": "Xamarin Evolve 2016",
+      "city": null,
+      "format": "session",
+      "url": "https://github.com/davidortinau/presentations/tree/main/2016/2016-04-xamarin-evolve-sketch-to-app",
+      "slides_pdf": null,
+      "slides_pptx": null,
+      "thumbnail": null,
+      "video": [],
+      "tags": [
+        "xamarin",
+        "design",
+        "ux",
+        "prototyping"
+      ]
+    },
+    {
+      "slug": "2015-02-mobile-web-dev-conf-you-cant-make-me",
+      "title": "You Can't Make Me",
+      "date": "2015-02",
+      "event": "Mobile Web Dev Conference 2015",
+      "city": "San Francisco, USA",
+      "format": "keynote",
+      "url": "https://github.com/davidortinau/presentations/tree/main/2015/2015-02-mobile-web-dev-conf-you-cant-make-me",
+      "slides_pdf": null,
+      "slides_pptx": null,
+      "thumbnail": null,
+      "video": [],
+      "tags": [
+        "keynote",
+        "mobile"
+      ]
+    },
+    {
+      "slug": "2014-10-xamarin-evolve-ux-patterns",
+      "title": "UX Patterns for Cross-Platform Mobile",
+      "date": "2014-10",
+      "event": "Xamarin Evolve 2014",
+      "city": null,
+      "format": "session",
+      "url": "https://github.com/davidortinau/presentations/tree/main/2014/2014-10-xamarin-evolve-ux-patterns",
+      "slides_pdf": null,
+      "slides_pptx": null,
+      "thumbnail": null,
+      "video": [],
+      "tags": [
+        "xamarin",
+        "ux",
+        "patterns",
+        "cross-platform"
+      ]
+    },
+    {
+      "slug": "2013-08-28-stl-alt-net-rise-of-xamarin",
+      "title": "The Rise of Xamarin: Mobile Development in C#",
+      "date": "2013-08-28",
+      "event": "St. Louis ALT.NET",
+      "city": "Saint Louis, USA",
+      "format": "talk",
+      "url": "https://github.com/davidortinau/presentations/tree/main/2013/2013-08-28-stl-alt-net-rise-of-xamarin",
+      "slides_pdf": null,
+      "slides_pptx": null,
+      "thumbnail": null,
+      "video": [],
+      "tags": [
+        "xamarin",
+        "csharp",
+        "mobile"
+      ]
+    },
+    {
+      "slug": "2013-05-idsl-automated-ui-testing",
+      "title": "Automated UI Testing: Xamarin TestCloud & Calabash",
+      "date": "2013-05",
+      "event": "Interactive Developers of St. Louis",
+      "city": null,
+      "format": "talk",
+      "url": "https://github.com/davidortinau/presentations/tree/main/2013/2013-05-idsl-automated-ui-testing",
+      "slides_pdf": null,
+      "slides_pptx": null,
+      "thumbnail": null,
+      "video": [],
+      "tags": [
+        "xamarin",
+        "testing",
+        "calabash",
+        "testcloud"
+      ]
+    },
+    {
+      "slug": "2013-04-17-xamarin-evolve-core-animation",
+      "title": "Crafting Interactions with Core Animation",
+      "date": "2013-04-17",
+      "event": "Xamarin Evolve 2013",
+      "city": null,
+      "format": "session",
+      "url": "https://github.com/davidortinau/presentations/tree/main/2013/2013-04-17-xamarin-evolve-core-animation",
+      "slides_pdf": null,
+      "slides_pptx": null,
+      "thumbnail": null,
+      "video": [],
+      "tags": [
+        "xamarin",
+        "ios",
+        "core-animation",
+        "animation"
+      ]
+    }
+  ]
+}

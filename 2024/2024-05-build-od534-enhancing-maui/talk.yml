@@ -1,0 +1,32 @@
+title: 'OD534 Enhancing .NET MAUI: Quality, Performance and Interoperability in .NET 9'
+date: 2024-05
+event: Build 2024
+event_url: https://build.microsoft.com/
+city: Online
+format: session
+session_url: https://build.microsoft.com/sessions/e1f72018-2b9c-46fe-9bbb-f788bb0bde77
+abstract: |
+  Discover the latest quality improvements, performance enhancements, and interoperability features in .NET MAUI with .NET 9. This session delves into how .NET MAUI has evolved to provide a more robust and performant framework for building cross-platform mobile and desktop applications, emphasizing the improved tooling and developer experience.
+abstract_source: https://www.youtube.com/watch?v=RKCWEr0CPKs
+abstract_source_label: official video description (Microsoft Developer channel)
+co_speakers:
+- name: Maddy Montaquila
+  github: maddymontaquila
+recorded: 'yes'
+video:
+- label: Recording (Microsoft Developer, YouTube)
+  url: https://www.youtube.com/watch?v=RKCWEr0CPKs
+same_talk_as: []
+resources:
+- label: .NET MAUI on dotnet.microsoft.com
+  url: https://dotnet.microsoft.com/en-us/learn/maui
+- label: dotnet/maui on GitHub
+  url: https://github.com/dotnet/maui/
+tags:
+- maui
+- dotnet-9
+- build
+sources:
+- https://www.youtube.com/watch?v=RKCWEr0CPKs
+- https://devblogs.microsoft.com/dotnet/join-the-dotnet-team-microsoft-build-2024/
+- https://build.microsoft.com/sessions/e1f72018-2b9c-46fe-9bbb-f788bb0bde77

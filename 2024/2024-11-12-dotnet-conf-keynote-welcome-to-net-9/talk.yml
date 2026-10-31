@@ -1,0 +1,52 @@
+title: 'Keynote: Welcome to .NET 9'
+date: 2024-11-12
+event: .NET Conf 2024
+event_url: https://www.dotnetconf.net/
+city: Online
+format: keynote
+session_url: https://learn.microsoft.com/en-us/shows/dotnet-conf-2024/keynote-welcome-to-dotnet-9
+abstract: |
+  .NET 9 is here elevating cloud-native and intelligent app development, focusing on productivity enhancements, streamlined deployments, and accelerated AI integration, ensuring superior performance for developers across various applications.
+abstract_source: https://learn.microsoft.com/en-us/shows/dotnet-conf-2024/keynote-welcome-to-dotnet-9
+co_speakers:
+- name: James Montemagno
+- name: Damian Edwards
+- name: Maddy Montaquila
+  github: maddymontaquila
+- name: Maria Naggaga
+- name: Steve Sanderson
+- name: Safia Abdalla
+- name: Daniel Roth
+slides:
+  pdf: slides.pdf
+  notes: reviewed
+  release:
+    tag: 2024-11-12-dotnet-conf-keynote-welcome-to-net-9
+    asset: 2024-11-12-dotnet-conf-keynote-welcome-to-net-9.pptx
+    mb: 25.6
+  pages: 59
+recorded: 'yes'
+video:
+- label: Welcome to .NET 9 - .NET Conf 2024 Keynote (dotnet YouTube channel)
+  url: https://www.youtube.com/watch?v=ikSNL-lxolc
+same_talk_as: []
+resources:
+- label: Performance Improvements in .NET 9
+  url: https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-9/
+- label: Get .NET 9
+  url: https://aka.ms/get-dotnet-9
+- label: .NET Aspire Community Toolkit
+  url: https://github.com/CommunityToolkit/aspire
+- label: Syncfusion Toolkit for .NET MAUI
+  url: https://github.com/syncfusion/maui-toolkit
+tags:
+- dotnet-9
+- maui
+- aspire
+- blazor
+- ai
+- keynote
+sources:
+- https://learn.microsoft.com/en-us/shows/dotnet-conf-2024/keynote-welcome-to-dotnet-9
+- https://www.youtube.com/watch?v=ikSNL-lxolc
+- https://github.com/dotnet-presentations/dotNETConf

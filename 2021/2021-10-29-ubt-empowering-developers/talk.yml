@@ -1,0 +1,38 @@
+title: How Microsoft Is Empowering Developers
+date: 2021-10-29
+event: UBT International Conference 2021 (IC-UBT 2021)
+event_url: https://conferences.ubt-uni.net/2021
+time: '17:00'
+length_min: 15
+city: Online
+format: keynote
+slides:
+  pdf: slides.pdf
+  notes: reviewed
+  release:
+    tag: 2021-10-29-ubt-empowering-developers
+    asset: 2021-10-29-ubt-empowering-developers.pptx
+    mb: 46.0
+  pages: 21
+recorded: unknown
+demos:
+- name: WeatherTwentyOne (.NET MAUI sample app)
+  repo: davidortinau/WeatherTwentyOne
+  branch: main
+  commit: a8966c57587a4c2707c25b6eace14d8463682416
+same_talk_as: []
+resources:
+- label: .NET customers
+  url: http://dot.net/customers
+- label: .NET Conf
+  url: https://www.dotnetconf.net
+- label: .NET MAUI on GitHub
+  url: https://github.com/dotnet/maui
+tags:
+- dotnet
+- maui
+- blazor-hybrid
+- keynote
+sources:
+- https://conferences.ubt-uni.net/2021
+- https://conferences.ubt-uni.net/2022/?p=1116

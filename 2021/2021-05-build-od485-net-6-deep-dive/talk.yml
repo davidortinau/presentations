@@ -1,0 +1,26 @@
+title: .NET 6 deep dive; what's new and what's coming | OD485
+date: 2021-05
+event: Build 2021
+city: Online
+format: session
+abstract: .NET 6 is the next version of .NET, a modern, open-source development platform for building apps for any OS with the best performance and productivity. .NET 6 completes the unification of the platform and adds new capabilities for building web, native and hybrid apps for Linux, Windows, Mac, iOS and Android with a single codebase. See how to write less code, target more devices and build cloud native apps faster. Learn how to move your .NET Framework apps forward with the .NET Upgrade Assistant.
+abstract_source: https://www.youtube.com/watch?v=GJ_PaRNDe9E
+abstract_source_label: Official Microsoft Build 2021 video description (Microsoft Developer channel)
+recorded: 'yes'
+video:
+- url: https://www.youtube.com/watch?v=GJ_PaRNDe9E
+  title: .NET 6 deep dive; what's new and what's coming | OD485
+co_speakers:
+- name: Scott Hunter
+- name: Dmitry Lyalin
+- name: Maria Naggaga
+- name: Daniel Roth
+- name: Mads Torgersen
+- name: Dustin Campbell
+- name: Stephen Halter
+resources:
+- label: The Visual Studio family welcomes you at Microsoft Build 2021 (speaker list)
+  url: https://devblogs.microsoft.com/visualstudio/the-visual-studio-family-welcomes-you-at-microsoft-build-2021/
+sources:
+- https://www.youtube.com/watch?v=GJ_PaRNDe9E
+- https://devblogs.microsoft.com/visualstudio/the-visual-studio-family-welcomes-you-at-microsoft-build-2021/

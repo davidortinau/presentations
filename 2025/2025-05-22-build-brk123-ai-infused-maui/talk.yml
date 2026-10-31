@@ -1,0 +1,47 @@
+title: BRK123 AI infused mobile & desktop app development with .NET MAUI
+date: '2025-05-22'
+event: Build 2025
+event_url: https://build.microsoft.com
+city: Seattle, United States
+format: session
+abstract: |
+  .NET MAUI allows you to create multi-platform apps for iOS, Android, macOS, and Windows. See how you can boost your productivity with AI enhancements in GitHub Copilot and Visual Studio and learn how the entire development lifecycle is being transformed with .NET Aspire. Join us and see how intelligent productivity tools and beautiful controls and components come together to build native and hybrid apps with .NET MAUI's latest features.
+abstract_source: https://www.youtube.com/watch?v=tFOFU7LDQlA
+abstract_source_label: Official video description (Microsoft Developer channel)
+co_speakers:
+- name: Beth Massi
+  github: BethMassi
+- name: Gerald Versluis
+  github: jfversluis
+slides:
+  pdf: slides.pdf
+  notes: reviewed
+  release:
+    tag: 2025-05-22-build-brk123-ai-infused-maui
+    asset: 2025-05-22-build-brk123-ai-infused-maui.pptx
+    mb: 38.5
+  pages: 53
+recorded: 'yes'
+video:
+- label: Recording on YouTube (Microsoft Developer), from my segment at 9:16
+  url: https://www.youtube.com/watch?v=tFOFU7LDQlA&t=556s
+demos:
+- name: Telepathy task app
+  repo: davidortinau/telepathy
+  branch: main
+  commit: db95eb6234817fccbd178fc0f3179df0fb7d2093
+resources:
+- label: Microsoft Build 2025
+  url: https://build.microsoft.com
+- label: 'Nielsen Norman Group: AI paradigm'
+  url: https://www.nngroup.com/articles/ai-paradigm/
+tags:
+- ai
+- maui
+- meai
+- aspire
+- copilot
+- hybrid
+sources:
+- https://www.youtube.com/watch?v=tFOFU7LDQlA
+- https://github.com/davidortinau/telepathy

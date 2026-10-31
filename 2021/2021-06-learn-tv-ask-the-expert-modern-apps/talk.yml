@@ -1,0 +1,17 @@
+title: 'Ask the Expert: The future of modern application development with .NET'
+date: 2021-06
+event: Ask the Expert (Learn TV)
+city: Online
+format: panel
+abstract: .NET 6 completes the unification of the platform and adds new capabilities for building web, native and hybrid apps for Linux, Windows, Mac, iOS and Android with a single codebase. See how to write less code, target more devices and build cloud native apps faster. Bring your questions live for Scott Hunter, Glenn Condron, and David Ortinau.
+abstract_source: https://www.youtube.com/watch?v=UrEhdH2voQo
+abstract_source_label: Official video description (Microsoft Developer channel)
+recorded: 'yes'
+video:
+- url: https://www.youtube.com/watch?v=UrEhdH2voQo
+  title: 'Ask the Expert: The future of modern application development with .NET'
+co_speakers:
+- name: Scott Hunter
+- name: Glenn Condron
+sources:
+- https://www.youtube.com/watch?v=UrEhdH2voQo

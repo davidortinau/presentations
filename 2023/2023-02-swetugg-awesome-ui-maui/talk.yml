@@ -1,0 +1,26 @@
+title: Awesome UI with .NET MAUI
+date: 2023-02
+event: Swetugg Stockholm 2023
+city: Stockholm, Sweden
+format: talk
+session_url: https://sessionize.com/s/david-ortinau/awesome-ui-with-.net-maui/54453
+abstract: |
+  Whether building an app for consumers or enterprises, for games or line-of-business apps, you can do it all with .NET MAUI. In this session, I'll share my pro tips from 25 years of developing beautiful UIs for desktop, mobile, and web applications. Going cross-platform doesn't mean you need to sacrifice amazing design. Making UI beautiful doesn't mean you need to sacrifice usability and accessibility.
+abstract_source: https://sessionize.com/s/david-ortinau/awesome-ui-with-.net-maui/54453
+abstract_source_label: David Ortinau's Sessionize session page
+slides:
+  also_at:
+  - label: Same deck as XamExpertDay Cologne 2023
+    url: https://github.com/davidortinau/presentations/tree/main/2023/2023-02-06-xamarin-expert-day-cologne-awesome-ui-maui
+recorded: unknown
+same_talk_as:
+- 2023-02-06-xamarin-expert-day-cologne-awesome-ui-maui
+tags:
+- maui
+- ui
+- accessibility
+- shell
+- handlers
+- animations
+sources:
+- https://sessionize.com/s/david-ortinau/awesome-ui-with-.net-maui/54453

@@ -1,0 +1,34 @@
+title: 'Telepathic UX: The Next Generation of Mobile Apps'
+date: '2026-05-28'
+event: Update Conference Kraków 2026
+event_url: https://www.meetup.com/update-conference-poland/
+city: Kraków, Poland
+format: talk
+slides:
+  pdf: slides.pdf
+  notes: reviewed
+  release:
+    tag: 2026-05-28-update-conference-krakow-telepathic-ux
+    asset: 2026-05-28-update-conference-krakow-telepathic-ux.pptx
+    mb: 13.7
+  pages: 25
+recorded: unknown
+same_talk_as:
+- 2025-10-azure-dev-summit-telepathic-ux
+resources:
+- label: 'Nielsen Norman Group: The 3rd UI paradigm of AI'
+  url: https://www.nngroup.com/articles/ai-paradigm/
+- label: Plugin.Maui.Audio
+  url: https://github.com/jfversluis/Plugin.Maui.Audio
+- label: SpeechToText in .NET MAUI Community Toolkit
+  url: https://learn.microsoft.com/dotnet/communitytoolkit/maui/essentials/speech-to-text
+sources:
+- https://krakow.updateconference.net/en/2026/schedule/telepathic-ux-the-next-generation-of-mobile-apps
+- https://www.meetup.com/update-conference-poland/
+time: 09:00
+length_min: 60
+venue: Hall C
+session_url: https://krakow.updateconference.net/en/2026/schedule/telepathic-ux-the-next-generation-of-mobile-apps
+abstract: |
+  As AI becomes cheaper, smaller, faster, and generally more consistent it will be used more ubiquitously in our applications. Mobile devices are primed to be the pinnacle of these experiences due to their multi-modal capabilities, and contextual presence. Are you ready to deliver these types of applications? In this session we'll peer into the near future at what's to come, and showcase how you can get started today designing and building applications with intelligence that borders on precognition.
+abstract_source: https://krakow.updateconference.net/en/2026/schedule/telepathic-ux-the-next-generation-of-mobile-apps

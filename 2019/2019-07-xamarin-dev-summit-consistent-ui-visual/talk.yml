@@ -1,0 +1,33 @@
+title: Creating Consistent UI with Xamarin.Forms Visual
+date: 2019-07
+event: Xamarin Developer Summit 2019
+city: Houston, United States
+format: talk
+session_url: https://learn.microsoft.com/en-us/shows/xamarin-xamarin-developer-summit-2019/creating-consistent-ui-with-xamarinforms-visual
+abstract: |
+  More and more companies and designers expect mostly or exactly the same design experience across Android and iOS. A combination of styles, effects, behaviors, and platform renderers can get you there, but what if instead of unifying platform differences you could start with a common experience? Visual provides consistent styling and behavior so you can focus more on building the rest of your application. In this session we'll demonstrate how to use the new Material Visual now shipping, and how you can create, package, and consume your own design system.
+abstract_source: https://learn.microsoft.com/en-us/shows/xamarin-xamarin-developer-summit-2019/creating-consistent-ui-with-xamarinforms-visual
+slides:
+  pdf: slides.pdf
+  notes: reviewed
+  release:
+    tag: 2019-07-xamarin-dev-summit-consistent-ui-visual
+    asset: 2019-07-xamarin-dev-summit-consistent-ui-visual.pptx
+    mb: 17.2
+  pages: 32
+recorded: 'yes'
+video:
+- label: Recording on Microsoft Learn
+  url: https://learn.microsoft.com/en-us/shows/xamarin-xamarin-developer-summit-2019/creating-consistent-ui-with-xamarinforms-visual
+resources:
+- label: Visual Challenge repo
+  url: https://github.com/davidortinau/VisualChallenge
+tags:
+- xamarin
+- xamarin-forms
+- visual
+- material
+- design-systems
+sources:
+- https://learn.microsoft.com/en-us/shows/xamarin-xamarin-developer-summit-2019/creating-consistent-ui-with-xamarinforms-visual
+- https://github.com/davidortinau/VisualChallenge

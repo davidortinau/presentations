@@ -1,0 +1,43 @@
+title: BRK204 All things client and mobile app development with .NET MAUI
+date: 2023-05
+event: Build 2023
+city: Seattle, United States
+format: session
+abstract: |
+  Code, test, ship, and continuously improve your mobile and desktop applications with the latest release of .NET Multi-platform App UI (MAUI). From the latest UI controls and native platform integrations on Android, iOS, macOS, and Windows to sharing more code with web technologies like Blazor, Angular, and ReactJS, learn how can achieve more with .NET MAUI, Visual Studio, and Microsoft Azure.
+abstract_source: https://www.youtube.com/watch?v=-4SJvzGNZ_M
+abstract_source_label: Official Microsoft Build 2023 video description (Microsoft Developer channel)
+slides:
+  pdf: slides.pdf
+  notes: reviewed
+  release:
+    tag: 2023-05-build-brk204-client-mobile-maui
+    asset: 2023-05-build-brk204-client-mobile-maui.pptx
+    mb: 121.0
+  pages: 41
+recorded: 'yes'
+video:
+- label: All things client and mobile app development with .NET MAUI | BRK204 (Microsoft Developer)
+  url: https://www.youtube.com/watch?v=-4SJvzGNZ_M
+co_speakers:
+- name: Maddy Montaquila
+  github: maddymontaquila
+- name: Rod Ball
+same_talk_as: []
+resources:
+- label: Build 2023 BRK204 Microsoft Learn collection
+  url: https://learn.microsoft.com/en-us/collections/4x0quom2kz6r4e
+- label: .NET Upgrade Assistant general availability (upgrading Xamarin.Forms to .NET MAUI)
+  url: https://devblogs.microsoft.com/dotnet/upgrade-assistant-general-availability/#upgrades-from-xamarin-forms-to-net-maui
+- label: HybridWebView (experimental) for Angular, React and Vue
+  url: https://aka.ms/MauiHybridWebView
+- label: .NET MAUI performance in .NET 7
+  url: https://aka.ms/maui-7-perf
+tags:
+- maui
+- build
+- dotnet-8
+- hybridwebview
+sources:
+- https://www.youtube.com/watch?v=-4SJvzGNZ_M
+- https://aka.ms/BuildCollectionBRK204H

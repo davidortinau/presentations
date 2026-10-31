@@ -1,0 +1,43 @@
+title: Build Next-Gen AI Apps with .NET
+date: 2026-10-28
+time: "11:15"
+length_min: 60
+event: Techorama NL 2026
+event_url: https://www.techorama.nl/
+venue: Kinepolis Jaarbeurs Utrecht
+city: Utrecht, Netherlands
+format: talk
+session_url: https://www.techorama.nl/schedule/sessions/1240554
+abstract: |
+  Since the earliest days of the internet where rules were yet to be defined, there has never been a more exciting time to build apps. Let's move beyond the < blink > tag of AI and get into the details of what .NET provides to build truly transformational applications that use AI. My team produces the libraries you use to talk to models, define agents, build memory, ground in data, use eval to constantly improve them, talk in real time, and so much more.
+
+  In this session you'll see some inspirational demos of what is possible, learn what is available today from .NET, and get insight into the .NET roadmap for AI directly from the product team.
+abstract_source: https://www.techorama.nl/schedule/sessions/1240554
+slides:
+  pdf: slides.pdf
+  pages: 21
+  notes: reviewed
+  release:
+    tag: 2026-10-28-techorama-nl-next-gen-ai-apps
+    asset: 2026-10-28-techorama-nl-next-gen-ai-apps.pptx
+    mb: 2.3
+recorded: unknown
+video: []
+demos:
+  - name: Sentence Studio (agents, memory, evaluation, realtime voice, Aspire)
+    repo: davidortinau/SentenceStudio
+    branch: techorama/next-gen-demos
+    commit: 87060745e9a63f0f9e80739989b1e5d80e0d0ace
+    docs:
+      - {label: Demo seed script, path: scripts/techorama/seed-demo-learner.sh}
+same_talk_as: []
+resources:
+  - {label: "Microsoft customer story: Direct Pojišťovna and Azure Document Intelligence", url: "https://www.microsoft.com/en/customers/story/26862-direct-pojistovna-azure-document-intelligence-in-foundry-tools"}
+  - {label: "Microsoft Agent Framework: Harness Agent", url: "https://learn.microsoft.com/agent-framework/concepts/harness"}
+  - {label: "Microsoft.Extensions.AI evaluation libraries", url: "https://learn.microsoft.com/dotnet/ai/evaluation/libraries"}
+  - {label: "What's new in .NET 11", url: "https://learn.microsoft.com/dotnet/core/whats-new/dotnet-11/overview"}
+  - {label: "Lukac et al., Ambient AI Scribes in Clinical Practice: A Randomized Trial (NEJM AI, 2025)", url: "https://doi.org/10.1056/AIoa2501000"}
+tags: [ai, agents, meai, agent-framework, evaluation, realtime, aspire, maui]
+sources:
+  - https://www.techorama.nl/schedule/sessions/1240554
+  - https://www.techorama.nl/info/venue

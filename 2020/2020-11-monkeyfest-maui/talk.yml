@@ -1,0 +1,18 @@
+title: .NET MAUI
+date: 2020-11
+event: MonkeyFest USA 2020
+city: Online
+format: talk
+slides:
+  pdf: slides.pdf
+  notes: reviewed
+  release:
+    tag: 2020-11-monkeyfest-maui
+    asset: 2020-11-monkeyfest-maui.pptx
+    mb: 19.0
+  pages: 49
+recorded: unknown
+same_talk_as: []
+tags:
+- maui
+- xamarin

@@ -1,0 +1,42 @@
+title: A Survivalist's Guide to .NET MAUI
+date: 2023-02-10
+event: .NET Frontend Day 2023
+event_url: https://developer.microsoft.com/en-us/reactor/events/18495/
+venue: Epicenter
+city: Stockholm, Sweden
+format: talk
+abstract: |
+  Whether you are starting a new app or upgrading from Xamarin, I'll share some insights to make your apps better and tips to save you time along the way. Come learn about .NET workloads, layouts, upgrading, single project, C# hot reload, and more.
+abstract_source: https://www.youtube.com/watch?v=EoERm4ey96M
+abstract_source_label: Official .NET Frontend Day video description (Dotnet Frontend Day channel)
+slides:
+  pdf: slides.pdf
+  notes: reviewed
+  release:
+    tag: 2023-02-10-dotnet-frontend-day-survivalists-guide
+    asset: 2023-02-10-dotnet-frontend-day-survivalists-guide.pptx
+    mb: 80.1
+  pages: 46
+recorded: 'yes'
+video:
+- label: A Survivalist's Guide to .NET MAUI - David Ortinau (Dotnet Frontend Day)
+  url: https://www.youtube.com/watch?v=EoERm4ey96M
+same_talk_as: []
+resources:
+- label: Custom layout examples (E.Z. Hart)
+  url: https://github.com/hartez/CustomLayoutExamples
+- label: .NET MAUI handlers
+  url: https://learn.microsoft.com/en-us/dotnet/maui/user-interface/handlers
+- label: Customize controls with handlers
+  url: https://learn.microsoft.com/en-us/dotnet/maui/user-interface/handlers/customize?view=net-maui-7.0
+- label: .NET MAUI showcase
+  url: https://aka.ms/dotnetmaui/showcase
+tags:
+- maui
+- workloads
+- layouts
+- xamarin-upgrade
+- hot-reload
+sources:
+- https://www.youtube.com/watch?v=EoERm4ey96M
+- https://developer.microsoft.com/en-us/reactor/events/18495/

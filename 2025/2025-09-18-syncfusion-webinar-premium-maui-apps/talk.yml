@@ -1,0 +1,28 @@
+title: Build Premium .NET MAUI Apps with Syncfusion
+date: '2025-09-18'
+time: 10:00 ET
+event: Syncfusion webinar
+event_url: https://www.syncfusion.com/webinars/
+city: Online
+format: webinar
+session_url: https://www.syncfusion.com/webinars/build-premium-net-maui-apps-with-syncfusion/
+abstract: |
+  In this webinar, David Ortinau, Microsoft .NET Product Manager, demonstrates how developers can harness the power of Syncfusion® Essential Studio UI Edition for .NET MAUI to build premium applications quickly and efficiently. From exploring the partnership between Microsoft and Syncfusion to showcasing the latest controls and layouts, this session provides a comprehensive look at the tools that help .NET MAUI developers take their apps to the next level.
+abstract_source: https://www.syncfusion.com/webinars/build-premium-net-maui-apps-with-syncfusion/
+recorded: 'yes'
+video:
+- label: Recording (Syncfusion, YouTube)
+  url: https://www.youtube.com/watch?v=IWwxMnJN8qE
+same_talk_as: []
+resources:
+- label: Open-Source .NET MAUI Toolkit (Syncfusion)
+  url: https://www.syncfusion.com/net-maui-toolkit
+- label: Syncfusion premium .NET MAUI controls
+  url: https://www.syncfusion.com/maui-controls
+tags:
+- maui
+- syncfusion
+- vs2026
+sources:
+- https://www.syncfusion.com/webinars/build-premium-net-maui-apps-with-syncfusion/
+- https://www.youtube.com/watch?v=IWwxMnJN8qE

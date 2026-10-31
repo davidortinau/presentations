@@ -1,0 +1,37 @@
+title: State of .NET MAUI
+date: 2022-11-08
+event: .NET Conf 2022
+event_url: https://www.dotnetconf.net
+city: Online
+format: session
+session_url: https://learn.microsoft.com/en-us/shows/dotnetconf-2022/state-of-dotnet-maui
+co_speakers:
+- name: Maddy Montaquila
+  github: maddymontaquila
+abstract: |
+  This has been a big year for .NET MAUI and .NET developers building mobile, desktop, and cross-platform apps. So much has happened already, and we have even more announcements to share today. Join product managers Maddy Montaquila and David Ortinau for a brief State of the Union to catch up on all the latest news, and a peek at the road ahead.
+abstract_source: https://learn.microsoft.com/en-us/shows/dotnetconf-2022/state-of-dotnet-maui
+slides:
+  pdf: slides.pdf
+  pages: 26
+  also_at:
+  - label: Slides in the dotnet-presentations .NET Conf repository
+    url: https://github.com/dotnet-presentations/dotNETConf/blob/main/2022/MainEvent/Technical/David_Ortinau_Maddy_Montaquila_State_Of_MAUI.pptx
+recorded: 'yes'
+video:
+- label: State of .NET MAUI | .NET Conf 2022 (YouTube, dotnet channel)
+  url: https://www.youtube.com/watch?v=Z6UPJmerTo8
+same_talk_as: []
+resources:
+- label: .NET MAUI performance in .NET 7
+  url: https://aka.ms/maui-7-perf
+- label: Download .NET 7
+  url: https://get.dot.net/7
+tags:
+- maui
+- dotnet-conf
+- dotnet-7
+sources:
+- https://learn.microsoft.com/en-us/shows/dotnetconf-2022/state-of-dotnet-maui
+- https://www.youtube.com/watch?v=Z6UPJmerTo8
+- https://github.com/dotnet-presentations/dotNETConf/blob/main/2022/MainEvent/Technical/David_Ortinau_Maddy_Montaquila_State_Of_MAUI.pptx

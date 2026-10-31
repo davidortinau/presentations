@@ -1,0 +1,48 @@
+title: "Trust Fall: Building UX for Apps that work on their own"
+date: 2026-10-27
+time: "16:00"
+length_min: 60
+event: Techorama NL 2026
+event_url: https://www.techorama.nl/
+venue: Kinepolis Jaarbeurs Utrecht
+city: Utrecht, Netherlands
+format: talk
+session_url: https://www.techorama.nl/schedule/sessions/1241884
+abstract: |
+  AI has gone beyond the chat window. It is making decisions on your behalf, whether you are watching or not. The difference between this story being a horror thriller and an adventure full of whimsy is none other than the protagonist: you.
+
+  How much users trust any app has everything to do with how it is implemented, the patterns and practices of sound engineering and user interaction design that have always mattered. In this session we'll work through the design patterns shaping agentic UX in 2026: progress ledgers, confidence signals, sandbox previews, autonomy gradients, and the art of the well-placed human-in-the-loop. We'll look at examples of where it is going right, and where it has been frighteningly wrong.
+
+  I'll show you have to implement these patterns using .NET MAUI, Blazor, Microsoft.Extensions.AI, and the Microsoft Agent Framework across mobile, desktop, and web — and you'll leave with a clear engineering recipe for shipping agents your users actually trust.
+abstract_source: https://www.techorama.nl/schedule/sessions/1241884
+slides:
+  pdf: slides.pdf
+  pages: 24
+  notes: reviewed
+  release:
+    tag: 2026-10-27-techorama-nl-trust-fall
+    asset: 2026-10-27-techorama-nl-trust-fall.pptx
+    mb: 44.0
+recorded: unknown
+video: []
+demos:
+  - name: Barista Notes reorder agent (Mac Catalyst app under Aspire, €100 budget)
+    repo: davidortinau/BaristaNotes
+    branch: 005-reorder-agent
+    commit: 403b0a8ec1fd733a67e312bbc7c4c4eb80f92f6a
+    docs:
+      - {label: Demo runbook, path: specs/005-reorder-agent/demo-runbook.md}
+      - {label: Plan, path: specs/005-reorder-agent/plan.md}
+same_talk_as: []
+resources:
+  - {label: "TechCrunch: A Meta AI security researcher said an OpenClaw agent ran amok on her inbox", url: "https://techcrunch.com/2026/02/23/a-meta-ai-security-researcher-said-an-openclaw-agent-ran-amok-on-her-inbox/"}
+  - {label: "Microsoft customer story: Direct Pojišťovna and Azure Document Intelligence", url: "https://www.microsoft.com/en/customers/story/26862-direct-pojistovna-azure-document-intelligence-in-foundry-tools"}
+  - {label: "Shneiderman's Eight Golden Rules of Interface Design", url: "https://www.cs.umd.edu/users/ben/goldenrules.html"}
+  - {label: "Nielsen Norman Group: 10 Usability Heuristics", url: "https://www.nngroup.com/articles/ten-usability-heuristics/"}
+  - {label: "Microsoft Research: Guidelines for Human-AI Interaction", url: "https://www.microsoft.com/en-us/research/publication/guidelines-for-human-ai-interaction/"}
+  - {label: "Slovic (1973), conference paper (PDF)", url: "https://scholarsbank.uoregon.edu/server/api/core/bitstreams/148958f5-1fc5-419d-a56d-8c4583aa4fb5/content"}
+  - {label: "Dietvorst, Simmons, and Massey, algorithm aversion manuscript (PDF)", url: "https://repository.upenn.edu/server/api/core/bitstreams/ac9f1367-c0e9-4a52-a90b-c7e30e6c4910/content"}
+tags: [ai, agents, ux, maui, blazor, meai, agent-framework, aspire]
+sources:
+  - https://www.techorama.nl/schedule/sessions/1241884
+  - https://www.techorama.nl/info/venue

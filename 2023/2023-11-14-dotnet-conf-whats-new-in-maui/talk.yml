@@ -1,0 +1,42 @@
+title: What's New in .NET MAUI
+date: '2023-11-14'
+event: .NET Conf 2023
+city: Online
+format: session
+session_url: https://learn.microsoft.com/en-us/shows/dotnetconf-2023/whats-new-in-dotnet-maui
+abstract: Companies worldwide are building mobile and desktop apps with .NET MAUI, and .NET 8 brings greater stability, memory management, and new desktop features to everyone. In this session, we’ll introduce you to what’s new in .NET 8, how companies are being successful shipping production quality applications with .NET MAUI, and how you can get the most out of Visual Studio and Visual Studio Code.
+abstract_source: https://learn.microsoft.com/en-us/shows/dotnetconf-2023/whats-new-in-dotnet-maui
+recorded: 'yes'
+video:
+- url: https://www.youtube.com/watch?v=4saU9BNY6l4
+  title: What’s New in .NET MAUI | .NET Conf 2023
+demos:
+- name: Point of Sale demo
+  repo: davidortinau/maui-samples
+  branch: dotnetconf2023
+  commit: 85675d031628d9b6fb4d2df3a080ea9567c2dd89
+  docs:
+  - label: Point of Sale app
+    path: 7.0/Apps/PointOfSale
+co_speakers:
+- name: Maddy Montaquila
+  github: maddymontaquila
+resources:
+- label: .NET 8 Performance Improvements in .NET MAUI
+  url: https://devblogs.microsoft.com/dotnet/dotnet-8-performance-improvements-in-dotnet-maui/
+- label: C# Dev Kit
+  url: https://aka.ms/csdevkit
+- label: Download .NET 8
+  url: https://aka.ms/get-dotnet-8
+sources:
+- https://learn.microsoft.com/en-us/shows/dotnetconf-2023/whats-new-in-dotnet-maui
+- https://www.youtube.com/watch?v=4saU9BNY6l4
+- https://github.com/davidortinau/maui-samples/tree/dotnetconf2023
+slides:
+  pdf: slides.pdf
+  notes: reviewed
+  release:
+    tag: 2023-11-14-dotnet-conf-whats-new-in-maui
+    asset: 2023-11-14-dotnet-conf-whats-new-in-maui.pptx
+    mb: 76.5
+  pages: 29

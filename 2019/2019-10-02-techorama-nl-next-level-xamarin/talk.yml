@@ -1,0 +1,34 @@
+title: Secrets To Next Level Mobile Development with Xamarin
+date: 2019-10-02
+time: '10:00'
+length_min: 60
+event: Techorama NL 2019
+venue: Pathé Ede
+city: Ede, Netherlands
+format: talk
+session_url: https://techoramanetherlands2019.sched.com/event/Or9T/secrets-to-next-level-mobile-development-with-xamarin
+abstract: |
+  You don't have to tell your boss. There's nothing really sinister about these secrets. Actually, it's just being plain smart about how you rapidly build beautiful mobile experiences with Xamarin and Visual Studio. The Xamarin and Visual Studio teams have been hard at work improving the SDKs and tools based on your feedback. In this session I'll unveil all the latest tools from Microsoft that will make you feel like 10x your former self when building mobile apps with Xamarin.
+abstract_source: https://techoramanetherlands2019.sched.com/event/Or9T/secrets-to-next-level-mobile-development-with-xamarin
+slides:
+  pdf: slides.pdf
+  notes: reviewed
+  release:
+    tag: 2019-10-02-techorama-nl-next-level-xamarin
+    asset: 2019-10-02-techorama-nl-next-level-xamarin.pptx
+    mb: 53.6
+  pages: 27
+recorded: unknown
+same_talk_as: []
+resources:
+- label: Xamarin Hot Restart
+  url: https://aka.ms/xamarin-hotrestart
+tags:
+- xamarin
+- xamarin-forms
+- visual-studio
+- shell
+- collectionview
+- androidx
+sources:
+- https://techoramanetherlands2019.sched.com/event/Or9T/secrets-to-next-level-mobile-development-with-xamarin

@@ -1,0 +1,26 @@
+slug: 2013-08-28-stl-alt-net-rise-of-xamarin
+title: 'The Rise of Xamarin: Mobile Development in C#'
+date: 2013-08-28
+time: '19:00'
+event: St. Louis ALT.NET
+venue: Professional Employment Group
+city: Saint Louis, USA
+format: talk
+session_url: http://www.meetup.com/stlaltdotnet/events/133172182/
+abstract: |
+  Xamarin empowers us to develop native applications for iOS, Android, Mac and of course Windows and Windows Phone, with a fantastic amount of shared code and resources. We will take a look at the technology fueling this dream, the development workflow, and how viable this solution is for companies from enterprise to independent.
+abstract_source: http://www.meetup.com/stlaltdotnet/events/133172182/
+abstract_source_label: Meetup event page
+slides:
+  also_at:
+  - label: Slides on Speaker Deck
+    url: https://speakerdeck.com/davidortinau/the-rise-of-xamarin-august-2013
+recorded: unknown
+same_talk_as: []
+tags:
+- xamarin
+- csharp
+- mobile
+sources:
+- http://www.meetup.com/stlaltdotnet/events/133172182/
+- https://speakerdeck.com/davidortinau/the-rise-of-xamarin-august-2013

@@ -1,0 +1,36 @@
+title: Getting the Most Out of Xamarin.Forms for Visual Studio 2017
+date: 2017-04
+event: Xamarin webinar
+city: Online
+format: webinar
+session_url: https://learn.microsoft.com/en-us/shows/xamarin-recent-webinars/getting-most-out-of-xamarinforms-visual-studio-2017
+abstract: |-
+  David Ortinau shows how to use your .NET skills, XAML expertise, Visual Studio, and Xamarin.Forms to deliver world-class Android, iOS, and UWP apps faster than ever. Dave will share and demo advanced design features, powerful libraries, out-of-the box and custom controls, and new capabilities that you'll want to use immediately.
+
+  From tips on improving Android Layout performance and including native controls and APIs to how to save development time with XAMLC, get the expert guidance and step-by-step demos you need to deliver lightning-fast, native apps.
+
+  In this webinar, you'll:
+  • Build fully native Android, iOS, and UWP apps with XAML
+  • Create customized UI with Routing Effects and Platform-Specifics
+  • Use bindable, native picker controls to address common UI scenarios
+  • Apply XAMLC to get notified of issues at compile-time and boost performance
+  • Deliver better UX with deep-linked URLs, custom animations, and more
+  • Learn best practices to improve Android performance and use the newest libraries
+abstract_source: https://learn.microsoft.com/en-us/shows/xamarin-recent-webinars/getting-most-out-of-xamarinforms-visual-studio-2017
+slides:
+  pdf: slides.pdf
+  notes: removed
+  release:
+    tag: 2017-04-xamarin-webinar-xamarin-forms-vs2017
+    asset: 2017-04-xamarin-webinar-xamarin-forms-vs2017.pptx
+    mb: 9.5
+  pages: 23
+recorded: 'yes'
+demos:
+- name: Webinar demos
+  repo: davidortinau/WebinarDemos
+  branch: master
+  commit: 7057cbdda37df8afc5e13989f31132cdb364dd8b
+sources:
+- https://learn.microsoft.com/en-us/shows/xamarin-recent-webinars/getting-most-out-of-xamarinforms-visual-studio-2017
+- https://github.com/davidortinau/WebinarDemos

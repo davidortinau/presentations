@@ -1,0 +1,29 @@
+title: Building Your Next App with .NET MAUI
+date: 2021-05-14
+event: Cologne .NET User Group
+city: Online
+format: talk
+abstract: |
+  .NET 6 simplifies the myriad of choices you face when choosing how to build your next mobile, desktop, web, or cross-platform application. At the core of this is .NET Multi-platform App UI (MAUI). In this session David will introduce the .NET MAUI architecture, how it relates to other parts of .NET such as Blazor, demonstrate the latest productivity features, and answer your .NET MAUI questions.
+abstract_source: https://www.youtube.com/watch?v=6qrQax2Jqnw
+abstract_source_label: Video description on Tobias Hoppenthaler's YouTube channel
+slides:
+  pdf: slides.pdf
+  notes: reviewed
+  release:
+    tag: 2021-05-14-cologne-ug-next-app-with-maui
+    asset: 2021-05-14-cologne-ug-next-app-with-maui.pptx
+    mb: 14.8
+  pages: 27
+recorded: 'yes'
+video:
+- label: David Ortinau - Building Your Next App with .NET MAUI (Tobias Hoppenthaler)
+  url: https://www.youtube.com/watch?v=6qrQax2Jqnw
+same_talk_as:
+- 2021-10-01-xamarin-expert-day-next-maui-app
+tags:
+- maui
+- dotnet-6
+- blazor
+sources:
+- https://www.youtube.com/watch?v=6qrQax2Jqnw

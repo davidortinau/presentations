@@ -1,0 +1,19 @@
+title: Cracking the Shell of .NET MAUI
+date: 2024-10
+event: Techorama NL 2024
+format: talk
+slides:
+  pdf: slides.pdf
+  notes: reviewed
+  release:
+    tag: 2024-10-techorama-nl-cracking-the-shell
+    asset: 2024-10-techorama-nl-cracking-the-shell.pptx
+    mb: 18.9
+  pages: 26
+recorded: unknown
+tags:
+- maui
+- shell
+- navigation
+sources:
+- https://sessionize.com/david-ortinau

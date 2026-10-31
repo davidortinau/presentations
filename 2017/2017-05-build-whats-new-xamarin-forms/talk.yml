@@ -1,0 +1,33 @@
+title: What's new in Xamarin.Forms
+date: 2017-05
+event: Build 2017
+city: Seattle, United States
+format: session
+slides:
+  pdf: slides.pdf
+  notes: reviewed
+  release:
+    tag: 2017-05-build-whats-new-xamarin-forms
+    asset: 2017-05-build-whats-new-xamarin-forms.pptx
+    mb: 52.3
+  pages: 33
+recorded: unknown
+co_speakers:
+- name: Jason Smith
+demos:
+- name: Build 2017 What's new in Xamarin.Forms demo
+  repo: davidortinau/build2017-new-in-xamarin-forms
+  branch: master
+  commit: 5bb767653b939570c3a1c7973d3170917a60d903
+same_talk_as: []
+resources:
+- label: Xamarin.Forms public roadmap
+  url: https://aka.ms/xfroadmap
+- label: XAML Standard
+  url: https://github.com/Microsoft/xaml-standard
+tags:
+- xamarin-forms
+- build
+sources:
+- https://github.com/davidortinau/build2017-new-in-xamarin-forms
+- https://es.infragistics.com/community/blogs/b/infragistics/posts/microsoft-build-2017-what-39-s-new-in-xamarin-forms

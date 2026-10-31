@@ -1,0 +1,24 @@
+slug: 2016-04-xamarin-evolve-sketch-to-app
+title: 'From Sketch to App: A Design to Development Workflow'
+date: 2016-04
+event: Xamarin Evolve 2016
+format: session
+session_url: https://learn.microsoft.com/en-us/shows/xamarin-evolve-2016/from-sketch-to-app-design-to-development-workflow
+abstract: |
+  A good design and development workflow for any application involves users early and often to help inform and validate decisions when they can still be cheaply improved. In this session we will walk through using a variety of tools to concept, plan, prototype, user test, design, and develop superior mobile applications.
+abstract_source: https://learn.microsoft.com/en-us/shows/xamarin-evolve-2016/from-sketch-to-app-design-to-development-workflow
+abstract_source_label: Microsoft Learn show page
+slides:
+  also_at:
+  - label: Slides on Speaker Deck
+    url: https://speakerdeck.com/davidortinau/from-sketch-to-app-design-to-development-workflow
+recorded: 'yes'
+same_talk_as: []
+tags:
+- xamarin
+- design
+- ux
+- prototyping
+sources:
+- https://learn.microsoft.com/en-us/shows/xamarin-evolve-2016/from-sketch-to-app-design-to-development-workflow
+- https://speakerdeck.com/davidortinau/from-sketch-to-app-design-to-development-workflow

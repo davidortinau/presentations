@@ -1,0 +1,38 @@
+title: Let's Make Crazy Beautiful UI With Xamarin.Forms
+date: 2019-07
+event: Xamarin Developer Summit 2019
+city: Houston, United States
+format: talk
+session_url: https://learn.microsoft.com/en-us/shows/xamarin-xamarin-developer-summit-2019/lets-make-crazy-beautiful-ui-with-xamarinforms
+abstract: |
+  Xamarin.Forms may have been originally considered best for building rapid prototypes, but customers have shown us time and again that the only limits to its power is your imagination. In this session we'll take 4 beautiful designs and demonstrate the techniques used to create them. We'll cover layout, styling, bindings, animations, behaviors, drawing, and more.
+abstract_source: https://learn.microsoft.com/en-us/shows/xamarin-xamarin-developer-summit-2019/lets-make-crazy-beautiful-ui-with-xamarinforms
+abstract_source_label: Microsoft Learn show page
+slides:
+  pdf: slides.pdf
+  notes: none
+  release:
+    tag: 2019-07-xamarin-dev-summit-crazy-beautiful-ui
+    asset: 2019-07-xamarin-dev-summit-crazy-beautiful-ui.pptx
+    mb: 7.5
+  pages: 25
+recorded: 'yes'
+video:
+- label: Recording on Microsoft Learn
+  url: https://learn.microsoft.com/en-us/shows/xamarin-xamarin-developer-summit-2019/lets-make-crazy-beautiful-ui-with-xamarinforms
+same_talk_as: []
+resources:
+- label: 'Sharpnado: pure Xamarin.Forms tabs'
+  url: https://www.sharpnado.com/pure-xamarin-forms-tabs/
+- label: Named font sizes in Xamarin.Forms
+  url: https://docs.microsoft.com/en-us/xamarin/xamarin-forms/user-interface/text/fonts#named-font-sizes
+tags:
+- xamarin
+- xamarin-forms
+- ui
+- theming
+- gradients
+- parallax
+- animations
+sources:
+- https://learn.microsoft.com/en-us/shows/xamarin-xamarin-developer-summit-2019/lets-make-crazy-beautiful-ui-with-xamarinforms

@@ -1,0 +1,41 @@
+title: Welcome to .NET MAUI!
+date: 2022-08-09
+event: '.NET Conf: Focus on MAUI 2022'
+format: keynote
+session_url: https://learn.microsoft.com/en-us/shows/dotnetconf-focus-on-maui/welcome-to-dotnet-maui
+co_speakers:
+- name: Maddy Montaquila
+  github: maddymontaquila
+abstract: |
+  Maddy and David open the day with an introduction to .NET Multi-platform App UI, why it's an important framework for .NET developers, and some of the momentum they're seeing in the .NET ecosystem around native client development.
+abstract_source: https://learn.microsoft.com/en-us/shows/dotnetconf-focus-on-maui/welcome-to-dotnet-maui
+slides:
+  pdf: slides.pdf
+  notes: reviewed
+  release:
+    tag: 2022-08-09-dotnet-conf-focus-on-maui-keynote
+    asset: 2022-08-09-dotnet-conf-focus-on-maui-keynote.pptx
+    mb: 23.3
+  also_at:
+  - label: Keynote deck in dotnet-presentations/dotNETConf
+    url: https://github.com/dotnet-presentations/dotNETConf/blob/main/2022/FocusOnMAUI/Technical/dotnetconf-MAUI-Keynote.pptx
+  pages: 39
+recorded: 'yes'
+video:
+- label: Recording on Microsoft Learn
+  url: https://learn.microsoft.com/en-us/shows/dotnetconf-focus-on-maui/welcome-to-dotnet-maui
+same_talk_as: []
+resources:
+- label: .NET MAUI documentation
+  url: https://learn.microsoft.com/dotnet/maui/
+- label: dotnet-podcasts sample app
+  url: https://github.com/microsoft/dotnet-podcasts
+- label: .NET MAUI samples
+  url: https://github.com/dotnet/maui-samples
+tags:
+- maui
+- keynote
+- dotnet-conf
+sources:
+- https://learn.microsoft.com/en-us/shows/dotnetconf-focus-on-maui/welcome-to-dotnet-maui
+- https://github.com/dotnet-presentations/dotNETConf/blob/main/2022/FocusOnMAUI/Technical/dotnetconf-MAUI-Keynote.pptx

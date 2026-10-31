@@ -1,0 +1,43 @@
+title: BOD107 Build native apps for any device with .NET
+date: 2020-05-19
+event: Build 2020
+event_url: https://learn.microsoft.com/en-us/shows/build-2020/
+format: session
+city: Online
+session_url: https://learn.microsoft.com/en-us/shows/build-2020/bod107
+abstract: |
+  Learn about recent Xamarin features and Visual Studio productivity gains you can take advantage of today, as well as peek into the future of building native, cross-platform apps with .NET.
+abstract_source: https://learn.microsoft.com/en-us/shows/build-2020/bod107
+co_speakers:
+- name: Maddy Leger
+  github: maddymontaquila
+slides:
+  pdf: slides.pdf
+  notes: reviewed
+  release:
+    tag: 2020-05-19-build-bod107-native-apps-any-device
+    asset: 2020-05-19-build-bod107-native-apps-any-device.pptx
+    mb: 67.7
+  also_at:
+  - label: Original deck in dotnet-presentations/Build (Git LFS)
+    url: https://github.com/dotnet-presentations/Build/blob/master/2020/2020_05_19_Xamarin_Build.pptx
+  pages: 61
+recorded: 'yes'
+video:
+- label: Recording on Microsoft Learn
+  url: https://learn.microsoft.com/en-us/shows/build-2020/bod107
+same_talk_as: []
+resources:
+- label: Xamarin.Forms roadmap
+  url: https://aka.ms/xf-roadmap
+- label: .NET MAUI proposals
+  url: https://github.com/dotnet/maui
+- label: Good UI samples from the community (Javier Suarez)
+  url: https://aka.ms/xf-good-ui
+tags:
+- xamarin
+- xamarin-forms
+- maui
+- build
+sources:
+- https://learn.microsoft.com/en-us/shows/build-2020/bod107

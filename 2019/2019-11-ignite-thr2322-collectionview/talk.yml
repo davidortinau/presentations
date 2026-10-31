@@ -1,0 +1,29 @@
+title: Displaying large data sets with Xamarin.Forms CollectionView (THR2322)
+date: 2019-11
+event: Ignite 2019
+event_url: https://web.archive.org/web/2020/https://myignite.techcommunity.microsoft.com/
+city: Orlando, United States
+format: session
+session_url: https://web.archive.org/web/20191214052427/https://myignite.techcommunity.microsoft.com/sessions/85036
+slides:
+  pdf: slides.pdf
+  notes: reviewed
+  release:
+    tag: 2019-11-ignite-thr2322-collectionview
+    asset: 2019-11-ignite-thr2322-collectionview.pptx
+    mb: 23.6
+  pages: 9
+recorded: unknown
+demos:
+- name: FlyMe (Xamarin.Forms Shell, Visual and CollectionView demo for the three Ignite 2019 sessions)
+  repo: davidortinau/FlyMe
+  branch: main
+  commit: c49719d384702687790a4efc3c317fa050ae8dc0
+same_talk_as: []
+tags:
+- xamarin-forms
+- collectionview
+- mobile
+sources:
+- https://github.com/davidortinau/FlyMe
+- https://web.archive.org/web/20191214052427/https://myignite.techcommunity.microsoft.com/sessions/85036

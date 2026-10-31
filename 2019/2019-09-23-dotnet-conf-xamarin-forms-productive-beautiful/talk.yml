@@ -1,0 +1,45 @@
+title: 'Xamarin.Forms: More Productive and Beautiful Than Ever'
+date: 2019-09-23
+event: .NET Conf 2019
+event_url: https://www.dotnetconf.net/
+city: Online
+format: session
+session_url: https://learn.microsoft.com/en-us/shows/dotnetconf-2019/xamarinforms-more-productive-and-beautiful-than-ever
+abstract: |
+  Xamarin.Forms continues to add features to help you more quickly build beautiful cross-platform mobile apps using C#, .NET, and Visual Studio. Discover the power and productivity of new features such as Shell and Visual, and new controls like CollectionView, CarouselView, and many others.
+abstract_source: https://learn.microsoft.com/en-us/shows/dotnetconf-2019/xamarinforms-more-productive-and-beautiful-than-ever
+abstract_source_label: Microsoft Learn show page
+slides:
+  pdf: slides.pdf
+  notes: reviewed
+  release:
+    tag: 2019-09-23-dotnet-conf-xamarin-forms-productive-beautiful
+    asset: 2019-09-23-dotnet-conf-xamarin-forms-productive-beautiful.pptx
+    mb: 90.4
+  also_at:
+  - label: Original deck in dotnet-presentations/dotNETConf
+    url: https://github.com/dotnet-presentations/dotNETConf/blob/main/2019/Technical/2019_09_23_DotnetConf2019_XamarinProductiveBeautiful.pptx
+  pages: 41
+recorded: 'yes'
+video:
+- label: Recording on Microsoft Learn
+  url: https://learn.microsoft.com/en-us/shows/dotnetconf-2019/xamarinforms-more-productive-and-beautiful-than-ever
+same_talk_as: []
+resources:
+- label: XAML Hot Reload
+  url: http://aka.ms/xamlhotreload
+- label: Xamarin Hot Restart
+  url: https://aka.ms/xamarin-hotrestart
+- label: Kym Phillpotts on Twitch
+  url: https://www.twitch.tv/kymphillpotts
+tags:
+- xamarin
+- xamarin-forms
+- shell
+- visual
+- collectionview
+- carouselview
+- dotnet-conf
+sources:
+- https://learn.microsoft.com/en-us/shows/dotnetconf-2019/xamarinforms-more-productive-and-beautiful-than-ever
+- https://github.com/dotnet-presentations/dotNETConf/blob/main/2019/Technical/2019_09_23_DotnetConf2019_XamarinProductiveBeautiful.pptx

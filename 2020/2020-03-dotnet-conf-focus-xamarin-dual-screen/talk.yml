@@ -1,0 +1,31 @@
+title: Developing Dual-screen Experiences with Xamarin
+date: 2020-03
+event: '.NET Conf: Focus on Xamarin'
+format: session
+city: Online
+session_url: https://learn.microsoft.com/en-us/shows/dotnetconf-focus-on-xamarin/developing-dual-screen-experiences-with-xamarin
+abstract: |
+  Join Guy & David as they show off how to get started with Xamarin and building dual-screen experiences for Windows 10x dual-screen devices and Surface Duo with Xamrain.Forms.
+
+  They will talk through new controls and APIs just released to help you build beautiful experiences for these devices.
+
+  For more information on Xamarin head over to https://aka.ms/XamarinFocus
+abstract_source: https://learn.microsoft.com/en-us/shows/dotnetconf-focus-on-xamarin/developing-dual-screen-experiences-with-xamarin
+co_speakers:
+- name: Guy Merin
+recorded: 'yes'
+video:
+- label: Recording on Microsoft Learn
+  url: https://learn.microsoft.com/en-us/shows/dotnetconf-focus-on-xamarin/developing-dual-screen-experiences-with-xamarin
+same_talk_as: []
+resources:
+- label: Focus on Xamarin
+  url: https://aka.ms/XamarinFocus
+tags:
+- xamarin
+- xamarin-forms
+- dual-screen
+- surface-duo
+- dotnet-conf
+sources:
+- https://learn.microsoft.com/en-us/shows/dotnetconf-focus-on-xamarin/developing-dual-screen-experiences-with-xamarin

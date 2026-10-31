@@ -1,0 +1,42 @@
+title: What's New in Tizen? 5.5 Platform Update and Developer Environment
+date: 2019-10-30
+time: '12:30'
+length_min: 45
+event: Samsung Developer Conference 2019
+event_url: https://www.samsungdeveloperconference.com/
+venue: Session Room 212
+city: San Jose, United States
+format: session
+session_url: https://www.samsungdeveloperconference.com/schedule/session/1089296
+slides:
+  pdf: slides.pdf
+  notes: reviewed
+  release:
+    tag: 2019-10-30-samsung-dev-conf-tizen-5-5
+    asset: 2019-10-30-samsung-dev-conf-tizen-5-5.pptx
+    mb: 32.8
+  pages: 17
+recorded: 'yes'
+video:
+- label: Video on the Samsung Developer channel
+  url: https://www.youtube.com/watch?v=fU5Yx8M0KOk
+co_speakers:
+- name: Hobum Vincent Kwon
+- name: Diego Lizarazo Rivera
+demos:
+- name: Tizen .NET demos, samples and resources from SDC 2019
+  repo: rookiejava/sdc2019-tizen-net
+  branch: master
+  commit: 9b97b5dc67c3e0f31e36076389323b1198883361
+same_talk_as: []
+resources:
+- label: dotnet-presentations
+  url: https://github.com/dotnet-presentations/home
+tags:
+- tizen
+- xamarin-forms
+- dotnet-5
+sources:
+- https://github.com/rookiejava/sdc2019-tizen-net
+- https://www.youtube.com/watch?v=fU5Yx8M0KOk
+- https://www.youtube.com/oembed?format=json&url=https://www.youtube.com/watch?v=fU5Yx8M0KOk

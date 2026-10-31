@@ -1,0 +1,38 @@
+title: Blazor Everywhere
+date: 2026-02-04
+time: '12:50'
+event: Swetugg Stockholm 2026
+event_url: https://swetugg-v2-web-app-ava3f0dgcnana0dj.swedencentral-01.azurewebsites.net/Stockholm/2026
+venue: Lustikulla Konferens & Event
+city: Stockholm, Sweden
+format: talk
+session_url: https://swetugg-v2-web-app-ava3f0dgcnana0dj.swedencentral-01.azurewebsites.net/Stockholm/2026/sessions/blazor-everywhere
+abstract: |
+  Ever since we introduced .NET MAUI we have heard the same chorus of celebration: developers love Blazor Hybrid with .NET MAUI! And we continue to add and improve the experience with every release. In this session I'll cover the breadth of what you can do with a hybrid solution, from maximizing your code share across platforms to plumbing the depths of native device features. You may be astonished just how great the apps can be!
+abstract_source: https://swetugg-v2-web-app-ava3f0dgcnana0dj.swedencentral-01.azurewebsites.net/Stockholm/2026/sessions/blazor-everywhere
+slides:
+  pdf: slides.pdf
+  notes: reviewed
+  release:
+    tag: 2026-02-04-swetugg-blazor-everywhere
+    asset: 2026-02-04-swetugg-blazor-everywhere.pptx
+    mb: 116.6
+  pages: 14
+recorded: unknown
+demos:
+- name: BlazorCanDoEverything
+  repo: davidortinau/BlazorCanDoEverything
+  branch: main
+  commit: ae1dee24ca8d97b77543f4c85846aa12fcf5280f
+same_talk_as: []
+resources:
+- label: Hybrid apps in .NET MAUI documentation
+  url: https://learn.microsoft.com/dotnet/maui/hybrid-apps
+- label: BlazorCanDoEverything demo
+  url: https://github.com/davidortinau/BlazorCanDoEverything
+- label: 'Nielsen Norman Group: The 3rd UI paradigm of AI'
+  url: https://www.nngroup.com/articles/ai-paradigm/
+sources:
+- https://swetugg-v2-web-app-ava3f0dgcnana0dj.swedencentral-01.azurewebsites.net/Stockholm/2026/sessions/blazor-everywhere
+- https://swetugg-v2-web-app-ava3f0dgcnana0dj.swedencentral-01.azurewebsites.net/Stockholm/2026/speakers/david-ortinau
+- https://github.com/davidortinau/BlazorCanDoEverything

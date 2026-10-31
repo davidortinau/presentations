@@ -1,0 +1,32 @@
+title: Authentication with .NET MAUI
+date: 2022-12
+event: DEVintersection 2022
+event_url: https://devintersection.com/
+city: Las Vegas, United States
+format: talk
+slides:
+  pdf: slides.pdf
+  notes: reviewed
+  release:
+    tag: 2022-12-devintersection-maui-auth
+    asset: 2022-12-devintersection-maui-auth.pptx
+    mb: 50.2
+  pages: 23
+recorded: unknown
+same_talk_as: []
+resources:
+- label: MSAL.NET with .NET MAUI sample
+  url: https://github.com/Azure-Samples/ms-identity-dotnetcore-maui
+- label: Azure Mobile Apps (Datasync)
+  url: https://github.com/Azure/azure-mobile-apps
+- label: WebAuthenticator (Microsoft Learn)
+  url: https://learn.microsoft.com/dotnet/maui/platform-integration/communication/authentication
+- label: Add authentication to .NET MAUI apps with Auth0
+  url: https://auth0.com/blog/add-authentication-to-dotnet-maui-apps-with-auth0/
+tags:
+- maui
+- authentication
+- msal
+- identity
+sources:
+- https://web.archive.org/web/20221231121734/https://devintersection.com/

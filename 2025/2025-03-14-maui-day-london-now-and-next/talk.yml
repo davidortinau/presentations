@@ -1,0 +1,23 @@
+title: .NET MAUI Now and Next
+date: '2025-03-14'
+time: 09:00
+length_min: 60
+event: MAUI Day London 2025
+event_url: https://mauiday.net/
+venue: Just Eat London
+city: London, United Kingdom
+format: talk
+session_url: https://mauiday.net/archive/london-2025
+abstract: |
+  We continue to pursue our mission to delight developers and empower you to achieve more with our SDKs and tools. While .NET 9 is still new and shiny, we are already working on .NET 10. In this session I'll share the product highlights and candidly share our vision for the future of mobile and desktop cross-platform development.
+abstract_source: https://mauiday.net/archive/london-2025
+abstract_source_label: MAUI Day archive page
+recorded: unknown
+same_talk_as:
+- 2026-05-29-maui-day-krakow-now-and-next
+- 2026-02-06-maui-day-london-now-and-next
+tags:
+- maui
+- dotnet-10
+sources:
+- https://mauiday.net/archive/london-2025

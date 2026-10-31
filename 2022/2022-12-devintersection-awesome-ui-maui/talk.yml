@@ -1,0 +1,35 @@
+title: Awesome UI with .NET MAUI
+date: 2022-12
+event: DEVintersection 2022
+event_url: https://devintersection.com/
+city: Las Vegas, United States
+format: talk
+slides:
+  pdf: slides.pdf
+  notes: reviewed
+  release:
+    tag: 2022-12-devintersection-awesome-ui-maui
+    asset: 2022-12-devintersection-awesome-ui-maui.pptx
+    mb: 77.3
+  pages: 37
+recorded: unknown
+same_talk_as: []
+resources:
+- label: Customization with handlers (Microsoft Learn)
+  url: https://learn.microsoft.com/en-us/dotnet/maui/user-interface/handlers/customize
+- label: .NET MAUI Community Toolkit
+  url: https://github.com/CommunityToolkit/Maui
+- label: ToDoEntry control composition sample
+  url: https://github.com/davidortinau/ToDoEntry/
+- label: Awesome .NET MAUI
+  url: https://github.com/jsuarezruiz/awesome-dotnet-maui
+- label: .NET MAUI samples
+  url: https://github.com/dotnet/maui-samples
+tags:
+- maui
+- ui
+- accessibility
+- shell
+- styling
+sources:
+- https://web.archive.org/web/20221231121734/https://devintersection.com/

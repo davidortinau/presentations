@@ -1,0 +1,23 @@
+title: .NET MAUI Now and Next
+date: '2026-05-29'
+time: 09:10
+length_min: 60
+event: MAUI Day Kraków 2026
+event_url: https://mauiday.net/
+venue: Politechnika Krakowska
+city: Kraków, Poland
+format: talk
+session_url: https://mauiday.net/archive/krakow-2026
+abstract: |
+  We continue to pursue our mission to delight developers and empower you to achieve more with our SDKs and tools. While .NET 10 is still new and shiny, we are already working on .NET 11. In this session I'll share the product highlights and candidly share our vision for the future of mobile and desktop cross-platform development.
+abstract_source: https://mauiday.net/archive/krakow-2026
+abstract_source_label: MAUI Day archive page
+recorded: unknown
+same_talk_as:
+- 2026-02-06-maui-day-london-now-and-next
+- 2025-03-14-maui-day-london-now-and-next
+tags:
+- maui
+- dotnet-11
+sources:
+- https://mauiday.net/archive/krakow-2026

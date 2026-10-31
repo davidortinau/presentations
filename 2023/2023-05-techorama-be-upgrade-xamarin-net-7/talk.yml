@@ -1,0 +1,28 @@
+title: How to Upgrade from Xamarin to .NET 7
+date: 2023-05
+event: Techorama BE 2023
+format: talk
+venue: Kinepolis Antwerp
+city: Antwerp, Belgium
+slides:
+  pdf: slides.pdf
+  notes: reviewed
+  release:
+    tag: 2023-05-techorama-be-upgrade-xamarin-net-7
+    asset: 2023-05-techorama-be-upgrade-xamarin-net-7.pptx
+    mb: 67.6
+  pages: 33
+recorded: unknown
+resources:
+- label: Upgrading from Xamarin discussions (dotnet/maui)
+  url: https://github.com/dotnet/maui/discussions/categories/upgrading-from-xamarin
+- label: Migration documentation
+  url: https://learn.microsoft.com/dotnet/maui/migration/
+- label: Custom layout examples (E.Z. Hart)
+  url: https://github.com/hartez/CustomLayoutExamples
+tags:
+- maui
+- xamarin
+- migration
+sources:
+- https://techorama.be/

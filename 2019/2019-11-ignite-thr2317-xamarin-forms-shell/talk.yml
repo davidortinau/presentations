@@ -1,0 +1,29 @@
+title: Build .NET mobile apps quickly and easily with Xamarin.Forms Shell (THR2317)
+date: 2019-11
+event: Ignite 2019
+event_url: https://web.archive.org/web/2020/https://myignite.techcommunity.microsoft.com/
+city: Orlando, United States
+format: session
+session_url: https://web.archive.org/web/20191215191123/https://myignite.techcommunity.microsoft.com/sessions/85031
+recorded: unknown
+demos:
+- name: FlyMe (Xamarin.Forms Shell, Visual and CollectionView demo for the three Ignite 2019 sessions)
+  repo: davidortinau/FlyMe
+  branch: main
+  commit: c49719d384702687790a4efc3c317fa050ae8dc0
+same_talk_as: []
+tags:
+- xamarin-forms
+- shell
+- mobile
+sources:
+- https://github.com/davidortinau/FlyMe
+- https://web.archive.org/web/20191215191123/https://myignite.techcommunity.microsoft.com/sessions/85031
+slides:
+  pdf: slides.pdf
+  notes: reviewed
+  release:
+    tag: 2019-11-ignite-thr2317-xamarin-forms-shell
+    asset: 2019-11-ignite-thr2317-xamarin-forms-shell.pptx
+    mb: 23.7
+  pages: 13

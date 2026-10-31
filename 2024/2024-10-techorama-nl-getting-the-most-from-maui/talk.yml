@@ -1,0 +1,22 @@
+title: Getting the Most from .NET MAUI
+date: 2024-10
+event: Techorama NL 2024
+format: talk
+abstract: |
+  .NET MAUI is being used by major companies around the globe to develop business critical applications. At Microsoft we engage with them to learn how they are using .NET MAUI successfully, and what we can be doing to further improve the product. Come learn in this session some of the best practices so you too get can get the most from .NET MAUI when building applications for Android, iOS, macOS, and Windows with C# and Visual Studio.
+abstract_source: https://sessionize.com/s/david-ortinau/getting-the-most-from-.net-maui/93804
+abstract_source_label: Sessionize session page
+slides:
+  pdf: slides.pdf
+  notes: reviewed
+  release:
+    tag: 2024-10-techorama-nl-getting-the-most-from-maui
+    asset: 2024-10-techorama-nl-getting-the-most-from-maui.pptx
+    mb: 24.3
+  pages: 27
+recorded: unknown
+tags:
+- maui
+- best-practices
+sources:
+- https://sessionize.com/s/david-ortinau/getting-the-most-from-.net-maui/93804

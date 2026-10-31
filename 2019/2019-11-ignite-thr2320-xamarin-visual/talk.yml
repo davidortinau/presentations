@@ -1,0 +1,33 @@
+title: Crafting Stunning Mobile Apps with Xamarin Visual Design System (THR2320)
+date: 2019-11
+event: Ignite 2019
+event_url: https://web.archive.org/web/2020/https://myignite.techcommunity.microsoft.com/
+city: Orlando, United States
+format: session
+session_url: https://web.archive.org/web/20191211084606/https://myignite.techcommunity.microsoft.com/sessions/85034
+slides:
+  pdf: slides.pdf
+  notes: none
+  release:
+    tag: 2019-11-ignite-thr2320-xamarin-visual
+    asset: 2019-11-ignite-thr2320-xamarin-visual.pptx
+    mb: 51.1
+  pages: 16
+recorded: unknown
+demos:
+- name: FlyMe (Xamarin.Forms Shell, Visual and CollectionView demo for the three Ignite 2019 sessions)
+  repo: davidortinau/FlyMe
+  branch: main
+  commit: c49719d384702687790a4efc3c317fa050ae8dc0
+same_talk_as: []
+resources:
+- label: Xamarin.Forms Material Visual docs
+  url: https://docs.microsoft.com/en-us/xamarin/xamarin-forms/user-interface/visual/material-visual
+tags:
+- xamarin-forms
+- visual
+- material
+- mobile
+sources:
+- https://github.com/davidortinau/FlyMe
+- https://web.archive.org/web/20191211084606/https://myignite.techcommunity.microsoft.com/sessions/85034

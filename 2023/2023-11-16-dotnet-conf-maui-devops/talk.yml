@@ -1,0 +1,21 @@
+title: Build .NET MAUI Apps with DevOps
+date: '2023-11-16'
+event: .NET Conf 2023
+city: Online
+format: session
+abstract: In this session, we'll walk through DevOps pipelines to show how to build .NET MAUI apps. We'll also share some tips and tricks, tips on how to optimize your builds. We'll look at sample pipelines in GitHub Actions and Azure DevOps, discuss signing the apps for distribution and running Unit Tests as part of the pipeline.
+abstract_source: https://www.youtube.com/watch?v=PattkMhmnzE
+abstract_source_label: Official .NET Conf 2023 video description (dotnet channel)
+recorded: 'yes'
+video:
+- url: https://www.youtube.com/watch?v=PattkMhmnzE
+  title: Build .NET MAUI Apps with DevOps | .NET Conf 2023
+co_speakers:
+- name: Sweekriti Satpathy
+  github: Sweekriti91
+resources:
+- label: Talk resources and demo pipelines (Sweekriti91/dotNETConf23DevOps)
+  url: https://github.com/Sweekriti91/dotNETConf23DevOps
+sources:
+- https://www.youtube.com/watch?v=PattkMhmnzE
+- https://github.com/Sweekriti91/dotNETConf23DevOps

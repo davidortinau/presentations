@@ -1,0 +1,35 @@
+title: The Future of Native Apps Development in .NET 6
+date: 2021-02-25
+event: '.NET Conf: Focus on Windows'
+event_url: https://devblogs.microsoft.com/dotnet/tune-in-for-net-conf-focus-on-windows-february-25th/
+city: Online
+format: session
+session_url: https://learn.microsoft.com/en-us/shows/dotnetconf-focus-on-windows/the-future-of-native-apps-development-in-net-6
+co_speakers:
+- name: Maddy Montaquila
+  github: maddymontaquila
+abstract: |
+  .NET Multi-platform App UI (.NET MAUI) is a framework for building cross-platform desktop, tablet, and mobile apps with a single codebase. It's in early preview and will be available with .NET 6. Come see how you can build native apps for Windows, macOS, iOS and Android all at the same time.
+abstract_source: https://learn.microsoft.com/en-us/shows/dotnetconf-focus-on-windows/the-future-of-native-apps-development-in-net-6
+abstract_source_label: Microsoft Learn show page
+slides:
+  pdf: slides.pdf
+  notes: reviewed
+  release:
+    tag: 2021-02-25-dotnet-conf-focus-windows-native-apps-net-6
+    asset: 2021-02-25-dotnet-conf-focus-windows-native-apps-net-6.pptx
+    mb: 44.9
+  pages: 28
+recorded: 'yes'
+video:
+- label: Recording (YouTube, .NET channel)
+  url: https://www.youtube.com/watch?v=fPEdgXeqhE4
+same_talk_as: []
+tags:
+- maui
+- dotnet-6
+- blazor-hybrid
+sources:
+- https://learn.microsoft.com/en-us/shows/dotnetconf-focus-on-windows/the-future-of-native-apps-development-in-net-6
+- https://devblogs.microsoft.com/dotnet/tune-in-for-net-conf-focus-on-windows-february-25th/
+- https://www.youtube.com/watch?v=fPEdgXeqhE4

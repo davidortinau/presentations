@@ -1,0 +1,34 @@
+title: ".NET MAUI Do's and Don'ts"
+date: 2024-02-01
+event: .NET MAUI Community Standup
+event_url: https://www.youtube.com/playlist?list=PLdo4fOcmZ0oX-sL7AFmygVw2A37Hbp8ZS
+city: Online
+format: livestream
+session_url: https://www.youtube.com/watch?v=IQbJPm1VBkg
+co_speakers:
+  - {name: Maddy Montaquila, github: maddymontaquila}
+note: 'A segment of the standup "MAUI Catch-up and Q+A!", starting at 49:15.'
+abstract: |
+  Join David and Maddy to catch up on all things .NET MAUI - .NET 8 reception, .NET 9 planning, some of Maddy and David's "what not to do's", and the usual shenanigans. Plus, plenty of time for Q+A!
+abstract_source: https://www.youtube.com/watch?v=IQbJPm1VBkg
+abstract_source_label: video description
+slides:
+  pdf: slides.pdf
+  pages: 15
+  notes: none
+  release:
+    tag: 2024-02-01-maui-community-standup-dos-and-donts
+    asset: 2024-02-01-maui-community-standup-dos-and-donts.pptx
+    mb: 0.1
+recorded: "yes"
+video:
+  - {label: "The Do's and Don'ts segment (YouTube, from 49:15)", url: "https://www.youtube.com/watch?v=IQbJPm1VBkg&t=2955s"}
+demos: []
+same_talk_as: []
+resources:
+  - {label: ".NET MAUI Do's and Don'ts, the write-up on DEV", url: "https://dev.to/davidortinau/net-maui-dos-and-donts-19g3"}
+  - {label: "Community links from the standup", url: "https://www.theurlist.com/maui-standup-feb2024"}
+tags: [maui, guidance, community-standup]
+sources:
+  - https://www.youtube.com/watch?v=IQbJPm1VBkg
+  - https://dev.to/davidortinau/net-maui-dos-and-donts-19g3

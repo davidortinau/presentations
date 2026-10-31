@@ -1,0 +1,22 @@
+slug: 2013-05-idsl-automated-ui-testing
+title: 'Automated UI Testing: Xamarin TestCloud & Calabash'
+date: 2013-05
+event: Interactive Developers of St. Louis
+format: talk
+abstract: |
+  Xamarin's recently announced TestCloud provides amazing automation for UI testing in the cloud across the top mobile device hardware. Calabash is the core testing framework and you can use it locally today.
+abstract_source: https://speakerdeck.com/davidortinau/automated-ui-testing-xamarin-testcloud-and-calabash
+abstract_source_label: Speaker Deck description
+slides:
+  also_at:
+  - label: Slides on Speaker Deck
+    url: https://speakerdeck.com/davidortinau/automated-ui-testing-xamarin-testcloud-and-calabash
+recorded: unknown
+same_talk_as: []
+tags:
+- xamarin
+- testing
+- calabash
+- testcloud
+sources:
+- https://speakerdeck.com/davidortinau/automated-ui-testing-xamarin-testcloud-and-calabash

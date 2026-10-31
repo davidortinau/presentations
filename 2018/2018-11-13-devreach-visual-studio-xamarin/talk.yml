@@ -1,0 +1,28 @@
+title: Getting the Most out of Visual Studio and Xamarin for Mobile Developers
+date: 2018-11-13
+event: DevReach 2018
+city: Sofia, Bulgaria
+format: talk
+abstract: |
+  There's never been a better time to jump into mobile development with Xamarin. Microsoft continues to drive innovation for rapidly building Android, iOS, and Windows applications using languages and tools that make you productive. In this session we'll explore the latest additions and improvements in Xamarin, Visual Studio, and App Center for mobile developers. Are you ready to do more?
+abstract_source: https://speakerdeck.com/davidortinau/getting-the-most-out-of-visual-studio-and-xamarin-for-mobile-developers
+abstract_source_label: Speaker Deck
+slides:
+  pdf: slides.pdf
+  notes: reviewed
+  release:
+    tag: 2018-11-13-devreach-visual-studio-xamarin
+    asset: 2018-11-13-devreach-visual-studio-xamarin.pptx
+    mb: 304.6
+  also_at:
+  - label: Slides on Speaker Deck
+    url: https://speakerdeck.com/davidortinau/getting-the-most-out-of-visual-studio-and-xamarin-for-mobile-developers
+  pages: 85
+recorded: unknown
+tags:
+- xamarin
+- visual-studio
+- app-center
+- mobile
+sources:
+- https://speakerdeck.com/davidortinau/getting-the-most-out-of-visual-studio-and-xamarin-for-mobile-developers

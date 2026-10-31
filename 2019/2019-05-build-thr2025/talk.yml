@@ -1,0 +1,30 @@
+title: Craft Stunning Mobile Apps with the Xamarin Visual for Design Systems (THR2025)
+date: 2019-05
+event: Build 2019
+format: session
+slides:
+  pdf: slides.pdf
+  notes: reviewed
+  release:
+    tag: 2019-05-build-thr2025
+    asset: 2019-05-build-thr2025.pptx
+    mb: 54.0
+  pages: 65
+recorded: unknown
+resources:
+- label: Material Visual docs
+  url: https://learn.microsoft.com/en-us/xamarin/xamarin-forms/user-interface/visual/material-visual
+- label: Visual Challenge repo
+  url: https://github.com/davidortinau/VisualChallenge
+- label: Visual Challenge conquered (Xamarin blog)
+  url: https://devblogs.microsoft.com/xamarin/visual-challenge-conquered/
+tags:
+- xamarin
+- xamarin-forms
+- visual
+- material
+- design-systems
+sources:
+- https://learn.microsoft.com/en-us/xamarin/xamarin-forms/user-interface/visual/material-visual
+- https://github.com/davidortinau/VisualChallenge
+- https://devblogs.microsoft.com/xamarin/visual-challenge-conquered/

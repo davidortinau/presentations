@@ -1,0 +1,43 @@
+title: 'Keynote: Xamarin All The Things'
+date: 2020-03
+event: '.NET Conf: Focus on Xamarin 2020'
+format: keynote
+session_url: https://learn.microsoft.com/en-us/shows/dotnetconf-focus-on-xamarin/xamarin-all-the-things
+co_speakers:
+- name: Amanda Silver
+- name: Maddy Leger
+  github: maddymontaquila
+abstract: |
+  Join Maddy, David, and Amanda as they kick off a day full of Xamarin and .NET. Find out what is new and awesome for Xamarin developers to build stunning cross-platform mobile apps with .NET and Visual Studio. You do not want to miss out!
+
+  For more information on Xamarin head over to https://aka.ms/XamarinFocus
+abstract_source: https://learn.microsoft.com/en-us/shows/dotnetconf-focus-on-xamarin/xamarin-all-the-things
+slides:
+  pdf: slides.pdf
+  pages: 57
+recorded: 'yes'
+video:
+- label: Recording on the dotnet YouTube channel
+  url: https://youtu.be/tRNOLKq4_jo
+demos:
+- name: MonkeysRefresh
+  repo: maddymontaquila/MonkeysRefresh
+  branch: xamarin-net-conf
+  commit: 3ea8cd4cbd50eca842a4b7c4936b88e7872cdd0c
+same_talk_as: []
+resources:
+- label: Xamarin Focus event page
+  url: https://aka.ms/XamarinFocus
+- label: XAML Hot Reload docs
+  url: https://aka.ms/XAMLHotReloadDocs
+- label: Hot Restart docs
+  url: https://aka.ms/HotRestartDocs
+tags:
+- xamarin
+- keynote
+- dotnet-conf
+sources:
+- https://learn.microsoft.com/en-us/shows/dotnetconf-focus-on-xamarin/xamarin-all-the-things
+- https://github.com/dotnet-presentations/dotNETConf/blob/main/2020/FocusOnXamarin/Technical/DotnetConf-Xamarin_Keynote.pdf
+- https://youtu.be/tRNOLKq4_jo
+- https://github.com/maddymontaquila/MonkeysRefresh

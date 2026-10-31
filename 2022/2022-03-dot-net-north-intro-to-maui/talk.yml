@@ -1,0 +1,31 @@
+title: Introducing .NET MAUI
+date: 2022-03
+event: Dot Net North, March 2022
+format: talk
+abstract: |
+  MAUI is a cross-platform framework for creating native mobile and desktop apps with C# and XAML.
+abstract_source: https://www.youtube.com/watch?v=rOJtZrMUAIM
+abstract_source_label: official video description
+slides:
+  pdf: slides.pdf
+  notes: reviewed
+  release:
+    tag: 2022-03-dot-net-north-intro-to-maui
+    asset: 2022-03-dot-net-north-intro-to-maui.pptx
+    mb: 47.4
+  pages: 21
+recorded: 'yes'
+video:
+- label: Recording (Dot Net North)
+  url: https://www.youtube.com/watch?v=rOJtZrMUAIM
+same_talk_as: []
+resources:
+- label: dotnet-podcasts sample app
+  url: https://github.com/microsoft/dotnet-podcasts
+- label: WeatherTwentyOne sample app
+  url: https://github.com/davidortinau/WeatherTwentyOne
+tags:
+- maui
+- intro
+sources:
+- https://www.youtube.com/watch?v=rOJtZrMUAIM

@@ -1,0 +1,25 @@
+title: A .NET MAUI Progress Report
+date: 2021-01-28
+event: .NET Frontend Day 2021
+event_url: https://sessionize.com/dotnet-frontend-2021/
+city: Online
+format: talk
+slides:
+  pdf: slides.pdf
+  notes: reviewed
+  release:
+    tag: 2021-01-28-dotnet-frontend-day-maui-progress-report
+    asset: 2021-01-28-dotnet-frontend-day-maui-progress-report.pptx
+    mb: 23.1
+  pages: 69
+recorded: 'yes'
+video:
+- label: Recording (YouTube, Dotnet Frontend Day channel)
+  url: https://www.youtube.com/watch?v=RnyZZKjdUxk
+same_talk_as: []
+tags:
+- maui
+- progress-report
+sources:
+- https://www.youtube.com/watch?v=RnyZZKjdUxk
+- https://sessionize.com/dotnet-frontend-2021/

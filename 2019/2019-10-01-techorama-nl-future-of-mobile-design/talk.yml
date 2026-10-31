@@ -1,0 +1,29 @@
+title: The Future of Mobile Design
+date: 2019-10-01
+time: '11:30'
+length_min: 60
+event: Techorama NL 2019
+venue: Pathé Ede
+city: Ede, Netherlands
+format: talk
+session_url: https://techoramanetherlands2019.sched.com/event/Or9V/the-future-of-mobile-design
+abstract: |
+  Microsoft and Xamarin continue to empower new and innovative experiences on mobiles devices. Will we all be designing with Fabric and Fluent UI? Powering interactions with Azure Cognitive Services, Custom Vision, AI, or Machine Learning? In this session we'll gaze into our crystal ball and bask in the amazing potential of these technologies.
+abstract_source: https://techoramanetherlands2019.sched.com/event/Or9V/the-future-of-mobile-design
+slides:
+  pdf: slides.pdf
+  notes: reviewed
+  release:
+    tag: 2019-10-01-techorama-nl-future-of-mobile-design
+    asset: 2019-10-01-techorama-nl-future-of-mobile-design.pptx
+    mb: 43.2
+  pages: 24
+recorded: unknown
+same_talk_as: []
+tags:
+- xamarin
+- xamarin-forms
+- design
+- mobile-ux
+sources:
+- https://techoramanetherlands2019.sched.com/event/Or9V/the-future-of-mobile-design

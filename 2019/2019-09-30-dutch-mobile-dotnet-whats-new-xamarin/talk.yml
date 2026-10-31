@@ -1,0 +1,35 @@
+title: The Latest and Craziest for Mobile .NET Developers
+date: 2019-09-30
+time: '19:00'
+length_min: 60
+event: Dutch Mobile .NET Developers Group
+event_url: https://www.meetup.com/Dutch-Mobile-NET-Developers-Group/events/262894590/
+venue: Info Support, Kruisboog 42
+city: Veenendaal, Netherlands
+format: talk
+session_url: https://www.meetup.com/Dutch-Mobile-NET-Developers-Group/events/262894590/
+abstract: |
+  Microsoft has been hard at work improving Visual Studio and Xamarin for mobile developers. I’ll demo the latest features you can use to make your dev experience better today. And in the future? Microsoft has some “coming soon” as well as highly experimental projects that are “must see”!
+abstract_source: https://www.meetup.com/Dutch-Mobile-NET-Developers-Group/events/262894590/
+abstract_source_label: Meetup event page
+slides:
+  pdf: slides.pdf
+  notes: reviewed
+  release:
+    tag: 2019-09-30-dutch-mobile-dotnet-whats-new-xamarin
+    asset: 2019-09-30-dutch-mobile-dotnet-whats-new-xamarin.pptx
+    mb: 57.5
+  pages: 25
+recorded: unknown
+same_talk_as: []
+resources:
+- label: Kym Phillpotts on Twitch
+  url: https://www.twitch.tv/kymphillpotts
+tags:
+- xamarin
+- xamarin-forms
+- shell
+- visual-studio
+- androidx
+sources:
+- https://www.meetup.com/Dutch-Mobile-NET-Developers-Group/events/262894590/

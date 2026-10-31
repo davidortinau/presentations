@@ -1,0 +1,27 @@
+title: S109 What's New in Xamarin.Forms?
+date: 2018-09
+event: .NET Conf 2018
+format: session
+session_url: https://learn.microsoft.com/en-us/shows/dotnetconf-2018/s109
+abstract: |
+  Xamarin.Forms has long been the best way for .NET developers to build cross-platform applications for Android, iOS, and Windows, and in 2018 it's gotten even better with the introduction of great new capabilities like CSS, FlexLayout, Visual State Manager, and much more. Come learn what's new!
+abstract_source: https://learn.microsoft.com/en-us/shows/dotnetconf-2018/s109
+recorded: 'yes'
+video:
+- label: S109 - What's New in Xamarin Forms? (Microsoft Visual Studio channel)
+  url: https://www.youtube.com/watch?v=KvGbte1Z_0o
+same_talk_as: []
+tags:
+- xamarin-forms
+- dotnet-conf
+sources:
+- https://learn.microsoft.com/en-us/shows/dotnetconf-2018/s109
+- https://www.youtube.com/watch?v=KvGbte1Z_0o
+slides:
+  pdf: slides.pdf
+  notes: reviewed
+  release:
+    tag: 2018-09-dotnet-conf-whats-new-xamarin-forms
+    asset: 2018-09-dotnet-conf-whats-new-xamarin-forms.pptx
+    mb: 196.0
+  pages: 50

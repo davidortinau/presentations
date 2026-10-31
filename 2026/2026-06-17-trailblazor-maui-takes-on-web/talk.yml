@@ -1,0 +1,40 @@
+title: .NET MAUI Takes on Web and More
+date: 2026-06-17
+time: 13:00 ET
+length_min: 60
+event: TrailBlazor 2026
+event_url: https://trailblazor.net/
+city: Online
+format: talk
+session_url: https://trailblazor.net/
+abstract: |
+  Blazor has conquered the browser, and by the power of .NET is bringing joy to desktop and mobile as well through partnership with .NET MAUI. Now what is .NET MAUI’s take on the web? The answer today may shock you. We’ll talk about that and show you some of the amazing things you can now do with .NET MAUI that you couldn’t just a few short months ago.
+abstract_source: https://trailblazor.net/
+abstract_source_label: TrailBlazor 2026 schedule
+recorded: 'yes'
+video:
+- label: Recording on YouTube (Devessence)
+  url: https://youtu.be/b9siFlZE6XQ
+tags:
+- maui
+- blazor
+- blazor-hybrid
+- web
+sources:
+- https://trailblazor.net/
+- https://youtu.be/b9siFlZE6XQ
+slides:
+  pdf: slides.pdf
+  notes: reviewed
+  release:
+    tag: 2026-06-17-trailblazor-maui-takes-on-web
+    asset: 2026-06-17-trailblazor-maui-takes-on-web.pptx
+    mb: 14.5
+  pages: 20
+resources:
+- label: dotnet/maui-labs (DevFlow, maui CLI)
+  url: https://github.com/dotnet/maui-labs
+- label: MAUI Sherpa
+  url: https://github.com/Redth/MAUI.Sherpa
+- label: SentenceStudio
+  url: https://github.com/davidortinau/SentenceStudio

@@ -1,0 +1,23 @@
+title: 'Comet: A .NET UI Experiment, and Xamarin.Forms Features'
+date: 2019-09
+event: '#XamarinSaturday (TO Mobile Devs)'
+city: Toronto, Canada
+format: talk
+abstract: |-
+  C# is beloved. .NET is beloved. Visual Studio is beloved. Productivity is… beloved. What might the next iteration of a cross-platform UI framework look like for .NET developers that want to reach mobile, desktop, web, and… well, all the places that .NET runs? Let’s look at one such experiment to try it on for size.
+
+  Xamarin is a maturing, powerful, and extremely flexible set of .NET technologies that you are not using to its full potential. By understanding the rules of this universe, your eyes will be opened to the incredible possibilities for your companies and your customers. It’s one thing to share more code, but how might you share more .NET code to your Swift, Obj-C, Java, Kotlin coworkers? And what about UI in this ever increasing market of devices and operating systems?
+abstract_source: https://www.youtube.com/watch?v=pnZQosclItg
+abstract_source_label: 'Official video descriptions (TO Mobile Devs channel): Comet video, then Xamarin Forms Features video'
+recorded: 'yes'
+video:
+- url: https://www.youtube.com/watch?v=pnZQosclItg
+  title: '#XamarinSaturday: Comet - A .NET UI Experiment - David Ortinau'
+- url: https://www.youtube.com/watch?v=sQARDifSc6k
+  title: '#XamarinSaturday: Xamarin Forms Features - David Ortinau'
+resources:
+- label: Comet (Clancey/Comet)
+  url: https://github.com/Clancey/Comet
+sources:
+- https://www.youtube.com/watch?v=pnZQosclItg
+- https://www.youtube.com/watch?v=sQARDifSc6k

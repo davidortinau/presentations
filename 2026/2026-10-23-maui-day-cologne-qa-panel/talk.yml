@@ -1,0 +1,27 @@
+title: .NET MAUI Q&A Panel
+date: '2026-10-23'
+time: '16:40'
+length_min: 50
+event: MAUI Day Cologne 2026
+event_url: https://mauiday.net/
+venue: Microsoft, Cologne Office
+city: Cologne, Germany
+format: panel
+session_url: https://mauiday.net/archive/cologne-2026
+abstract: |
+  This is your chance to put your burning questions to the MAUI team.
+abstract_source: https://mauiday.net/archive/cologne-2026
+abstract_source_label: MAUI Day archive page
+co_speakers:
+- name: Gerald Versluis
+- name: Stéphane Delcroix
+- name: Simon Rozsival
+- name: Maddy Montaquila
+  github: maddymontaquila
+recorded: unknown
+same_talk_as: []
+tags:
+- maui
+- panel
+sources:
+- https://mauiday.net/archive/cologne-2026
