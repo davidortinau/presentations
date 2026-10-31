@@ -21,6 +21,7 @@ import os
 import re
 import subprocess
 import sys
+import time
 import urllib.error
 import urllib.parse
 import urllib.request
@@ -381,14 +382,29 @@ def urls_of(t):
     return [u for u in urls if u]
 
 
+TRANSIENT = {500, 502, 503, 504, "TimeoutError", "URLError", "RemoteDisconnected", "ConnectionResetError"}
+
+
 def url_ok(url):
-    """True when the URL resolves, False when it is broken, None when the site blocks automated checks."""
+    """True when the URL resolves, False when it is broken, None when the site blocks automated checks.
+
+    Slow or briefly failing sites (sched.com pages can take 20 seconds) get one retry."""
     if re.search(r"youtube\.com/watch|youtu\.be/", url):
         url = "https://www.youtube.com/oembed?format=json&url=" + urllib.parse.quote(url, safe="")
+    result = (False, "?")
+    for attempt in (1, 2):
+        result = url_try(url)
+        if result[0] is not False or result[1] not in TRANSIENT:
+            return result
+        time.sleep(5)
+    return result
+
+
+def url_try(url):
     for method in ("HEAD", "GET"):
         req = urllib.request.Request(url, method=method, headers={"User-Agent": "Mozilla/5.0 (talk-catalog link check)"})
         try:
-            with urllib.request.urlopen(req, timeout=20) as r:
+            with urllib.request.urlopen(req, timeout=45) as r:
                 return r.status < 400, r.status
         except urllib.error.HTTPError as e:
             if method == "HEAD" and e.code in (401, 403, 405, 429, 999):
